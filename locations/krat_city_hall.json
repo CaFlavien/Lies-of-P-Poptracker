@@ -1,0 +1,95 @@
+[
+  {
+    "name": "Krat City Hall",
+    "children": [
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Krat City Hall - Locations/Behind Police Puppet"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat City Hall", "x": 470, "y": 1565 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+            {
+                "ref":"Krat City Hall - Locations/infront Locked Shortcut Gate"
+            }
+        ],
+        "map_locations": [
+            { "map": "Krat City Hall", "x": 400, "y": 1290 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+            {
+                "ref":"Krat City Hall - Locations/In Corner"
+            }
+        ],
+        "map_locations": [
+            { "map": "Krat City Hall", "x": 320, "y": 1080 }
+        ]
+      },
+      {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+            {
+                "ref":"Krat City Hall - Locations/On Corpse"
+            }
+        ],
+        "map_locations": [
+            { "map": "Krat City Hall", "x": 670, "y": 1395 }
+        ]
+      },
+      {
+        "name": "Krat News Issue 1124",
+        "sections": [
+            {
+                "ref":"Krat City Hall - Locations/On Puppet Corpse"
+            }
+        ],
+        "map_locations": [
+            { "map": "Krat City Hall", "x": 390, "y": 635 }
+        ]
+      },
+      {
+        "name": "Puppet Destroyer Amulet",
+        "sections": [
+            {
+                "ref":"Krat City Hall - Locations/In Chest"
+            }
+        ],
+        "map_locations": [
+            { "map": "Krat City Hall", "x": 405, "y": 215 }
+        ]
+      },
+      {
+        "name": "Broken Baby Puppet",
+        "sections": [
+            {
+                "ref":"Krat City Hall - Locations/Behind Mini Boss"
+            }
+        ],
+        "map_locations": [
+            { "map": "Krat City Hall", "x": 885, "y": 610 }
+        ]
+      },
+      {
+        "name": "Venigni's Guide",
+        "sections": [
+            {
+                "ref":"Krat City Hall - Locations/In Hall"
+            }
+        ],
+        "map_locations": [
+            { "map": "Krat City Hall", "x": 1360, "y": 250 }
+        ]
+      }
+    ]
+  }
+]

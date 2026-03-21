@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Workshop Union Entrance",
+    "children": [
+      {
+        "name": "Throwing Cell",
+        "sections": [{ "ref": "Workshop Union EntranceE - Locations/Beside Puppet on Bodies" }],
+        "map_locations": [{ "map": "Workshop Union Entrance", "x": 330, "y": 915 }]
+      },
+      {
+        "name": "Miracle Care",
+        "sections": [{ "ref": "Workshop Union Entrance - Locations/Overlooking Houses" }],
+        "map_locations": [{ "map": "Workshop Union Entrance", "x": 780, "y": 1290 }]
+      },
+      {
+        "name": "Attribute Resistance Fragment",
+        "sections": [{ "ref": "Workshop Union Entrance - Locations/In Corner" }],
+        "map_locations": [
+          { "map": "Workshop Union Entrance", "x": 940, "y": 1245 }
+        ]
+      },
+      {
+        "name": "Special Resistance Fragment",
+        "sections": [{ "ref": "Workshop Union Entrance - Locations/House Alley" }],
+        "map_locations": [
+          { "map": "Workshop Union Entrance", "x": 1120, "y": 1210 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          { "ref": "Workshop Union Entrance - Locations/Next to Bomb Puppet" }
+        ],
+        "map_locations": [{ "map": "Workshop Union Entrance", "x": 1060, "y": 1130 }]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [{ "ref": "Workshop Union Entrance - Locations/Next to Trees" }],
+        "map_locations": [
+            { "map": "Workshop Union Entrance", "x": 690, "y": 710 }
+        ]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [{ "ref": "Workshop Union Entrance - Locations/On Boxes" }],
+        "map_locations": [
+            { "map": "Workshop Union Entrance", "x": 1140, "y": 645 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [{ "ref": "Workshop Union Entrance - Locations/Behind Boxes" }],
+        "map_locations": [
+          { "map": "Workshop Union Entrance", "x": 1880, "y": 660 }
+        ]
+      },
+      {
+        "name": "Legion Magazine",
+        "sections": [{ "ref": "Workshop Union Entrance - Locations/Under Stairs" }],
+        "map_locations": [
+          { "map": "Workshop Union Entrance", "x": 1460, "y": 245 }
+        ]
+      }
+    ]
+  }
+]
