@@ -4,7 +4,7 @@
     "children": [
       {
         "name": "Throwing Cell",
-        "sections": [{ "ref": "Workshop Union EntranceE - Locations/Beside Puppet on Bodies" }],
+        "sections": [{ "ref": "Workshop Union Entrance - Locations/Beside Puppet on Bodies" }],
         "map_locations": [{ "map": "Workshop Union Entrance", "x": 330, "y": 915 }]
       },
       {
