@@ -18,6 +18,8 @@ Tracker:AddLocations("locations/hotel_krat_entrance.json")
 Tracker:AddLocations("locations/logics/hotel_krat_entrance.json")
 Tracker:AddLocations("locations/hotel_krat_main_floor.json")
 Tracker:AddLocations("locations/logics/hotel_krat_main_floor.json")
+Tracker:AddLocations("locations/hotel_krat_upper_floor.json")
+Tracker:AddLocations("locations/logics/hotel_krat_upper_floor.json")
 
 -- Elysion Boulevard
 Tracker:AddLocations("locations/ch02_elysion_boulevard.json")
@@ -26,3 +28,7 @@ Tracker:AddLocations("locations/logics/ch02_elysion_boulevard.json")
 -- Elysion Boulevard - Alchemist Bridge
 Tracker:AddLocations("locations/ch02_elysion_boulevard_alchemist_bridge.json")
 Tracker:AddLocations("locations/logics/ch02_elysion_boulevard_alchemist_bridge.json")
+
+-- Krat City Hall
+Tracker:AddLocations("locations/ch02_krat_city_hall.json")
+Tracker:AddLocations("locations/logics/ch02_krat_city_hall.json")

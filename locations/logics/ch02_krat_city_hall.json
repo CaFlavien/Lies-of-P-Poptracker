@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Krat City Hall - Locations",
+    "access_rules": ["key_cityhall"],
+    "sections": [
+      {
+        "name": "lamp near electric trap",
+        "access_rules": []
+      },
+      {
+        "name": "corpse by a wagon",
+        "access_rules": []
+      },
+      {
+        "name": "before opening shortcut",
+        "access_rules": []
+      },
+      {
+        "name": "after opening shortcut",
+        "access_rules": []
+      },
+      {
+        "name": "left before Scapped Watchman",
+        "access_rules": []
+      },
+      {
+        "name": "chest before Scrapped Watchman",
+        "access_rules": []
+      },
+      {
+        "name": "Overcharged Storage Battery",
+        "access_rules": []
+      },
+      {
+        "name": "Broken Hero's Ergo",
+        "access_rules": []
+      },
+      {
+        "name": "Core",
+        "access_rules": []
+      },
+      {
+        "name": "Quartz",
+        "access_rules": []
+      },
+      {
+        "name": "Small Wooden Officer Puppet",
+        "access_rules": []
+      },
+      {
+        "name": "after Scrapped Watchman",
+        "access_rules": []
+      }
+    ]
+  }
+]

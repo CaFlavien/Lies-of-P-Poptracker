@@ -24,6 +24,12 @@
     "img": "images/maps/elysion_boulevard_alchemist_bridge.png"
   },
   {
+    "name": "Krat City Hall",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/krat_city_hall.png"
+  },
+  {
     "name": "Hotel Krat - Entrance",
     "location_size": 12,
     "location_border_thickness": 2,

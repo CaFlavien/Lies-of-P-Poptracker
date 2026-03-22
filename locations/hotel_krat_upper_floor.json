@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Hotel Krat Upper Floor",
+    "children": [
+      {
+        "name": "Krat City Hall Courtyard Key",
+        "sections": [
+          {
+            "ref": "Hotel Krat Upper Floor - Locations/from Gepetto after Scrapped Watchman"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hotel Krat - Upper Floor", "x": 1005, "y": 1345 }
+        ]
+      }
+    ]
+  }
+]

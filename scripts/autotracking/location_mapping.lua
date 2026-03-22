@@ -102,4 +102,20 @@ LOCATION_MAPPING = {
     [ 65] = { "@Elysion Boulevard Alchemist Bridge - Locations/Enigma Assembly Tool" },
     [ 66] = { "@Elysion Boulevard Alchemist Bridge - Locations/wagon at end of the bridge" },
 
+    -- =========================================================
+    -- Krat City Hall (IDs 67-78)
+    -- =========================================================
+    [ 67] = { "@Krat City Hall - Locations/lamp near electric trap" },
+    [ 68] = { "@Krat City Hall - Locations/corpse by a wagon" },
+    [ 69] = { "@Krat City Hall - Locations/before opening shortcut" },
+    [ 70] = { "@Krat City Hall - Locations/after opening shortcut" },
+    [ 71] = { "@Krat City Hall - Locations/left before Scapped Watchman" },
+    [ 72] = { "@Krat City Hall - Locations/chest before Scrapped Watchman" },
+    [ 73] = { "@Krat City Hall - Locations/Overcharged Storage Battery" },
+    [ 74] = { "@Krat City Hall - Locations/Broken Hero's Ergo" },
+    [ 75] = { "@Krat City Hall - Locations/Core" },
+    [ 76] = { "@Krat City Hall - Locations/Quartz" },
+    [ 77] = { "@Krat City Hall - Locations/Small Wooden Officer Puppet" },
+    [ 78] = { "@Krat City Hall - Locations/after Scrapped Watchman" },
+
 }

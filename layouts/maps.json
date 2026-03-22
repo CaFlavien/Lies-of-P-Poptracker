@@ -36,6 +36,13 @@
                 "type": "map",
                 "maps": ["Elysion Boulevard Alchemist Bridge"]
               }
+            },
+            {
+              "title": "KCH",
+              "content": {
+                "type": "map",
+                "maps": ["Krat City Hall"]
+              }
             }
           ]
         }
