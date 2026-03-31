@@ -23,6 +23,9 @@ AUTOTAB_PREFIX_MAP = {
     ["@Hotel Krat Upper Floor - Locations/"] = { "Hotel Krat", "Upper Floor"  },
     ["@Elysion Boulevard - Locations/"] = { "Ch02", "EB" },
     ["@Elysion Boulevard Alchemist Bridge - Locations/"] = { "Ch02", "EB: Alchemist Bridge" },
+    ["@Venigni Works Control Room - Locations/"] = { "Ch03", "Venigni Works Control Room" },
+    ["@Workshop Union Culvert - Locations/"] = { "Ch03", "Workshop Union Culvert" },
+    
 }
 
 -- Surcharge par location_id (utile quand plusieurs floors partagent le même préfixe)

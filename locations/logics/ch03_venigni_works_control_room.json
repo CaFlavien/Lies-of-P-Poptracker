@@ -4,7 +4,39 @@
     "access_rules": ["key_cityhall_courtyard"],
     "sections": [
       {
-        "name": "King's Flame Ergo",
+        "name": "lower right platform near Shovel elite",
+        "access_rules": []
+      },
+      {
+        "name": "upstairs towards Venigni",
+        "access_rules": []
+      },
+      {
+        "name": "on metal beams towards Fuoco",
+        "access_rules": []
+      },
+      {
+        "name": "upper left platform near Venigni",
+        "access_rules": []
+      },
+      {
+        "name": "upper right platform near Venigni",
+        "access_rules": []
+      },
+      {
+        "name": "jump on the metal beams",
+        "access_rules": []
+      },
+      {
+        "name": "lower right platform near Venigni",
+        "access_rules": []
+      },
+      {
+        "name": "Workshop Union Standard Radiation Converter",
+        "access_rules": []
+      },
+      {
+        "name": "Hidden Moonstone",
         "access_rules": []
       },
       {
@@ -12,35 +44,11 @@
         "access_rules": []
       },
       {
+        "name": "King's Flame Ergo",
+        "access_rules": []
+      },
+      {
         "name": "Flame Grindstone",
-        "access_rules": []
-      },
-      {
-        "name": "Left side of room",
-        "access_rules": []
-      },
-      {
-        "name": "Central small room",
-        "access_rules": []
-      },
-      {
-        "name": "Upper right room",
-        "access_rules": []
-      },
-      {
-        "name": "Far right corridor",
-        "access_rules": []
-      },
-      {
-        "name": "Lower right corridor",
-        "access_rules": []
-      },
-      {
-        "name": "Lower central path",
-        "access_rules": []
-      },
-      {
-        "name": "Lower left area near large chamber",
         "access_rules": []
       }
     ]

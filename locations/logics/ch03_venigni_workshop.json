@@ -4,51 +4,51 @@
     "access_rules": ["key_cityhall_courtyard"],
     "sections": [
       {
-        "name": "upper left room near ladder",
+        "name": "near Workshop Union Entrance stargazer",
         "access_rules": []
       },
       {
-        "name": "left building ground floor",
+        "name": "upstairs from Workshop Union Entrance stargazer",
         "access_rules": []
       },
       {
-        "name": "left side note collectible",
+        "name": "safe after a dropdown",
         "access_rules": []
       },
       {
-        "name": "central upper room",
+        "name": "behind where the floor can fall",
         "access_rules": []
       },
       {
-        "name": "top right room",
+        "name": "chest inside the warehouse",
         "access_rules": []
       },
       {
-        "name": "central combat arena",
+        "name": "left side warehouse",
         "access_rules": []
       },
       {
-        "name": "right side of central arena",
+        "name": "warehouse upper area",
         "access_rules": []
       },
       {
-        "name": "lower central hallway",
+        "name": "corner before Shield Puppet",
         "access_rules": []
       },
       {
-        "name": "right side room",
+        "name": "room upstairs next to the hanging puppets",
         "access_rules": []
       },
       {
-        "name": "lower right area near mechanism",
+        "name": "beneath the hanging puppets",
         "access_rules": []
       },
       {
-        "name": "top right corner",
+        "name": "upstairs next to the hanging puppets",
         "access_rules": []
       },
       {
-        "name": "far right side",
+        "name": "other side of pipe shortcut",
         "access_rules": []
       }
     ]

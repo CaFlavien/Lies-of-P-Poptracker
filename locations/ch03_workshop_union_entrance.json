@@ -4,24 +4,44 @@
     "children": [
       {
         "name": "Throwing Cell",
-        "sections": [{ "ref": "Workshop Union Entrance - Locations/Beside Puppet on Bodies" }],
-        "map_locations": [{ "map": "Workshop Union Entrance", "x": 330, "y": 915 }]
-      },
-      {
-        "name": "Miracle Care",
-        "sections": [{ "ref": "Workshop Union Entrance - Locations/Overlooking Houses" }],
-        "map_locations": [{ "map": "Workshop Union Entrance", "x": 780, "y": 1290 }]
-      },
-      {
-        "name": "Attribute Resistance Fragment",
-        "sections": [{ "ref": "Workshop Union Entrance - Locations/In Corner" }],
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/wagon after opening door"
+          }
+        ],
         "map_locations": [
-          { "map": "Workshop Union Entrance", "x": 940, "y": 1245 }
+          { "map": "Workshop Union Entrance", "x": 330, "y": 915 }
         ]
       },
       {
-        "name": "Special Resistance Fragment",
-        "sections": [{ "ref": "Workshop Union Entrance - Locations/House Alley" }],
+        "name": "Miracle Cure",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/left side before roofs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Entrance", "x": 780, "y": 1290 }
+        ]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/dead-end down ladder from red rooftops"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Entrance", "x": 741, "y": 1240 }
+        ]
+      },
+      {
+        "name": "Special Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/ladder from red rooftops, down"
+          }
+        ],
         "map_locations": [
           { "map": "Workshop Union Entrance", "x": 1120, "y": 1210 }
         ]
@@ -29,34 +49,52 @@
       {
         "name": "Vivid Ergo Fragment",
         "sections": [
-          { "ref": "Workshop Union Entrance - Locations/Next to Bomb Puppet" }
+          { "ref": "Workshop Union Entrance - Locations/red rooftop" }
         ],
-        "map_locations": [{ "map": "Workshop Union Entrance", "x": 1060, "y": 1130 }]
+        "map_locations": [
+          { "map": "Workshop Union Entrance", "x": 1060, "y": 1130 }
+        ]
       },
       {
         "name": "Fable Catalyst",
-        "sections": [{ "ref": "Workshop Union Entrance - Locations/Next to Trees" }],
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/destructible boxes at a side path"
+          }
+        ],
         "map_locations": [
-            { "map": "Workshop Union Entrance", "x": 690, "y": 710 }
+          { "map": "Workshop Union Entrance", "x": 690, "y": 710 }
         ]
       },
       {
         "name": "Gemini's Emergency Protection",
-        "sections": [{ "ref": "Workshop Union Entrance - Locations/On Boxes" }],
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/destructible boxes before bridge"
+          }
+        ],
         "map_locations": [
-            { "map": "Workshop Union Entrance", "x": 1140, "y": 645 }
+          { "map": "Workshop Union Entrance", "x": 1140, "y": 645 }
         ]
       },
       {
         "name": "Radiant Ergo Fragment",
-        "sections": [{ "ref": "Workshop Union Entrance - Locations/Behind Boxes" }],
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/destructible boxes by the phone riddle"
+          }
+        ],
         "map_locations": [
           { "map": "Workshop Union Entrance", "x": 1880, "y": 660 }
         ]
       },
       {
         "name": "Legion Magazine",
-        "sections": [{ "ref": "Workshop Union Entrance - Locations/Under Stairs" }],
+        "sections": [
+          {
+            "ref": "Workshop Union Entrance - Locations/staircase after bridge"
+          }
+        ],
         "map_locations": [
           { "map": "Workshop Union Entrance", "x": 1460, "y": 245 }
         ]

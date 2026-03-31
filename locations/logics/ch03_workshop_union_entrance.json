@@ -4,39 +4,39 @@
     "access_rules": ["key_cityhall_courtyard"],
     "sections": [
       {
-        "name": "Beside Puppet on Bodies",
+        "name": "wagon after opening door",
         "access_rules": []
       },
       {
-        "name": "Overlooking Houses",
+        "name": "left side before roofs",
         "access_rules": []
       },
       {
-        "name": "In Corner",
+        "name": "red rooftop",
         "access_rules": []
       },
       {
-        "name": "House Alley",
+        "name": "ladder from red rooftops, down",
         "access_rules": []
       },
       {
-        "name": "Next to Bomb Puppet",
+        "name": "dead-end down ladder from red rooftops",
         "access_rules": []
       },
       {
-        "name": "Next to Trees",
+        "name": "destructible boxes at a side path",
         "access_rules": []
       },
       {
-        "name": "On Boxes",
+        "name": "destructible boxes before bridge",
         "access_rules": []
       },
       {
-        "name": "Behind Boxes",
+        "name": "destructible boxes by the phone riddle",
         "access_rules": []
       },
       {
-        "name": "Under Stairs",
+        "name": "staircase after bridge",
         "access_rules": []
       }
     ]
