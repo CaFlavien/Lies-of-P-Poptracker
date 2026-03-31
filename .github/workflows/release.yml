@@ -20,6 +20,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Nécessaire pour lire tous les tags existants
+          token: ${{ secrets.RELEASE_TOKEN }} # PAT pour bypasser la protection de branche
 
       # 2. Calcul du prochain tag (incrémente le patch : v0.0.1 → v0.0.2)
       - name: Compute next version tag
@@ -46,7 +47,7 @@ jobs:
           echo "New tag: $NEW_TAG"
           echo "new_tag=$NEW_TAG" >> "$GITHUB_OUTPUT"
 
-      # 3. Mise à jour de la version dans manifest.json
+      # 3. Mise à jour de la version dans manifest.json (uniquement pour le ZIP)
       - name: Update version in manifest.json
         run: |
           NEW_VERSION="${{ steps.version.outputs.new_tag }}"
