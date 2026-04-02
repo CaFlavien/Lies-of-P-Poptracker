@@ -316,7 +316,7 @@ LOCATION_MAPPING = {
     [239] = { "@Path of the Pilgrim - Locations/up ladder in parkour section" },
     [240] = { "@Path of the Pilgrim - Locations/ledge in parkour section" },
 
-}   -- =========================================================
+    -- =========================================================
     -- Malum District (IDs 241-277, 280-282)
     -- =========================================================
     
@@ -360,6 +360,8 @@ LOCATION_MAPPING = {
     [280] = { "@Malum District - Locations/hanging puppet" },
     [281] = { "@Malum District - Locations/chest in Black Rabbit Brotherhood hideout" },
     [282] = { "@Malum District - Locations/upstairs in Black Rabbit Brotherhood hideout" },
+
+}
 
 
 
