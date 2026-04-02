@@ -1,116 +1,116 @@
 [
-    {
-      "name": "Path of the Pilgrim - Locations",
-      "access_rules": ["boss_andreus"],
-      "sections": [
-        {
-            "name": "carcass dog and a bear trap",
-            "access_rules": []
-        },
-        {
-            "name": "upper ledge near Path of the Pilgrim stargazer",
-            "access_rules": []
-        },
-        {
-            "name": "barrel fire",
-            "access_rules": []
-        },
-        {
-            "name": "chest with carcass enemy ambush",
-            "access_rules": []
-        },
-        {
-            "name": "barrel fire with a Carcass dog ambush",
-            "access_rules": []
-        },
-        {
-            "name": "beneath the carcass bear before bear traps",
-            "access_rules": []
-        },
-        {
-            "name": "beneath the carcass bear after bear traps",
-            "access_rules": []
-        },
-         {
-            "name": "beneath the carcass bear on corpse",
-            "access_rules": []
-        },
-        {
-            "name": "Purple Butterfly drop",
-            "access_rules": []
-        },
-        {
-            "name": "pound left side",
-            "access_rules": []
-        },
-        {
-            "name": "pound right side",
-            "access_rules": []
-        },
-        {
-            "name": "right shack near entrance",
-            "access_rules": []
-        },
-        {
-            "name": "left side near entrance",
-            "access_rules": []
-        },
-        {
-            "name": "wood beam on roofs",
-            "access_rules": []
-        },
-        {
-            "name": "corpse near a counter",
-            "access_rules": []
-        },
-        {
-            "name": "elevator shortcut drop off",
-            "access_rules": []
-        },
-        {
-            "name": "top of elevator shortcut",
-            "access_rules": []
-        },
-        {
-            "name": "Carcass Elite drop",
-            "access_rules": []
-        },
-        {
-            "name": "corpse near Carcass Elite",
-            "access_rules": []
-        },
-        {
-            "name": "chest inside slum shack",
-            "access_rules": []
-        },
-        {
-            "name": "outside robber shack",
-            "access_rules": []
-        },
-        {
-            "name": "dropdown beneath the bridge",
-            "access_rules": []
-        },
-        {
-            "name": "beneath the bridge",
-            "access_rules": []
-        },
-        {
-            "name": "corpse near barrel fire",
-            "access_rules": []
-        },
-        {
-            "name": "by destructable boxes",
-            "access_rules": []
-        },
-        {
-            "name": "up ladder in parkour section",
-            "access_rules": []
-        },
-        {
-            "name": "ledge in parkour section",
-            "access_rules": []
-        }
+  {
+    "name": "Path of the Pilgrim - Locations",
+    "access_rules": ["key_cable_railway, boss_andreus"],
+    "sections": [
+      {
+        "name": "carcass dog and a bear trap",
+        "access_rules": []
+      },
+      {
+        "name": "upper ledge near Path of the Pilgrim stargazer",
+        "access_rules": []
+      },
+      {
+        "name": "barrel fire",
+        "access_rules": []
+      },
+      {
+        "name": "chest with carcass enemy ambush",
+        "access_rules": []
+      },
+      {
+        "name": "barrel fire with a Carcass dog ambush",
+        "access_rules": []
+      },
+      {
+        "name": "beneath the carcass bear before bear traps",
+        "access_rules": []
+      },
+      {
+        "name": "beneath the carcass bear after bear traps",
+        "access_rules": []
+      },
+      {
+        "name": "beneath the carcass bear on corpse",
+        "access_rules": []
+      },
+      {
+        "name": "Purple Butterfly drop",
+        "access_rules": []
+      },
+      {
+        "name": "pound left side",
+        "access_rules": []
+      },
+      {
+        "name": "pound right side",
+        "access_rules": []
+      },
+      {
+        "name": "right shack near entrance",
+        "access_rules": []
+      },
+      {
+        "name": "left side near entrance",
+        "access_rules": []
+      },
+      {
+        "name": "wood beam on roofs",
+        "access_rules": []
+      },
+      {
+        "name": "corpse near a counter",
+        "access_rules": []
+      },
+      {
+        "name": "elevator shortcut drop off",
+        "access_rules": []
+      },
+      {
+        "name": "top of elevator shortcut",
+        "access_rules": []
+      },
+      {
+        "name": "Carcass Elite drop",
+        "access_rules": []
+      },
+      {
+        "name": "corpse near Carcass Elite",
+        "access_rules": []
+      },
+      {
+        "name": "chest inside slum shack",
+        "access_rules": ["key_slum_shack"]
+      },
+      {
+        "name": "outside robber shack",
+        "access_rules": []
+      },
+      {
+        "name": "dropdown beneath the bridge",
+        "access_rules": []
+      },
+      {
+        "name": "beneath the bridge",
+        "access_rules": []
+      },
+      {
+        "name": "corpse near barrel fire",
+        "access_rules": []
+      },
+      {
+        "name": "by destructable boxes",
+        "access_rules": []
+      },
+      {
+        "name": "up ladder in parkour section",
+        "access_rules": []
+      },
+      {
+        "name": "ledge in parkour section",
+        "access_rules": []
+      }
     ]
-}
+  }
 ]

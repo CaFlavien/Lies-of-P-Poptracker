@@ -1,9 +1,9 @@
 [
   {
     "name": "Malum District - Locations",
-    "access_rules": ["boss_andreus"],
+    "access_rules": ["key_cable_railway,boss_andreus"],
     "sections": [
-        {
+      {
         "name": "metal gate a carcass dog breaks",
         "access_rules": []
       },
@@ -163,6 +163,6 @@
         "name": "upstairs in Black Rabbit Brotherhood hideout",
         "access_rules": []
       }
-        ]
+    ]
   }
 ]
