@@ -1,7 +1,7 @@
 [
     {
       "name": "Path of the Pilgrim - Locations",
-      "access_rules": ["key_cityhall_courtyard"],
+      "access_rules": ["boss_andreus"],
       "sections": [
         {
             "name": "carcass dog and a bear trap",
@@ -29,6 +29,10 @@
         },
         {
             "name": "beneath the carcass bear after bear traps",
+            "access_rules": []
+        },
+         {
+            "name": "beneath the carcass bear on corpse",
             "access_rules": []
         },
         {
@@ -89,6 +93,22 @@
         },
         {
             "name": "beneath the bridge",
+            "access_rules": []
+        },
+        {
+            "name": "corpse near barrel fire",
+            "access_rules": []
+        },
+        {
+            "name": "by destructable boxes",
+            "access_rules": []
+        },
+        {
+            "name": "up ladder in parkour section",
+            "access_rules": []
+        },
+        {
+            "name": "ledge in parkour section",
             "access_rules": []
         }
     ]

@@ -66,6 +66,14 @@
       {
         "name": "chest inside a cell",
         "access_rules": []
+      },
+      {
+        "name": "Black Cat's Amulet",
+        "access_rules": ["key_trinity"]
+      },
+      {
+        "name": "Moster Sweeper's Hunting Apparel",
+        "access_rules": ["key_trinity"]
       }
     ]
   }

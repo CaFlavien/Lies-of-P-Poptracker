@@ -57,6 +57,7 @@ LOCATION_MAPPING = {
     [ 28] = { "@Hotel Krat Entrance - Locations/pile of corpses before Hotel Krat door" },
     [ 29] = { "@Hotel Krat Main Floor - Locations/table near Antonia" },
     [ 79] = { "@Hotel Krat Upper Floor - Locations/from Gepetto after Scrapped Watchman" },
+    [ 283] = { "@Hotel Krat Main Floor - Locations/given by Antonia" },
 
     -- =========================================================
     -- Elysion Boulevard (IDs 30-61, 194-195)
@@ -238,7 +239,7 @@ LOCATION_MAPPING = {
     [177] = { "@Path of Misery - Locations/end of bridge to St. Frangelico Cathedral Chapel" },
 
     -- =========================================================
-    -- St. Frangelico Cathedral Chapel (IDs 178-193)
+    -- St. Frangelico Cathedral Chapel (IDs 178-193, 278-279)
     -- =========================================================
 
     [178] = { "@St. Frangelico Cathedral Chapel - Locations/seat infront of organ" },
@@ -257,6 +258,8 @@ LOCATION_MAPPING = {
     [191] = { "@St. Frangelico Cathedral Chapel - Locations/Shielded Carcass elite enemy drop" },
     [192] = { "@St. Frangelico Cathedral Chapel - Locations/up ladder near Shielded Carcass elite" },
     [193] = { "@St. Frangelico Cathedral Chapel - Locations/chest inside a cell" },
+    [278] = { "@St. Frangelico Cathedral Chapel - Locations/Black Cat's Amulet" },
+    [279] = { "@St. Frangelico Cathedral Chapel - Locations/Moster Sweeper's Hunting Apparel" },
 
     -- =========================================================
     -- St. Frangelico Cathedral Library (IDs 196-213)
@@ -280,4 +283,84 @@ LOCATION_MAPPING = {
     [211] = { "@St. Frangelico Cathedral Library - Locations/above St. Frangelico Cathedral Library stargazer" },
     [212] = { "@St. Frangelico Cathedral Library - Locations/Fallen Archbishop Andreus drop" },
     [213] = { "@St. Frangelico Cathedral Library - Locations/after the elevator from Archbishop" },
-}
+
+    -- =========================================================
+    -- Path of the Pilgrim (IDs 214-240)
+    -- =========================================================
+
+    [214] = { "@Path of the Pilgrim - Locations/carcass dog and a bear trap" },
+    [215] = { "@Path of the Pilgrim - Locations/upper ledge near Path of the Pilgrim stargazer" },
+    [216] = { "@Path of the Pilgrim - Locations/barrel fire" },
+    [217] = { "@Path of the Pilgrim - Locations/chest with carcass enemy ambush" },
+    [218] = { "@Path of the Pilgrim - Locations/barrel fire with a Carcass dog ambush" },
+    [219] = { "@Path of the Pilgrim - Locations/beneath the carcass bear before bear traps" },
+    [220] = { "@Path of the Pilgrim - Locations/beneath the carcass bear after bear traps" },
+    [221] = { "@Path of the Pilgrim - Locations/beneath the carcass bear on corpse" },
+    [222] = { "@Path of the Pilgrim - Locations/Purple Butterfly drop" },
+    [223] = { "@Path of the Pilgrim - Locations/pound left side" },
+    [224] = { "@Path of the Pilgrim - Locations/pound right side" },
+    [225] = { "@Path of the Pilgrim - Locations/right shack near entrance" },
+    [226] = { "@Path of the Pilgrim - Locations/left side near entrance" },
+    [227] = { "@Path of the Pilgrim - Locations/wood beam on roofs" },
+    [228] = { "@Path of the Pilgrim - Locations/corpse near a counter" },
+    [229] = { "@Path of the Pilgrim - Locations/elevator shortcut drop off" },
+    [230] = { "@Path of the Pilgrim - Locations/top of elevator shortcut" },
+    [231] = { "@Path of the Pilgrim - Locations/Carcass Elite drop" },
+    [232] = { "@Path of the Pilgrim - Locations/corpse near Carcass Elite" },
+    [233] = { "@Path of the Pilgrim - Locations/chest inside slum shack" },
+    [234] = { "@Path of the Pilgrim - Locations/outside robber shack" },
+    [235] = { "@Path of the Pilgrim - Locations/dropdown beneath the bridge" },
+    [236] = { "@Path of the Pilgrim - Locations/beneath the bridge" },
+    [237] = { "@Path of the Pilgrim - Locations/corpse near barrel fire" },
+    [238] = { "@Path of the Pilgrim - Locations/by destructable boxes" },
+    [239] = { "@Path of the Pilgrim - Locations/up ladder in parkour section" },
+    [240] = { "@Path of the Pilgrim - Locations/ledge in parkour section" },
+
+}   -- =========================================================
+    -- Malum District (IDs 241-277, 280-282)
+    -- =========================================================
+    
+    [241] = { "@Malum District - Locations/metal gate a carcass dog breaks" },
+    [242] = { "@Malum District - Locations/up ladder on scaffolding" },
+    [243] = { "@Malum District - Locations/behind destructable barrel on a stool" },
+    [244] = { "@Malum District - Locations/behind where the floor can fall in the brewly" },
+    [245] = { "@Malum District - Locations/chest after falling in the brewly" },
+    [246] = { "@Malum District - Locations/corpse near a staircase at the brewly" },
+    [247] = { "@Malum District - Locations/shortcut door in the brewly" },
+    [248] = { "@Malum District - Locations/ladder that leads outside" },
+    [249] = { "@Malum District - Locations/exit that leads outside" },
+    [250] = { "@Malum District - Locations/Carcass Elite drop" },
+    [251] = { "@Malum District - Locations/right side of the outside" },
+    [252] = { "@Malum District - Locations/chest in the outside" },
+    [253] = { "@Malum District - Locations/left side of the outside" },
+    [254] = { "@Malum District - Locations/back right side of the outside" },
+    [255] = { "@Malum District - Locations/Red Butterfly drop" },
+    [256] = { "@Malum District - Locations/roofs where the floor can break" },
+    [257] = { "@Malum District - Locations/right side of the roofs" },
+    [258] = { "@Malum District - Locations/pillar on the roofs" },
+    [259] = { "@Malum District - Locations/left side of the roofs" },
+    [260] = { "@Malum District - Locations/chest on the roofs" },
+    [261] = { "@Malum District - Locations/cell in the back left side of the outside" },
+    [262] = { "@Malum District - Locations/jump near shortcut gate" },
+    [263] = { "@Malum District - Locations/after jump near shortcut gate" },
+    [264] = { "@Malum District - Locations/alley nearshortcut gate" },
+    [265] = { "@Malum District - Locations/staircase by shortcute gate" },
+    [266] = { "@Malum District - Locations/alley downstairs by barrel fire" },
+    [267] = { "@Malum District - Locations/corner by cages with carcass dogs" },
+    [268] = { "@Malum District - Locations/ledge before trap from Black Rabbit Brotherhood" },
+    [269] = { "@Malum District - Locations/gate that a carcass dog breaks" },
+    [270] = { "@Malum District - Locations/ladder near gate" },
+    [271] = { "@Malum District - Locations/piano inside the bar" },
+    [272] = { "@Malum District - Locations/counter at the bar" },
+    [273] = { "@Malum District - Locations/kegs at the bar" },
+    [274] = { "@Malum District - Locations/small stairs inside bar" },
+    [275] = { "@Malum District - Locations/couch inside the bar" },
+    [276] = { "@Malum District - Locations/chest near Merchant" },
+    [277] = { "@Malum District - Locations/Black Rabbit Brotherhood drop" },
+    [280] = { "@Malum District - Locations/hanging puppet" },
+    [281] = { "@Malum District - Locations/chest in Black Rabbit Brotherhood hideout" },
+    [282] = { "@Malum District - Locations/upstairs in Black Rabbit Brotherhood hideout" },
+
+
+
+    

@@ -177,6 +177,20 @@
         "map_locations": [
           { "map": "St. Frangelico Cathedral Chapel", "x": 1518, "y": 1575 }
         ]
+      },
+      {
+        "name": "Trinity Door Loot",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/Black Cat's Amulet"
+          },
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/Moster Sweeper's Hunting Apparel"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 2553, "y": 1279 }
+        ]
       }
     ]
   }

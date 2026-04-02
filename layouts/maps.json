@@ -105,6 +105,22 @@
         }
       },
       {
+        "title": "Ch05",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "POTP",
+              "content": { "type": "map", "maps": ["Path of the Pilgrim"] }
+            },
+            {
+              "title": "MD",
+              "content": { "type": "map", "maps": ["Malum District"] }
+            }
+          ]
+        }
+      },
+      {
         "title": "Hotel Krat",
         "content": {
           "type": "tabbed",
@@ -120,30 +136,6 @@
             {
               "title": "Upper Floor",
               "content": { "type": "map", "maps": ["Hotel Krat - Upper Floor"] }
-            }
-          ]
-        }
-      },
-      {
-        "title": "Ch05",
-        "content": {
-          "type": "tabbed",
-          "tabs": [
-            {
-              "title": "POTP",
-              "content": { "type": "map", "maps": ["Path of the Pilgrim"] }
-            },
-            {
-              "title": "TS",
-              "content": { "type": "map", "maps": ["Tomb Slums"] }
-            },
-            {
-              "title": "HB",
-              "content": { "type": "map", "maps": ["Hobbler's Bridge"] }
-            },
-            {
-              "title": "MD",
-              "content": { "type": "map", "maps": ["Malum District"] }
             }
           ]
         }

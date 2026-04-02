@@ -94,5 +94,17 @@
     "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/st._frangelico_cathedral_library.png"
+  },
+  {
+    "name": "Path of the Pilgrim",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/path_of_the_pilgrim.png"
+  },
+  {
+    "name": "Malum District",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/malum_district.png"
   }
 ]

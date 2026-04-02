@@ -208,6 +208,42 @@
             "map_locations": [
               { "map": "Path of the Pilgrim", "x": 596, "y": 1323 }
             ]
+          },
+          {
+            "name": "Sweepers Branch Office Newspaper Archives",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/corpse near barrel fire" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 640, "y": 619 }
+            ]
+          },
+          {
+            "name": "Legion Magazine",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/by destructable boxes" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 636, "y": 459 }
+            ]
+          },
+          {
+            "name": "Special Resistance Ampoule",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/up ladder in parkour section" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 585, "y": 380 }
+            ]
+          },
+          {
+            "name": "Dim Ergo Fragment",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/ledge in parkour section" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 601, "y": 296 }
+            ]
           }
     ]
 }

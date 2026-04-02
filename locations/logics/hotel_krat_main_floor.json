@@ -6,6 +6,10 @@
       {
         "name": "table near Antonia",
         "access_rules": []
+      },
+      {
+        "name": "given by Antonia",
+        "access_rules": ["boss_black_rabbit"]
       }
     ]
   }

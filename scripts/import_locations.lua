@@ -64,3 +64,11 @@ Tracker:AddLocations("locations/logics/ch04_st._frangelico_cathedral_chapel.json
 -- Ch04 - St. Frangelico Cathedral Library
 Tracker:AddLocations("locations/ch04_st._frangelico_cathedral_library.json")
 Tracker:AddLocations("locations/logics/ch04_st._frangelico_cathedral_library.json")
+
+-- Ch05 - Path of the Pilgrim
+Tracker:AddLocations("locations/ch05_path_of_the_pilgrim.json")
+Tracker:AddLocations("locations/logics/ch05_path_of_the_pilgrim.json")
+
+-- Ch05 - Malum District
+Tracker:AddLocations("locations/ch05_malum_district.json")
+Tracker:AddLocations("locations/logics/ch05_malum_district.json")
