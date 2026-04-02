@@ -1,19 +1,83 @@
 [
-  { "name": "Parade Master",                     "type": "toggle", "img": "images/items/boss/boss_parade_master.png",        "codes": "boss_parade_master"        },
-  { "name": "Scrapped Watchman",                 "type": "toggle", "img": "images/items/boss/boss_scrapped_watchman.png",    "codes": "boss_scrapped_watchman"    },
-  { "name": "King's Flame Fuoco",                "type": "toggle", "img": "images/items/boss/boss_fuoco.png",                "codes": "boss_fuoco"                },
-  { "name": "Fallen Archbishop Andreus",         "type": "toggle", "img": "images/items/boss/boss_andreus.png",              "codes": "boss_andreus"              },
-  { "name": "Black Rabbit Brotherhood",          "type": "toggle", "img": "images/items/boss/boss_black_rabbit.png",         "codes": "boss_black_rabbit"         },
-  { "name": "Romeo, King of Puppets",            "type": "toggle", "img": "images/items/boss/boss_romeo.png",                "codes": "boss_romeo"                },
-  { "name": "Champion Victor",                   "type": "toggle", "img": "images/items/boss/boss_victor.png",               "codes": "boss_victor"               },
-  { "name": "Green Monster of the Swamp",        "type": "toggle", "img": "images/items/boss/boss_green_monster.png",        "codes": "boss_green_monster"        },
-  { "name": "Black Rabbit Brotherhood Rematch",  "type": "toggle", "img": "images/items/boss/boss_black_rabbit_2.png",       "codes": "boss_black_rabbit_2"       },
-  { "name": "Laxasia",                           "type": "toggle", "img": "images/items/boss/boss_laxasia.png",              "codes": "boss_laxasia"              },
-  { "name": "Simon Manus",                       "type": "toggle", "img": "images/items/boss/boss_simon_manus.png",          "codes": "boss_simon_manus"          },
-  { "name": "Nameless Puppet",                   "type": "toggle", "img": "images/items/boss/boss_nameless_puppet.png",      "codes": "boss_nameless_puppet"      },
-  { "name": "Tyrannical Predator",               "type": "toggle", "img": "images/items/boss/boss_tyrannical_predator.png",  "codes": "boss_tyrannical_predator"  },
-  { "name": "Markiona, Puppeteer of Death",      "type": "toggle", "img": "images/items/boss/boss_markiona.png",             "codes": "boss_markiona"             },
-  { "name": "Anguished Guardian of the Ruins",   "type": "toggle", "img": "images/items/boss/boss_anguished_guardian.png",  "codes": "boss_anguished_guardian"   },
-  { "name": "Lumacchio, Leader of the Bastards", "type": "toggle", "img": "images/items/boss/boss_lumacchio.png",            "codes": "boss_lumacchio"            },
-  { "name": "Arlecchino",                        "type": "toggle", "img": "images/items/boss/boss_arlecchino.png",           "codes": "boss_arlecchino"           }
+  {
+    "name": "Parade Master",
+    "type": "toggle",
+    "codes": "boss_parade_master"
+  },
+  {
+    "name": "Scrapped Watchman",
+    "type": "toggle",
+    "codes": "boss_scrapped_watchman"
+  },
+  {
+    "name": "King's Flame Fuoco",
+    "type": "toggle",
+    "codes": "boss_fuoco"
+  },
+  {
+    "name": "Fallen Archbishop Andreus",
+    "type": "toggle",
+    "codes": "boss_andreus"
+  },
+  {
+    "name": "Black Rabbit Brotherhood",
+    "type": "toggle",
+    "codes": "boss_black_rabbit"
+  },
+  {
+    "name": "Romeo, King of Puppets",
+    "type": "toggle",
+    "codes": "boss_romeo"
+  },
+  {
+    "name": "Champion Victor",
+    "type": "toggle",
+    "codes": "boss_victor"
+  },
+  {
+    "name": "Green Monster of the Swamp",
+    "type": "toggle",
+    "codes": "boss_green_monster"
+  },
+  {
+    "name": "Black Rabbit Brotherhood Rematch",
+    "type": "toggle",
+    "codes": "boss_black_rabbit_2"
+  },
+  {
+    "name": "Laxasia",
+    "type": "toggle",
+    "codes": "boss_laxasia"
+  },
+  {
+    "name": "Simon Manus",
+    "type": "toggle",
+    "codes": "boss_simon_manus"
+  },
+  {
+    "name": "Nameless Puppet",
+    "type": "toggle",
+    "codes": "boss_nameless_puppet"
+  },
+  {
+    "name": "Tyrannical Predator",
+    "type": "toggle",
+    "codes": "boss_tyrannical_predator"
+  },
+  {
+    "name": "Markiona, Puppeteer of Death",
+    "type": "toggle",
+    "codes": "boss_markiona"
+  },
+  {
+    "name": "Anguished Guardian of the Ruins",
+    "type": "toggle",
+    "codes": "boss_anguished_guardian"
+  },
+  {
+    "name": "Lumacchio, Leader of the Bastards",
+    "type": "toggle",
+    "codes": "boss_lumacchio"
+  },
+  { "name": "Arlecchino", "type": "toggle", "codes": "boss_arlecchino" }
 ]
