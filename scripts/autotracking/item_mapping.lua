@@ -54,22 +54,22 @@ ITEM_MAPPING = {
     -- =========================================================
 
     -- Obligatoires (progression principale)
-    [1]  = { "key_central_station",    "toggle", 1 },  -- Key_1
-    [2]  = { "key_cityhall",           "toggle", 1 },  -- Epic_key_cityhall
-    [3]  = { "key_cityhall_courtyard", "toggle", 1 },  -- Epic_key_ftr
-    [4]  = { "key_cable_railway",      "toggle", 1 },  -- Epic_key_cath_funicular ⚠️
-    [6]  = { "key_rosa_isabelle",      "toggle", 1 },  -- Epic_key_hotel_to_cult
-    [11]  = { "key_arcade_1f",          "toggle", 1 },  -- Epic_key_arcadecross 
-    [12] = { "key_arcade_underground", "toggle", 1 },  -- Epic_key_arcade_tunnel
-    [8] = { "key_alchemist_badge",    "toggle", 1 },  -- Epic_key_Monastery_entry
-    [13]  = { "key_arche_abbey",        "toggle", 1 },  -- Epic_key_MonasteryB_6F
+    [1]  = { "key_central_station",    "consumable", 1 },  -- Key_1
+    [2]  = { "key_cityhall",           "consumable", 1 },  -- Epic_key_cityhall
+    [3]  = { "key_cityhall_courtyard", "consumable", 1 },  -- Epic_key_ftr
+    [4]  = { "key_cable_railway",      "consumable", 1 },  -- Epic_key_cath_funicular ⚠️
+    [6]  = { "key_rosa_isabelle",      "consumable", 1 },  -- Epic_key_hotel_to_cult
+    [11]  = { "key_arcade_1f",          "consumable", 1 },  -- Epic_key_arcadecross 
+    [12] = { "key_arcade_underground", "consumable", 1 },  -- Epic_key_arcade_tunnel
+    [8] = { "key_alchemist_badge",    "consumable", 1 },  -- Epic_key_Monastery_entry
+    [13]  = { "key_arche_abbey",        "consumable", 1 },  -- Epic_key_MonasteryB_6F
 
     -- Optionnels
-    [5]  = { "key_slum_shack",         "toggle", 1 },  -- Epic_key_SlumHouse
-    [7] = { "key_saintess_gallery",   "toggle", 1 },  --  Epic_key_pieta
+    [5]  = { "key_slum_shack",         "consumable", 1 },  -- Epic_key_SlumHouse
+    [7] = { "key_saintess_gallery",   "consumable", 1 },  --  Epic_key_pieta
     [9]  = { "key_trinity",            "consumable", 1 },  -- Epic_key_riddle (Trinity Key)
-    [10] = { "key_chosen_trinity",     "toggle", 1 },      -- Epic_key_riddle_final (The Chosen Ones Trinity Key)
-    [14] = { "key_dottedpaper_room",   "toggle", 1 },  -- Epic_key_dottedpaper
+    [10] = { "key_chosen_trinity",     "consumable", 1 },      -- Epic_key_riddle_final (The Chosen Ones Trinity Key)
+    [14] = { "key_dottedpaper_room",   "consumable", 1 },  -- Epic_key_dottedpaper
 
     -- =========================================================
     -- CRYPTIC VESSELS (toggle) — IDs 1501-1506
