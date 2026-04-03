@@ -106,5 +106,41 @@
     "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/malum_district.png"
+  },
+  {
+    "name": "Rosa Isabelle Street",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/rosa_isabbell_street.png"
+  },
+  {
+    "name": "Estella Opera House",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/etella_opera_house.png"
+  },
+  {
+    "name": "Lorenzini Arcade",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/lorenzini_arcade.png"
+  },
+  {
+    "name": "Grand Exhibition",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/grand_exhibition.png"
+  },
+  {
+    "name": "Barren Swamp",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/barren_swamp.png"
+  },
+  {
+    "name": "Hermit Cave",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/hermit_cave.png"
   }
 ]

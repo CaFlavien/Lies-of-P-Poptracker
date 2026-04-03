@@ -1,0 +1,154 @@
+[
+    {
+      "name": "Grand Exhibition - Locations",
+      "access_rules": ["boss_romeo,key_arcade_underground, key_arcade_1f"],
+      "sections": [
+        {
+            "name": "on staircase",
+            "access_rules": []
+        },
+        {
+            "name": "near lamp",
+            "access_rules": []
+        },
+        {
+            "name": "tree",
+            "access_rules": []
+        },
+        {
+            "name": "Elite Puppet drop",
+            "access_rules": []
+        },
+        {
+            "name": "bench",
+            "access_rules": []
+        },
+        {
+            "name": "before tram",
+            "access_rules": []
+        },
+        {
+            "name": "red box before big door",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end behind curtains",
+            "access_rules": []
+        },
+        {
+            "name": "counter",
+            "access_rules": []
+        },
+        {
+            "name": "second dead-end behind curtains",
+            "access_rules": []
+        },
+        {
+            "name": "small stage",
+            "access_rules": []
+        },
+        {
+            "name": "blue Grand Exhibition sign",
+            "access_rules": []
+        },
+        {
+            "name": "Purple Butterfly drop",
+            "access_rules": []
+        },
+        {
+            "name": "Puppet Elite drop",
+            "access_rules": []
+        },
+        {
+            "name": "chest outside",
+            "access_rules": []
+        },
+        {
+            "name": "metal beam item",
+            "access_rules": []
+        },
+        {
+            "name": "metal beam",
+            "access_rules": []
+        },
+        {
+            "name": "next to shortcut",
+            "access_rules": []
+        },
+        {
+            "name": "by wooden crates",
+            "access_rules": []
+        },
+        {
+            "name": "near wooden crates",
+            "access_rules": []
+        },
+        {
+            "name": "chest by wooden crates",
+            "access_rules": []
+        },
+        {
+            "name": "jumpscare",
+            "access_rules": []
+        },
+        {
+            "name": "inside train",
+            "access_rules": []
+        },
+        {
+            "name": "tank",
+            "access_rules": []
+        },
+        {
+            "name": "ledge above train",
+            "access_rules": []
+        },
+        {
+            "name": "chest above train",
+            "access_rules": []
+        },
+        {
+            "name": "mini Victor Elite drop",
+            "access_rules": []
+        },
+        {
+            "name": "chest near Victor",
+            "access_rules": []
+        },
+        {
+            "name": "left platform (1)",
+            "access_rules": []
+        },
+        {
+            "name": "right platform",
+            "access_rules": []
+        },
+        {
+            "name": "left platform (2)",
+            "access_rules": []
+        },
+        {
+            "name": "left platform (3)",
+            "access_rules": []
+        },
+        {
+            "name": "before Victor",
+            "access_rules": []
+        },
+        {
+            "name": "received by resting at a stargazer after Victor is killed",
+            "access_rules": []
+        },
+        {
+            "name": "Champion Victor drop",
+            "access_rules": []
+        },
+        {
+            "name": "behind Saintless of Mercy Statue",
+            "access_rules": []
+        }
+
+
+            ]
+}
+]

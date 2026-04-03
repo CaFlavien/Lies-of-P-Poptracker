@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Estella Opera House",
+    "children": [
+        {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/statue by stargazer"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 787, "y": 2007 }
+        ]
+      },
+      {
+        "name": "Electric Blitz Abrasive",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/on a bench"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 620, "y": 1777 }
+        ]
+      },
+      {
+        "name": "Special Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/by spotlight"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1015, "y": 1615 }
+        ]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/front of shortcut door"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 772, "y": 1165 }
+        ]
+      },
+      {
+        "name": "Dark moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/right side lower balcony"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 852, "y": 1173 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/right side upper balcony"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1430, "y": 1208 }
+        ]
+      },
+      {
+        "name": "Belford Disruption Cartridge",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/chest near Adelina"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1456, "y": 1022 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/on a table in hallway"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 530, "y": 1051 }
+        ]
+      },
+      {
+        "name": "Technique Amulet",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/chest in dark room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1869, "y": 929 }
+        ]
+      },
+      {
+        "name": "Exploding Pickaxe",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/in safe in small room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1724, "y": 1324 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/sculpture of head"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 2124, "y": 1025 }
+        ]
+      },
+      {
+        "name": "Saw Blade",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/beside Trinity door"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 2009, "y": 970 }
+        ]
+      },
+      {
+        "name": "Incredible Venigni Collection",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/safe in small room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 2222, "y": 1294 }
+        ]
+      },
+      {
+        "name": "Sawtoothed Wheel",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/dead-end of hallway"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 2270, "y": 780 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/table in hallway"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1041, "y": 1093 }
+        ]
+      },
+      {
+        "name": "Notes from an Experiment",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/on desk"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1010, "y": 1392 }
+        ]
+      },
+      {
+        "name": "Jeweled Cryptic Vessel",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/chest next to bookcase"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1026, "y": 1297 }
+        ]
+      },
+      {
+        "name": "Legion Magazine",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/wood beam"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1105, "y": 1364 }
+        ]
+      },
+      {
+        "name": "Technique Crank",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/Red Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1176, "y": 1448 }
+        ]
+      },
+      {
+        "name": "Electric Blitz Abrasive",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/bench"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1159, "y": 1629 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/before King of Puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 671, "y": 813 }
+        ]
+      },
+      {
+        "name": "Romeo, King of Puppets drop",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/Burnt-White King's Ergo"
+          },
+          {
+            "ref": "Estella Opera House - Locations/Puppet Prince's Formal Dress"
+          },
+          {
+            "ref": "Estella Opera House - Locations/Someone's Necklace"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 770, "y": 513 }
+        ]
+      },
+      {
+        "name": "Belford Superior Radiation Converter",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/Trinity door loot (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1923, "y": 1062 }
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Estella Opera House - Locations/Trinity door loot (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Estella Opera House", "x": 1924, "y": 1094 }
+        ]
+      }
+
+     ]
+  }
+]

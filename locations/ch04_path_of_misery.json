@@ -72,6 +72,15 @@
           }
         ],
         "map_locations": [{ "map": "Path of Misery", "x": 500, "y": 2010 }]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Path of Misery - Locations/near stargazer after cable lift"
+          }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 1594, "y": 545 }]
       }
     ]
   }

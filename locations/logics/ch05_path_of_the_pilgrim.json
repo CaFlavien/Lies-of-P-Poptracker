@@ -110,6 +110,22 @@
       {
         "name": "ledge in parkour section",
         "access_rules": []
+      },
+      {
+        "name": "given by Slum Resident",
+        "access_rules": ["cv_dottedpaper_03"]
+      },
+      {
+        "name": "after Slum Resident's trap",
+        "access_rules": ["cv_dottedpaper_03"]
+      },
+      {
+        "name": "Life Amulet +1",
+        "access_rules": ["cv_dottedpaper_03"]
+      },
+      {
+        "name": "Legion Caliber",
+        "access_rules": ["cv_dottedpaper_03"]
       }
     ]
   }

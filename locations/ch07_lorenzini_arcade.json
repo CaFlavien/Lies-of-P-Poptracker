@@ -1,0 +1,414 @@
+[
+  {
+    "name": "Lorenzini Arcade",
+    "children": [
+        {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/puppet corpse by red boxes"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Aracde", "x": 1235, "y": 549 }
+        ]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/small alley"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1263, "y": 355 }
+        ]
+      },
+      {
+        "name": "Cluster Grenade",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/lamp post"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1483, "y": 350 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/small room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1555, "y": 495 }
+        ]
+      },
+      {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/upstairs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1704, "y": 606 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/dead-end down some stairs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1607, "y": 711 }
+        ]
+      },
+      {
+        "name": "Thermite",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/next to wagon"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1837, "y": 849 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/market stand"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2189, "y": 689 }
+        ]
+      },
+      {
+        "name": "Clock Sword",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/chest up ladder"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2269, "y": 544 }
+        ]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/bottom left in courtyard"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2476, "y": 1014 }
+        ]
+      },
+      {
+        "name": "Saw Blade",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/top right in courtyard"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2245, "y": 1313 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/top left in courtyard"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2390, "y": 1312 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/small room on floor"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2445, "y": 1640 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/small room on counter"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2422, "y": 2223 }
+        ]
+      },
+      {
+        "name": "Lorenzini Arcade 1st Floor Key",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/dead-end near big door"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2243, "y": 2393 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/on small ledge"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1704, "y": 1371 }
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/Orange Butterfly Drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1850, "y": 1261 }
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/other side of big hole"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1800, "y": 1620 }
+        ]
+      },
+      {
+        "name": "LADA F250 Frame",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/Carcass Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 376, "y": 1623 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/in blood water"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 220, "y": 1725 }
+        ]
+      },
+      {
+        "name": "Monad Charity House Concert",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/in bedroom"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 479, "y": 1933 }
+        ]
+      },
+      {
+        "name": "Gemini's Iron Protection",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/on wooden boxes"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 282, "y": 2038 }
+        ]
+      },
+      {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/in hallway"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1814, "y": 2243 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/corner of circular room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1739, "y": 2405 }
+        ]
+      },
+      {
+        "name": "Scandal! V, the Tragedy Behind the Flamboyance",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/bathroom"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2103, "y": 2050 }
+        ]
+      },
+      {
+        "name": "Arcade Underground Passage Key",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/fountain"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1940, "y": 2127 }
+        ]
+      },
+      {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/Red Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 818, "y": 2397 }
+        ]
+      },
+      {
+        "name": "Alchemical Booster",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/second Red Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 282, "y": 2607 }
+        ]
+      },
+      {
+        "name": "Spear of Honor",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/safe near decay bubbles"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 222, "y": 2610 }
+        ]
+      },
+      {
+        "name": "Electric Blitz Canister",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/dead-end near decay bubbles"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 822, "y": 1538 }
+        ]
+      },
+      {
+        "name": "The greatest show on Earth is coming!",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/next to table at the bar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 926, "y": 1545 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/between two tables at the bar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1054, "y": 1542 }
+        ]
+      },
+      {
+        "name": "Hunter's Amulet",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/drop from jester elite puppet"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1439, "y": 2210 }
+        ]
+      },
+      {
+        "name": "Special Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/carcass jail cell"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1512, "y": 2106 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/in front of barrels jester elite smashes"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1439, "y": 2141 }
+        ]
+      },
+      {
+        "name": "Balance Crank",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/next to pillar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 1270, "y": 2369 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Lorenzini Arcade - Locations/next to big shortcut gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Lorenzini Arcade", "x": 2427, "y": 1985 }
+        ]
+      }
+    ]
+}
+]

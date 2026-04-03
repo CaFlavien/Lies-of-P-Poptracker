@@ -1,0 +1,324 @@
+[
+    {
+      "name": "Barren Swamp - Locations",
+      "access_rules": ["boss_victor"],
+      "sections": [
+        {
+            "name": "next to box inside train station",
+            "access_rules": []
+        },
+        {
+            "name": "table in room with hanging puppets",
+            "access_rules": []
+        },
+        {
+            "name": "on puppet corpse",
+            "access_rules": []
+        },
+        {
+            "name": "on path by cliffs",
+            "access_rules": []
+        },
+        {
+            "name": "chest on path",
+            "access_rules": []
+        },
+        {
+            "name": "small coruption swamp (1)",
+            "access_rules": []
+        },
+        {
+            "name": "small coruption swamp (2)",
+            "access_rules": []
+        },
+        {
+            "name": "by rolling firball",
+            "access_rules": []
+        },
+        {
+            "name": "Electric Mad Clown Pupped drop",
+            "access_rules": []
+        },
+        {
+            "name": "on tree",
+            "access_rules": []
+        },
+        {
+            "name": "fire pit",
+            "access_rules": []
+        },
+        {
+            "name": "corpse by fire pit",
+            "access_rules": []
+        },
+        {
+            "name": "wood beam",
+            "access_rules": []
+        },
+        {
+            "name": "top of tower",
+            "access_rules": []
+        },
+        {
+            "name": "chest in tower",
+            "access_rules": []
+        },
+        {
+            "name": "ledge across bridge",
+            "access_rules": []
+        },
+        {
+            "name": "turn on path",
+            "access_rules": []
+        },
+        {
+            "name": "tree",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end near first ballista",
+            "access_rules": []
+        },
+        {
+            "name": "pile of corpses near first ballista",
+            "access_rules": []
+        },
+        {
+            "name": "path to first ballista",
+            "access_rules": []
+        },
+        {
+            "name": "on ledge at path to first ballista",
+            "access_rules": []
+        },
+        {
+            "name": "bottom of first ballista tower",
+            "access_rules": []
+        },
+        {
+            "name": "chest by first ballista",
+            "access_rules": []
+        },
+        {
+            "name": "swamp water by first ballista",
+            "access_rules": []
+        },
+        {
+            "name": "ledge on path forward",
+            "access_rules": []
+        },
+        {
+            "name": "campfire",
+            "access_rules": []
+        },
+        {
+            "name": "before large swamp",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop (1)",
+            "access_rules": []
+        },
+        {
+            "name": "Puppet of the Future drop (1)",
+            "access_rules": []
+        },
+        {
+            "name": "Purple Butterfly drop (1)",
+            "access_rules": []
+        },
+        {
+            "name": "Orange Butterfly drop",
+            "access_rules": []
+        },
+        {
+            "name": "Purple Butterfly drop (2)",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop (2)",
+            "access_rules": []
+        },
+        {
+            "name": "Puppet of the Future drop (2)",
+            "access_rules": []
+        },
+        {
+            "name": "big Swamp (1)",
+            "access_rules": []
+        },
+        {
+            "name": "big Swamp (2)",
+            "access_rules": []
+        },
+        {
+            "name": "big Swamp (3)",
+            "access_rules": []
+        },
+        {
+            "name": "big Swamp (4)",
+            "access_rules": []
+        },
+        {
+            "name": "big Swamp (5)",
+            "access_rules": []
+        },
+        {
+            "name": "big Swamp (6)",
+            "access_rules": []
+        },
+        {
+            "name": "big swamp chest",
+            "access_rules": []
+        },
+        {
+            "name": "big swamp (7)",
+            "access_rules": []
+        },
+        {
+            "name": "big swamp (8)",
+            "access_rules": []
+        },
+        {
+            "name": "ledge in shack",
+            "access_rules": []
+        },
+        {
+            "name": "in shack",
+            "access_rules": []
+        },
+        {
+            "name": "Owl Doctor drop",
+            "access_rules": []
+        },
+        {
+            "name": "before a drop down",
+            "access_rules": []
+        },
+        {
+            "name": "floating platform",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end",
+            "access_rules": []
+        },
+        {
+            "name": "by sand bags",
+            "access_rules": []
+        },
+        {
+            "name": "chest on wood platform",
+            "access_rules": []
+        },
+        {
+            "name": "by wood beam",
+            "access_rules": []
+        },
+        {
+            "name": "wood platform",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end near fire ball",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop (3)",
+            "access_rules": []
+        },
+        {
+            "name": "ledge near fire ball second level",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop (4)",
+            "access_rules": []
+        },
+        {
+            "name": "on fire ball path",
+            "access_rules": []
+        },
+        {
+            "name": "top of fire ball area",
+            "access_rules": []
+        },
+        {
+            "name": "fire ball ledge",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly Drop (5)",
+            "access_rules": []
+        },
+        {
+            "name": "open room",
+            "access_rules": []
+        },
+        {
+            "name": "chest in open room",
+            "access_rules": []
+        },
+        {
+            "name": "outside small shack",
+            "access_rules": []
+        },
+        {
+            "name": "chest in shack",
+            "access_rules": []
+        },
+        {
+            "name": "Leaping Amulet",
+            "access_rules": []
+        },
+        {
+            "name": "Dark Moon Moonstone of the Covenant",
+            "access_rules": []
+        },
+        {
+            "name": "by campfire",
+            "access_rules": []
+        },
+        {
+            "name": "upper entrance to tower",
+            "access_rules": []
+        },
+        {
+            "name": "bottom of tower",
+            "access_rules": []
+        },
+        {
+            "name": "before Green Monster of the Swamp",
+            "access_rules": []
+        },
+        {
+            "name": "Puppet-Devouring Green Hunter's Ergo",
+            "access_rules": []
+        },
+        {
+            "name": "Golden Ergo",
+            "access_rules": []
+        },
+        {
+            "name": "ledge after drop down",
+            "access_rules": []
+        },
+        {
+            "name": "by firepit",
+            "access_rules": []
+        },
+        {
+            "name": "firepit",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end above entrance from Barren Swamp",
+            "access_rules": []
+        },
+        {
+            "name": "ledge after bear traps",
+            "access_rules": []
+        }
+                ]
+}
+]

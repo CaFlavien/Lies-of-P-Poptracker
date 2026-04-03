@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Rosa Isabelle Street",
+    "children": [
+        {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/behind destructable objects near staircase"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 495, "y": 1806 }
+        ]
+      },
+       {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/across from Gaspard Theatre"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 496, "y": 1725 }
+        ]
+      },
+       {
+        "name": "Cluster Grenade",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/downstairs near Old Lady at the Window"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 311, "y": 1965 }
+        ]
+      },
+       {
+        "name": "The Witch's Tower and Princess Poster",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/beside Old Lady at the Window"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 479, "y": 2009 }
+        ]
+      },
+       {
+        "name": "Venigni's Urgent Repair Tool",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/wagon near Mrs.Potts building"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 648, "y": 1703 }
+        ]
+      },
+       {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/burning gate and shortcut gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 577, "y": 1430 }
+        ]
+      },
+       {
+        "name": "Artist's Doodle",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/before building with exploding puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 881, "y": 1591 }
+        ]
+      },
+       {
+        "name": "Sharp Pipe",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/shortcut ladder with exploading puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1010, "y": 1477 }
+        ]
+      },
+       {
+        "name": "Special Report! Foreigner's Confession",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/bed near baby puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1132, "y": 1652 }
+        ]
+      },
+       {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/table in room with baby puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1033, "y": 1631 }
+        ]
+      },
+       {
+        "name": "Legion Plug",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/safe next to shortcut door"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 818, "y": 1420 }
+        ]
+      },
+       {
+        "name": "Saw Blade",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/counter in room with maid puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1283, "y": 1670 }
+        ]
+      },
+       {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/wagon near the Bar and Grill"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1510, "y": 1747 }
+        ]
+      },
+       {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/behind overheat throwing puppet"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1523, "y": 1212 }
+        ]
+      },
+       {
+        "name": "Throwing Cell",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/near White Lady"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1931, "y": 1420 }
+        ]
+      },
+       {
+        "name": "White Lady drop",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/The White Lady's Locket"
+          },
+          {
+            "ref": "Rosa Isabelle Street - Locations/The White Lady's Mask"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1988, "y": 1197 }
+        ]
+      },
+       {
+        "name": "Rose Estate Incident, left as a mystery",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/corpse next to a wagon after White Lady"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1814, "y": 898 }
+        ]
+      },
+       {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/hidden path behind boxes"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1982, "y": 714 }
+        ]
+      },
+       {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/corner near Red Butterfly in small courtyard"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1889, "y": 940 }
+        ]
+      },
+       {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/Red Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1682, "y": 1305 }
+        ]
+      },
+       {
+        "name": "Dim Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/behind Red Butterfly"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1642, "y": 1391 }
+        ]
+      },
+       {
+        "name": "Dancer's Curved Sword",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/chest behind shortcut gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1604, "y": 1101 }
+        ]
+      },
+       {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/sewers before drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1379, "y": 827 }
+        ]
+      },
+       {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/chest in sewers"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1192, "y": 1318 }
+        ]
+      },
+       {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/shortcut by White Lady"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1411, "y": 1191 }
+        ]
+      },
+       {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/shortcut to Rosa Isabelle Street Culvert stargazer"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 1087, "y": 718 }
+        ]
+      },
+       {
+        "name": "Sawtoothed Wheel",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/near exploding puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 804, "y": 892 }
+        ]
+      },
+       {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/by rifleman puppet"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 774, "y": 1113 }
+        ]
+      },
+       {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/red boxes"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 736, "y": 1232 }
+        ]
+      },
+       {
+        "name": "Gemini's Iron Protection",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/across bridge"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 404, "y": 1121 }
+        ]
+      },
+       {
+        "name": "Arch Heavyweight Frame",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/safe with baby puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 354, "y": 1115 }
+        ]
+      },
+       {
+        "name": "Electric Blitz Canister",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/bush"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 337, "y": 1323 }
+        ]
+      },
+       {
+        "name": "Dark moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/shortcut to Rosa Isabelle Street Entrance stargazer"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 518, "y": 1452 }
+        ]
+      },
+       {
+        "name": "Advance Crank",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/wagon near Mad Clown Puppet"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 600, "y": 1223 }
+        ]
+      },
+       {
+        "name": "Legion Magazine",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/ledge near Mad Clown Puppet"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 712, "y": 1002 }
+        ]
+      },
+       {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/left side near Mad Clown Puppet"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 465, "y": 591 }
+        ]
+      },
+       {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/volunteers wanted sign"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 671, "y": 376 }
+        ]
+      },
+       {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Rosa Isabelle Street - Locations/Mad Clown Puppet drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Rosa Isabelle Street", "x": 625, "y": 648 }
+        ]
+      }
+     ]
+  }
+]

@@ -72,3 +72,27 @@ Tracker:AddLocations("locations/logics/ch05_path_of_the_pilgrim.json")
 -- Ch05 - Malum District
 Tracker:AddLocations("locations/ch05_malum_district.json")
 Tracker:AddLocations("locations/logics/ch05_malum_district.json")
+
+-- Ch06 - Rosa Isabelle Street
+Tracker:AddLocations("locations/ch06_rosa_isabelle_street.json")
+Tracker:AddLocations("locations/logics/ch06_rosa_isabelle_street.json")
+
+-- Ch06 - Estella Opera House
+Tracker:AddLocations("locations/ch06_estella_opera_house.json")
+Tracker:AddLocations("locations/logics/ch06_estella_opera_house.json")
+
+-- Ch07 - Lorenzini Arcade
+Tracker:AddLocations("locations/ch07_lorenzini_arcade.json")
+Tracker:AddLocations("locations/logics/ch07_lorenzini_arcade.json")
+
+-- Ch07 - Grand Exhibition
+Tracker:AddLocations("locations/ch07_grand_exhibition.json")
+Tracker:AddLocations("locations/logics/ch07_grand_exhibition.json")
+
+-- Ch08 - Barren Swamp
+Tracker:AddLocations("locations/ch08_barren_swamp.json")
+Tracker:AddLocations("locations/logics/ch08_barren_swamp.json")
+
+-- Ch08 - Hermit Cave
+Tracker:AddLocations("locations/ch08_hermit_cave.json")
+Tracker:AddLocations("locations/logics/ch08_hermit_cave.json")

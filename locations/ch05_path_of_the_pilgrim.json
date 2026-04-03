@@ -244,6 +244,34 @@
             "map_locations": [
               { "map": "Path of the Pilgrim", "x": 601, "y": 296 }
             ]
+          },
+          {
+            "name": "Robbers' Shack Key",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/given by Slum Resident" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1611, "y": 1074 }
+            ]
+          },
+          {
+            "name": "Star Fragment",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/after Slum Resident's trap" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1662, "y": 949 }
+            ]
+          },
+          {
+            "name": "chest inside Robbers'Shack",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/Life Amulet +1" },
+              { "ref": "Path of the Pilgrim - Locations/Legion Caliber" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1604, "y": 1204 }
+            ]
           }
     ]
 }
