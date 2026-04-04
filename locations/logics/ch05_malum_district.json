@@ -153,15 +153,15 @@
       },
       {
         "name": "hanging puppet",
-        "access_rules": []
+        "access_rules": ["boss_black_rabbit"]
       },
       {
         "name": "chest in Black Rabbit Brotherhood hideout",
-        "access_rules": []
+        "access_rules": ["boss_black_rabbit"]
       },
       {
         "name": "upstairs in Black Rabbit Brotherhood hideout",
-        "access_rules": []
+        "access_rules": ["boss_black_rabbit"]
       }
     ]
   }
