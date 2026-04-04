@@ -1,0 +1,124 @@
+[
+    {
+      "name": "Collapsing Krat - Locations",
+      "access_rules": ["boss_green_monster"],
+      "sections": [
+        {
+            "name": "dead-end near disruption crystal",
+            "access_rules": []
+        },
+        {
+            "name": "next to disruption crystal across sign",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end",
+            "access_rules": []
+        },
+        {
+            "name": "Purple Butterfly drop",
+            "access_rules": []
+        },
+        {
+            "name": "corpse next to disruption crystal",
+            "access_rules": []
+        },
+        {
+            "name": "ledge next to disruption crystals",
+            "access_rules": []
+        },
+        {
+            "name": "dead end next to disruption crystals",
+            "access_rules": []
+        },
+        {
+            "name": "ledge",
+            "access_rules": []
+        },
+        {
+            "name": "on painting",
+            "access_rules": []
+        },
+        {
+            "name": "small dead-end near disruption crystal",
+            "access_rules": []
+        },
+        {
+            "name": "Carcass Elite drop",
+            "access_rules": []
+        },
+        {
+            "name": "near Carcass Elite",
+            "access_rules": []
+        },
+        {
+            "name": "next to trash can",
+            "access_rules": []
+        },
+        {
+            "name": "under workshop table",
+            "access_rules": []
+        },
+        {
+            "name": "on a workshop table",
+            "access_rules": []
+        },
+        {
+            "name": "lower ledge with fire enemy",
+            "access_rules": []
+        },
+        {
+            "name": "chest above area with crystals",
+            "access_rules": []
+        },
+        {
+            "name": "ladder to top of workshop",
+            "access_rules": []
+        },
+        {
+            "name": "Legion Caliber",
+            "access_rules": []
+        },
+        {
+            "name": "Dark Moon Moonstone of the Covenant",
+            "access_rules": []
+        },
+        {
+            "name": "next to some boxes",
+            "access_rules": []
+        },
+        {
+            "name": "under a archway",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end by cliffs",
+            "access_rules": []
+        },
+        {
+            "name": "next to wagon",
+            "access_rules": []
+        },
+        {
+            "name": "before drop down",
+            "access_rules": []
+        },
+        {
+            "name": "infront of a bush",
+            "access_rules": []
+        },
+        {
+            "name": "Full Moonstone",
+            "access_rules": []
+        },
+        {
+            "name": "Quartz",
+            "access_rules": []
+        }
+    ]
+}
+]

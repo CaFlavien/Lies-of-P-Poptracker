@@ -169,6 +169,22 @@
         }
       },
       {
+        "title": "Ch09",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "KCS2",
+              "content": { "type": "map", "maps": ["Krat Central Station Return"] }
+            },
+            {
+              "title": "CK",
+              "content": { "type": "map", "maps": ["Collapsing Krat"] }
+            }
+          ]
+        }
+      },
+      {
         "title": "Hotel Krat",
         "content": {
           "type": "tabbed",

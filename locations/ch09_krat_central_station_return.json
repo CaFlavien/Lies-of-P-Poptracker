@@ -1,0 +1,453 @@
+[
+  {
+    "name": "Krat Central Station Return",
+    "children": [
+        {
+        "name": "Saw Blade",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/dead-end in decay sewer"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 72, "y": 1420 }
+        ]
+      },
+      {
+        "name": "Bloody Letter",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/behind green pillar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1092, "y": 1269 }
+        ]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/corner by some crates"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1013, "y": 1513 }
+        ]
+      },
+      {
+        "name": "Fire Canister",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/in decay smoke (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 900, "y": 1044 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/in decay smoke (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 804, "y": 1169 }
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/chest in decay smoke"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 708, "y": 1106 }
+        ]
+      },
+      {
+        "name": "Chain",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/bloodstain"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1196, "y": 874 }
+        ]
+      },
+      {
+        "name": "Shot Put",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/inside train"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1724, "y": 459 }
+        ]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/in decay smoke after train (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1611, "y": 349 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/in decay smoke after train (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1327, "y": 396 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/near first shortcut"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2115, "y": 695 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/small decay puddle infront of train"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2161, "y": 739 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/in decay smoke infront of trains (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2016, "y": 816 }
+        ]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/in decay smoke infront of trains (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1861, "y": 816 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/in decay smoke infront of trains (3)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1733, "y": 865 }
+        ]
+      },
+      {
+        "name": "Murderer Puppet's Amulet",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/Carcass Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2104, "y": 1093 }
+        ]
+      },
+      {
+        "name": "Special Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/on corpse"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1975, "y": 1080 }
+        ]
+      },
+      {
+        "name": "Special Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/bench"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1754, "y": 1482 }
+        ]
+      },
+      {
+        "name": "Chain",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/dead-end area with crawling puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1977, "y": 1702 }
+        ]
+      },
+      {
+        "name": "Master Chef's Knife",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/chest in dead-end area with crawling puppets"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1997, "y": 1540 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/under staircase"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 1482, "y": 1824 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/under hole in roof"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2119, "y": 1928 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/near hole in roof"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2076, "y": 2109 }
+        ]
+      },
+      {
+        "name": "Robber Weasel drop",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/Robber Weasel's Mask"
+          },
+          {
+            "ref": "Krat Central Station Return - Locations/Robber Weasel's Hunting Apparel"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2662, "y": 1506 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/small room with train info board"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2946, "y": 1346 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/small room near bar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2364, "y": 1276 }
+        ]
+      },
+      {
+        "name": "Stabilized Alchemical Booster",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/Orange Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2593, "y": 1981 }
+        ]
+      },
+      {
+        "name": "Cat Dust",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/near a doorway"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2951, "y": 1893 }
+        ]
+      },
+      {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/bathroom"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2764, "y": 1885 }
+        ]
+      },
+      {
+        "name": "Trinity Door loot",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/Workshop Master's Workwear"
+          },
+          {
+            "ref": "Krat Central Station Return - Locations/Carrier's Amulet +1"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2978, "y": 693 }
+        ]
+      },
+      {
+        "name": "Legion Magazine",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/in the courtyard"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 3251, "y": 958 }
+        ]
+      },
+      {
+        "name": "Acid Canister",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/on a corpse"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 3363, "y": 1221 }
+        ]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/next to wagon (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 3335, "y": 1419 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/next to wagon (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 3434, "y": 1398 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/on hand of fallen statue"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 3452, "y": 1162 }
+        ]
+      },
+      {
+        "name": "Coil Mjolnir",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/chest in courtyard"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 3710, "y": 837 }
+        ]
+      },
+      {
+        "name": "Thermite",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/by a window"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 3710, "y": 1025 }
+        ]
+      },
+      {
+        "name": "Legion Plug",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/on Carcass Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 3010, "y": 2285 }
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/small tree at dead-end"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 2803, "y": 2237 }
+        ]
+      },
+      {
+        "name": "Fairytale of the Three Brothers of the Workshop Tower",
+        "sections": [
+          {
+            "ref": "Krat Central Station Return - Locations/next to merchant"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Return", "x": 3011, "y": 2717 }
+        ]
+      }
+    ]
+}
+]

@@ -96,3 +96,11 @@ Tracker:AddLocations("locations/logics/ch08_barren_swamp.json")
 -- Ch08 - Hermit Cave
 Tracker:AddLocations("locations/ch08_hermit_cave.json")
 Tracker:AddLocations("locations/logics/ch08_hermit_cave.json")
+
+-- Ch09 - Krat Central Station Return
+Tracker:AddLocations("locations/ch09_krat_central_station_return.json")
+Tracker:AddLocations("locations/logics/ch09_krat_central_station_return.json")
+
+-- Ch09 - Collapsing Krat
+Tracker:AddLocations("locations/ch09_collapsing_krat.json")
+Tracker:AddLocations("locations/logics/ch09_collapsing_krat.json")

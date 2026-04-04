@@ -142,5 +142,17 @@
     "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/hermit_cave.png"
+  },
+  {
+    "name": "Krat Central Station Return",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/krat_central_station_return.png"
+  },
+  {
+    "name": "Collapsing Krat",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/collapsing_krat.png"
   }
 ]

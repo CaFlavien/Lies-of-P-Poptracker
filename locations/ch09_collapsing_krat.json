@@ -1,0 +1,321 @@
+[
+  {
+    "name": "Collapsing Krat",
+    "children": [
+        {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/dead-end near disruption crystal"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2822, "y": 1688 }
+        ]
+      },
+      {
+        "name": "Lover's Letter",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/next to disruption crystal across sign"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2659, "y": 1744 }
+        ]
+      },
+      {
+        "name": "Shot Put",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/dead-end"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2461, "y": 1275 }
+        ]
+      },
+      {
+        "name": "Balance Crank",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/Purple Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2231, "y": 1390 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/corpse next to disruption crystal"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1858, "y": 1489 }
+        ]
+      },
+      {
+        "name": "Saw Blade",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/ledge next to disruption crystals"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1783, "y": 1522 }
+        ]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/dead end next to disruption crystals"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1710, "y": 1521 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/ledge"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2225, "y": 1688 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/on painting"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2680, "y": 1420 }
+        ]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/small dead-end near disruption crystal"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2840, "y": 890 }
+        ]
+      },
+      {
+        "name": "Arch Extra Heavyweight Frame",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/Carcass Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2548, "y": 653 }
+        ]
+      },
+      {
+        "name": "Motivity Crank",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/near Carcass Elite"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2491, "y": 706 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/on corpse"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2560, "y": 451 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/next to trash can"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2478, "y": 259 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/under workshop table"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1144, "y": 890 }
+        ]
+      },
+      {
+        "name": "Primer for Workshop Technicians",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/on a workshop table"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2111, "y": 834 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/lower ledge with fire enemy"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2332, "y": 659 }
+        ]
+      },
+      {
+        "name": "Special Krat Supply Box",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/chest above area with crystals"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2186, "y": 1206 }
+        ]
+      },
+      {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/ladder to top of workshop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 2090, "y": 999 }
+        ]
+      },
+      {
+        "name": "Walker of Illusions drop",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/Legion Caliber"
+          },
+          {
+            "ref": "Collapsing Krat - Locations/Dark Moon Moonstone of the Covenant"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1920, "y": 1145 }
+        ]
+      },
+      {
+        "name": "Thermite",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/next to some boxes"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 477, "y": 1882 }
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/under a archway"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 682, "y": 1862 }
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/Red Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1554, "y": 1764 }
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/dead-end by cliffs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1512, "y": 2145 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/next to wagon"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1154, "y": 1781 }
+        ]
+      },
+      {
+        "name": "Gemini's Iron Protection",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/before drop down"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1257, "y": 1700 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/infront of a bush"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 598, "y": 2126 }
+        ]
+      },
+      {
+        "name": "Currupted Parade Master drop",
+        "sections": [
+          {
+            "ref": "Collapsing Krat - Locations/Full Moonstone"
+          },
+          {
+            "ref": "Collapsing Krat - Locations/Quartz"
+          }
+        ],
+        "map_locations": [
+          { "map": "Collapsing Krat", "x": 1122, "y": 2258 }
+        ]
+      }
+    ]
+}
+]
