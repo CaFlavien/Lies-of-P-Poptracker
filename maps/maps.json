@@ -154,5 +154,11 @@
     "location_size": 12,
     "location_border_thickness": 2,
     "img": "images/maps/collapsing_krat.png"
+  },
+  {
+    "name": "Relic of Trismegistus",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/relic_of_trismegistus.png"
   }
 ]

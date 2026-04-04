@@ -52,6 +52,10 @@
             "access_rules": []
         },
         {
+            "name": "on corpse",
+            "access_rules": []
+        },
+        {
             "name": "next to trash can",
             "access_rules": []
         },

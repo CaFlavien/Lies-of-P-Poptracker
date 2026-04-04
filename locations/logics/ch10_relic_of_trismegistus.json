@@ -1,0 +1,80 @@
+[
+    {
+      "name": "Relic of Trismegistus - Locations",
+      "access_rules": ["boss_green_monster"],
+      "sections": [
+        {
+            "name": "next to a trap",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop (1)",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop (2)",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop (3)",
+            "access_rules": []
+        },
+        {
+            "name": "ledge by triple Red Butterfly spawn",
+            "access_rules": []
+        },
+        {
+            "name": "next to a elevator",
+            "access_rules": []
+        },
+        {
+            "name": "ledge next to a trap",
+            "access_rules": []
+        },
+        {
+            "name": "Puppet Elite drop",
+            "access_rules": []
+        },
+        {
+            "name": "chest on broken bridge",
+            "access_rules": []
+        },
+        {
+            "name": "trap near Black Rabbit Brotherhood rematch",
+            "access_rules": []
+        },
+        {
+            "name": "drop down (1)",
+            "access_rules": []
+        },
+        {
+            "name": "drop down (2)",
+            "access_rules": []
+        },
+        {
+            "name": "jump onto rock",
+            "access_rules": []
+        },
+        {
+            "name": "chest before Black Rabbit Brotherhood rematch",
+            "access_rules": []
+        },
+        {
+            "name": "Black Rabbit Brotherhood remach drop",
+            "access_rules": []
+        },
+        {
+            "name": "next to fake Alidoro",
+            "access_rules": []
+        },
+        {
+            "name": "by a fence",
+            "access_rules": []
+        },
+        {
+            "name": "near submarine",
+            "access_rules": []
+        }
+    ]
+}
+]

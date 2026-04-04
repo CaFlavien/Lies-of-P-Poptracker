@@ -185,6 +185,18 @@
         }
       },
       {
+        "title": "Ch10",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "ROT",
+              "content": { "type": "map", "maps": ["Relic of Trismegistus"] }
+            }
+          ]
+        }
+      },
+      {
         "title": "Hotel Krat",
         "content": {
           "type": "tabbed",

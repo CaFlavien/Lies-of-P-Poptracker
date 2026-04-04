@@ -104,3 +104,7 @@ Tracker:AddLocations("locations/logics/ch09_krat_central_station_return.json")
 -- Ch09 - Collapsing Krat
 Tracker:AddLocations("locations/ch09_collapsing_krat.json")
 Tracker:AddLocations("locations/logics/ch09_collapsing_krat.json")
+
+-- Ch10 - Relic of Trismegistus
+Tracker:AddLocations("locations/ch10_relic_of_trismegistus.json")
+Tracker:AddLocations("locations/logics/ch10_relic_of_trismegistus.json")
