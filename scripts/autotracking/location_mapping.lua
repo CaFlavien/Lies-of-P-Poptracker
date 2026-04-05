@@ -711,6 +711,62 @@ LOCATION_MAPPING = {
     [576] = { "@Collapsing Krat - Locations/Full Moonstone" },
     [577] = { "@Collapsing Krat - Locations/Quartz" },
 
+    -- =========================================================
+    -- Relic of Trismegistus (IDs 594-611)
+    -- =========================================================
+    
+    [594] = { "@Relic of Trismegistus - Locations/next to a trap" },
+    [595] = { "@Relic of Trismegistus - Locations/Red Butterfly drop (1)" },
+    [596] = { "@Relic of Trismegistus - Locations/Red Butterfly drop (2)" },
+    [597] = { "@Relic of Trismegistus - Locations/Red Butterfly drop (3)" },
+    [598] = { "@Relic of Trismegistus - Locations/ledge by triple Red Butterfly spawn" },
+    [599] = { "@Relic of Trismegistus - Locations/next to a elevator" },
+    [600] = { "@Relic of Trismegistus - Locations/ledge next to a trap" },
+    [601] = { "@Relic of Trismegistus - Locations/Puppet Elite drop" },
+    [602] = { "@Relic of Trismegistus - Locations/chest on broken bridge" },
+    [603] = { "@Relic of Trismegistus - Locations/trap near Black Rabbit Brotherhood rematch" },
+    [604] = { "@Relic of Trismegistus - Locations/drop down (1)" },
+    [605] = { "@Relic of Trismegistus - Locations/drop down (2)" },
+    [606] = { "@Relic of Trismegistus - Locations/jump onto rock" },
+    [607] = { "@Relic of Trismegistus - Locations/chest before Black Rabbit Brotherhood rematch" },
+    [608] = { "@Relic of Trismegistus - Locations/Black Rabbit Brotherhood remach drop" },
+    [609] = { "@Relic of Trismegistus - Locations/next to fake Alidoro" },
+    [610] = { "@Relic of Trismegistus - Locations/by a fence" },
+    [611] = { "@Relic of Trismegistus - Locations/near submarine" },
+
+    -- =========================================================
+    -- Black Seaside (IDs 612-640)
+    -- =========================================================
+
+    [612] = { "@Black Seaside - Locations/beach (1)" },
+    [613] = { "@Black Seaside - Locations/beach (2)" },
+    [614] = { "@Black Seaside - Locations/beach (3)" },
+    [615] = { "@Black Seaside - Locations/beach (4)" },
+    [616] = { "@Black Seaside - Locations/beach (5)" },
+    [617] = { "@Black Seaside - Locations/beach (6)" },
+    [618] = { "@Black Seaside - Locations/beach (7)" },
+    [619] = { "@Black Seaside - Locations/beach (8)" },
+    [620] = { "@Black Seaside - Locations/beach (9)" },
+    [621] = { "@Black Seaside - Locations/beach (10)" },
+    [622] = { "@Black Seaside - Locations/beach (11)" },
+    [623] = { "@Black Seaside - Locations/beach (12)" },
+    [624] = { "@Black Seaside - Locations/beach (13)" },
+    [625] = { "@Black Seaside - Locations/beach (14)" },
+    [626] = { "@Black Seaside - Locations/beach (15)" },
+    [627] = { "@Black Seaside - Locations/beach (16)" },
+    [628] = { "@Black Seaside - Locations/beach (17)" },
+    [629] = { "@Black Seaside - Locations/beach (18)" },
+    [630] = { "@Black Seaside - Locations/beach (19)" },
+    [631] = { "@Black Seaside - Locations/beach (20)" },
+    [632] = { "@Black Seaside - Locations/beach (21)" },
+    [633] = { "@Black Seaside - Locations/beach (22)" },
+    [634] = { "@Black Seaside - Locations/beach (23)" },
+    [635] = { "@Black Seaside - Locations/altar center of staircase" },
+    [636] = { "@Black Seaside - Locations/behind cannons" },
+    [637] = { "@Black Seaside - Locations/staircase next to statue" },
+    [638] = { "@Black Seaside - Locations/behind statue" },
+    [639] = { "@Black Seaside - Locations/second level of stairs" },
+    [640] = { "@Black Seaside - Locations/Door Guardian drop" },
 
     
 

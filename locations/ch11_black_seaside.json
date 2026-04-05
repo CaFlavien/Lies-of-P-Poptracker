@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Black Seaside",
+    "children": [
+        {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (3)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (4)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (5)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (6)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (7)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (8)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (9)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (10)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach 11)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (12)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (13)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (14)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (15)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (16)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (17)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (18)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 588, "y": 1123 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (19)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (20)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (21)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 423, "y": 1082 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (22)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 842, "y": 395 }
+        ]
+      },
+      {
+        "name": "Shot Put",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/beach (23)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 592, "y": 1015 }
+        ]
+      },
+      {
+        "name": "So Said Pistris II",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/altar center of staircase"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 544, "y": 902 }
+        ]
+      },
+      {
+        "name": "Acid Canister",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/behind cannons"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 754, "y": 918 }
+        ]
+      },
+      {
+        "name": "Shot Put",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/staircase next to statue"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 425, "y": 861 }
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/behind statue"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 603, "y": 882 }
+        ]
+      },
+      {
+        "name": "Acid Abrasive",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/second level of stairs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 452, "y": 684 }
+        ]
+      },
+      {
+        "name": "High-Level Alchemist Badge",
+        "sections": [
+          {
+            "ref": "Black Seaside - Locations/Door Guardian drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Black Seaside", "x": 521, "y": 414 }
+        ]
+      }
+    ]
+}
+]

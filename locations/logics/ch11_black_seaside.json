@@ -1,0 +1,124 @@
+[
+    {
+      "name": "Black Seaside - Locations",
+      "access_rules": ["boss_black_rabbit_2"],
+      "sections": [
+        {
+            "name": "beach (1)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (2)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (3)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (4)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (5)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (6)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (7)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (8)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (9)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (10)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (11)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (12)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (13)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (14)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (15)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (16)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (17)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (18)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (19)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (20)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (21)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (22)",
+            "access_rules": []
+        },
+        {
+            "name": "beach (23)",
+            "access_rules": []
+        },
+        {
+            "name": "altar center of staircase",
+            "access_rules": []
+        },
+        {
+            "name": "behind cannons",
+            "access_rules": []
+        },
+        {
+            "name": "staircase next to statue",
+            "access_rules": []
+        },
+        {
+            "name": "behind statue",
+            "access_rules": []
+        },
+        {
+            "name": "second level of stairs",
+            "access_rules": []
+        },
+        {
+            "name": "Door Guardian drop",
+            "access_rules": []
+        }
+    ]
+}
+]
