@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Krat Central Station",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/krat_central_station.png"
+  },
+  {
+    "name": "Krat Central Station Plaza",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/krat_central_station_plaza.png"
+  },
+  {
+    "name": "Elysion Boulevard",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/elysion_boulevard.png"
+  },
+  {
+    "name": "Elysion Boulevard Alchemist Bridge",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/elysion_boulevard_alchemist_bridge.png"
+  },
+  {
+    "name": "Krat City Hall",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/krat_city_hall.png"
+  },
+  {
+    "name": "Hotel Krat - Entrance",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/hotel_krat_entrance.png"
+  },
+  {
+    "name": "Hotel Krat - Main Floor",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/hotel_krat_main_floor.png"
+  },
+  {
+    "name": "Hotel Krat - Upper Floor",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/hotel_krat_upper_floor.png"
+  },
+  {
+    "name": "Workshop Union Entrance",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/workshop_union_entrance.png"
+  },
+  {
+    "name": "Workshop Union Culvert",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/workshop_union_culvert.png"
+  },
+  {
+    "name": "Venigni Works Control Room",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/venigni_works_control_room.png"
+  },
+  {
+    "name": "Venigni's Workshop",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/venigni_workshop.png"
+  },
+  {
+    "name": "MoonLight Town",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/moonlight_town.png"
+  },
+  {
+    "name": "Path of Misery",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/path_of_misery.png"
+  },
+  {
+    "name": "St. Frangelico Cathedral Chapel",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/st_frangelico_cathedral_chapel.png"
+  },
+  {
+    "name": "St. Frangelico Cathedral Library",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/st._frangelico_cathedral_library.png"
+  },
+  {
+    "name": "Path of the Pilgrim",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/path_of_the_pilgrim.png"
+  },
+  {
+    "name": "Malum District",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/malum_district.png"
+  },
+  {
+    "name": "Rosa Isabelle Street",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/rosa_isabbell_street.png"
+  },
+  {
+    "name": "Estella Opera House",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/etella_opera_house.png"
+  },
+  {
+    "name": "Lorenzini Arcade",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/lorenzini_arcade.png"
+  },
+  {
+    "name": "Grand Exhibition",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/grand_exhibition.png"
+  },
+  {
+    "name": "Barren Swamp",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/barren_swamp.png"
+  },
+  {
+    "name": "Hermit Cave",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/hermit_cave.png"
+  },
+  {
+    "name": "Krat Central Station Return",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/krat_central_station_return.png"
+  },
+  {
+    "name": "Collapsing Krat",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/collapsing_krat.png"
+  },
+  {
+    "name": "Relic of Trismegistus",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/relic_of_trismegistus.png"
+  },
+  {
+    "name": "Black Seaside",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/black_seaside.png"
+  },
+  {
+    "name": "Arche Abbey Entrance",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_entrance.png"
+  },
+  {
+    "name": "Arche Abbey Inside",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_inside.png"
+  },
+  {
+    "name": "Arche Abbey Lower Outer Wall",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_lower_outer_wall.png"
+  },
+  {
+    "name": "Arche Abbey Passageway",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_passageway.png"
+  },
+  {
+    "name": "Arche Abbey Upper Outer Wall",
+    "location_size": 12,
+    "location_border_thickness": 2,
+    "img": "images/maps/arche_abbey_upper_outer_wall.png"
+  }
+]

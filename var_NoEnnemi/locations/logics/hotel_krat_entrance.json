@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Hotel Krat Entrance - Locations",
+    "access_rules": ["key_central_station, boss_parade_master"],
+    "sections": [
+      {
+        "name": "wagon near fountain after Parade Master",
+        "access_rules": []
+      },
+      {
+        "name": "wagon near dead-end after Parade Master",
+        "access_rules": []
+      },
+      {
+        "name": "garden before Hotel Krat door",
+        "access_rules": []
+      },
+      {
+        "name": "pile of corpses before Hotel Krat door",
+        "access_rules": []
+      }
+    ]
+  }
+]

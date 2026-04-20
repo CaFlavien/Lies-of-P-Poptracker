@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Hermit Cave - Locations",
+      "access_rules": ["boss_victor,krat_supply_box,sturdy_supply_box,special_supply_box"],
+      "sections": [
+        {
+            "name": "on table",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end",
+            "access_rules": []
+        },
+        {
+            "name": "on shack roof",
+            "access_rules": []
+        },
+        {
+            "name": "in shack",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end near shack",
+            "access_rules": []
+        },
+        {
+            "name": "path around trip wire",
+            "access_rules": []
+        },
+        {
+            "name": "chest in small shack",
+            "access_rules": []
+        },
+        {
+            "name": "outside small shack",
+            "access_rules": []
+        },
+        {
+            "name": "underneath a small dropdown",
+            "access_rules": []
+        },
+        {
+            "name": "last platform on mutiple drops",
+            "access_rules": []
+        },
+        {
+            "name": "bottom of ladder by stargazer",
+            "access_rules": []
+        },
+        {
+            "name": "chest guarded by strong carcass enemy",
+            "access_rules": []
+        },
+        {
+            "name": "across wooden beam",
+            "access_rules": []
+        },
+        {
+            "name": "after jump by ladder",
+            "access_rules": []
+        },
+        {
+            "name": "Black Cat's Hunting Apparel",
+            "access_rules": []
+        },
+        {
+            "name": "Quartz",
+            "access_rules": []
+        }
+    ]
+    }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "name": "Parade Master",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/parade_master.jpg",
+    "codes": "boss_parade_master"
+  },
+  {
+    "name": "Scrapped Watchman",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/scrapped_watchman.jpg",
+    "codes": "boss_scrapped_watchman"
+  },
+  {
+    "name": "King's Flame Fuoco",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/king_flame_fuoco.jpg",
+    "codes": "boss_fuoco"
+  },
+  {
+    "name": "Fallen Archbishop Andreus",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/fallen_archbishop_andreus.jpg",
+    "codes": "boss_andreus"
+  },
+  {
+    "name": "Black Rabbit Brotherhood",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/black_rabbit_brotherhood.jpg",
+    "codes": "boss_black_rabbit"
+  },
+  {
+    "codes": "boss_black_rabbit"
+  },
+  {
+    "name": "Romeo, King of Puppets",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/romeo_king_of_puppets.jpg",
+    "codes": "boss_romeo"
+  },
+  {
+    "name": "Champion Victor",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/champion_victor.jpg",
+    "codes": "boss_victor"
+  },
+  {
+    "name": "Green Monster of the Swamp",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/green_monster_of_the_swamp.jpg",
+    "codes": "boss_green_monster"
+  },
+  {
+    "name": "Corrupted Parade Master",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/corrupted_parade_master.jpg",
+    "codes": "boss_corrupted_parade_master"
+  },
+  {
+    "name": "Black Rabbit Brotherhood Rematch",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/black_rabbit_brotherhood_rematch.jpg",
+    "codes": "boss_black_rabbit_2"
+  },
+  {
+    "name": "Laxasia",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/laxasia.jpg",
+    "codes": "boss_laxasia"
+  },
+  {
+    "name": "Simon Manus",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/simon_manus.jpg",
+    "codes": "boss_simon_manus"
+  },
+  {
+    "name": "Nameless Puppet",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/nameless_puppet.jpg",
+    "codes": "boss_nameless_puppet"
+  },
+  {
+    "name": "Tyrannical Predator",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/tyrannical-predator.png",
+    "codes": "boss_tyrannical_predator"
+  },
+  {
+    "name": "Markiona, Puppeteer of Death",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/markiona-puppeteer-of-death.png",
+    "codes": "boss_markiona"
+  },
+  {
+    "name": "Veronique, Leader of the Sweepers",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/veronique-leader-of-the-sweepers.png",
+    "codes": "boss_veronique"
+  },
+  {
+    "name": "Two-Faced Overseer",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/two-faced-overseer.png",
+    "codes": "boss_two_faced_overseer"
+  },
+  {
+    "name": "Premetamorphic Green Hunter",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/premetamorphic-green-hunter.png",
+    "codes": "boss_premetamorphic_green_hunter"
+  },
+  {
+    "name": "Anguished Guardian of the Ruins",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/anguished-guardian-of-the-ruins.png",
+    "codes": "boss_anguished_guardian"
+  },
+  {
+    "name": "Lumacchio, Leader of the Bastards",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/lumacchio-leader-of-the-bastards.png",
+    "codes": "boss_lumacchio"
+  },
+  {
+    "name": "Arlecchino",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/boss/arlecchino.png",
+    "codes": "boss_arlecchino"
+  }
+]

@@ -1,0 +1,189 @@
+{
+  "upgrades": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "moonstone_hidden",
+                "moonstone_cresent",
+                "moonstone_half",
+                "moonstone_full"
+              ],
+              ["moonstone_covenant", "moonstone_full_covenant", "quartz"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "function": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              ["fancy_vc", "great_vc", "incredible_vc", "grinder_mod_tool"],
+              [
+                "krat_supply_box",
+                "sturdy_supply_box",
+                "special_supply_box",
+                "enigma_assembly_tool"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keys_mandatory": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "key_central_station",
+                "key_cityhall",
+                "key_cityhall_courtyard",
+                "key_cable_railway"
+              ],
+              [
+                "key_rosa_isabelle",
+                "key_arcade_1f",
+                "key_arcade_underground",
+                "key_alchemist_badge"
+              ],
+              ["key_arche_abbey"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keys_optional": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "key_trinity",
+                "key_chosen_trinity",
+                "key_slum_shack",
+                "key_saintess_gallery"
+              ],
+              ["key_dottedpaper_room"]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "vessels": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0, 10, 0, 0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "4, 4",
+            "h_alignment": "left",
+            "rows": [
+              [
+                "cv_dottedpaper_01",
+                "cv_dottedpaper_02",
+                "cv_dottedpaper_03",
+                "cv_dottedpaper_04",
+                "cv_dottedpaper_05",
+                "cv_dottedpaper_06"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "bosses": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0, 0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "4, 4",
+        "h_alignment": "left",
+        "rows": [
+          [
+            "boss_parade_master",
+            "boss_scrapped_watchman",
+            "boss_fuoco",
+            "boss_andreus",
+            "boss_black_rabbit",
+            "boss_romeo"
+          ],
+          [
+            "boss_victor",
+            "boss_green_monster",
+            "boss_black_rabbit_2",
+            "boss_laxasia",
+            "boss_simon_manus",
+            "boss_nameless_puppet"
+          ],
+          [
+            "boss_tyrannical_predator",
+            "boss_markiona",
+            "boss_veronique",
+            "boss_two_faced_overseer",
+            "boss_premetamorphic_green_hunter",
+            "boss_anguished_guardian"
+          ],
+          ["boss_lumacchio", "boss_arlecchino"]
+        ]
+      }
+    ]
+  }
+}

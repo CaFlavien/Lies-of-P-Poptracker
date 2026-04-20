@@ -1,0 +1,112 @@
+[
+    {
+      "name": "Estella Opera House - Locations",
+      "access_rules": ["key_rosa_isabelle,boss_black_rabbit"],
+      "sections": [
+        {
+            "name": "statue by stargazer",
+            "access_rules": []
+        },
+        {
+            "name": "on a bench",
+            "access_rules": []
+        },
+        {
+            "name": "by spotlight",
+            "access_rules": []
+        },
+        {
+            "name": "front of shortcut door",
+            "access_rules": []
+        },
+        {
+            "name": "right side lower balcony",
+            "access_rules": []
+        },
+        {
+            "name": "right side upper balcony",
+            "access_rules": []
+        },
+        {
+            "name": "chest near Adelina",
+            "access_rules": []
+        },
+        {
+            "name": "on a table in hallway",
+            "access_rules": []
+        },
+        {
+            "name": "chest in dark room",
+            "access_rules": []
+        },
+        {
+            "name": "in safe in small room",
+            "access_rules": []
+        },
+        {
+            "name": "sculpture of head",
+            "access_rules": []
+        },
+        {
+            "name": "beside Trinity door",
+            "access_rules": []
+        },
+        {
+            "name": "safe in small room",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end of hallway",
+            "access_rules": []
+        },
+        {
+            "name": "table in hallway",
+            "access_rules": []
+        },
+        {
+            "name": "on desk",
+            "access_rules": []
+        },
+        {
+            "name": "chest next to bookcase",
+            "access_rules": []
+        },
+        {
+            "name": "wood beam",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop",
+            "access_rules": []
+        },
+        {
+            "name": "shortcut gate",
+            "access_rules": []
+        },
+        {
+            "name": "before King of Puppets",
+            "access_rules": []
+        },
+        {
+            "name": "Burnt-White King's Ergo",
+            "access_rules": []
+        },
+        {
+            "name": "Puppet Prince's Formal Dress",
+            "access_rules": []
+        },
+        {
+            "name": "Someone's Necklace",
+            "access_rules": []
+        },
+        {
+            "name": "Trinity door loot (1)",
+            "access_rules": ["key_trinity"]
+        },
+        {
+            "name": "Trinity door loot (2)",
+            "access_rules": ["key_trinity"]
+        }
+    ]
+}
+]

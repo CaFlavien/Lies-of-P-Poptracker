@@ -1,0 +1,329 @@
+[
+  {
+    "name": "Arche Abbey Lower Outer Wall",
+    "children": [
+        {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Arche Abbey Lower Outer Wall - Locations/before drop down"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Lower Outer Wall", "x": 753, "y": 849}
+        ]
+      },
+        {
+            "name": "Acid Abrasive",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/ledge"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 832, "y": 1025}
+            ]
+        },
+        {
+            "name": "Carcass Body Fluid Bottle",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/next to ladder"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1097, "y": 925}
+            ]
+        },
+        {
+            "name": "Bundle of Old Letters",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/on stack of books"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1108, "y": 897}
+            ]
+        },
+        {
+            "name": "Venigni's Urgent Repair Tool",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/in front of cauldron"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1081, "y": 789}
+            ]
+        },
+        {
+            "name": "Full Moonstone of the Covenant",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/Red Butterfly drop"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1146, "y": 792}
+            ]
+        },
+        {
+            "name": "Half Moonstone",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/next to altar"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1163, "y": 772}
+            ]
+        },
+        {
+            "name": "Dim Ergo Crystal",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/next to bench"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1134, "y": 755}
+            ]
+        },
+        {
+            "name": "Shot Put",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/drop down"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1127, "y": 643}
+            ]
+        },
+        {
+            "name": "Special Purification Ampoule",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/corpse in small room"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1170, "y": 603}
+            ]
+        },
+        {
+            "name": "First Discovery, Camille",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/next to bookcase"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1241, "y": 568}
+            ]
+        },
+        {
+            "name": "Acidic Great Curved Sword",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/chest in small room"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1058, "y": 492}
+            ]
+        },
+        {
+            "name": "Gemini's Iron Protection",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/drop down in trap tower"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 929, "y": 446}
+            ]
+        },
+        {
+            "name": "Special Resistance Ampoule",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/on roof(1)"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 993, "y": 649}
+            ]
+        },
+        {
+            "name": "Full Moonstone of the Covenant",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/on roof(2)"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1024, "y": 622}
+            ]
+        },
+        {
+            "name": "LADA F350 Frame",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/chest next to altar"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 744, "y": 637}
+            ]
+        },
+        {
+            "name": "Acid Canister",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/ledge across small wooden beam"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 534, "y": 720}
+            ]
+        },
+        {
+            "name": "Electric Blitz Abrasive",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/small wood beam after jump"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 527, "y": 755}
+            ]
+        },
+        {
+            "name": "Balance Crank",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/ledge after ladder"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 736, "y": 519}
+            ]
+        },
+        {
+            "name": "Full Moonstone",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/ledge above wooden platform"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 783, "y": 247}
+            ]
+        },
+        {
+            "name": "Fable Catalyst",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/small room with trap"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 858, "y": 249}
+            ]
+        },
+        {
+            "name": "Gemini's Iron Protection",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/on ledge"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1037, "y": 282}
+            ]
+        },
+        {
+            "name": "answer Arlecchino's final question",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/Alchemist's Cape"
+            },
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/Quartz"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1198, "y": 236}
+            ]
+        },
+        {
+            "name": "Acid Canister",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/center of room"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1175, "y": 135}
+            ]
+        },
+        {
+            "name": "Resplendent Ergo Chunk",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/ledge after elevator drop"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 978, "y": 320}
+            ]
+        },
+        {
+            "name": "Legion Caliber",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/chest after elevator drop"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 1102, "y": 236}
+            ]
+        },
+        {
+            "name": "Full Moonstone",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/Orange Butterfly drop"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 635, "y": 364}
+            ]
+        },
+        {
+            "name": "Electric Blitz Canister",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/small statues"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 635, "y": 238}
+            ]
+        },
+        {
+            "name": "Gemini's Emergency Protection",
+            "sections": [
+            {
+                "ref": "Arche Abbey Lower Outer Wall - Locations/below elevator"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Lower Outer Wall", "x": 607, "y": 434}
+            ]
+        }
+    ]
+}
+]

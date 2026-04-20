@@ -1,0 +1,80 @@
+[
+  {
+    "name": "St. Frangelico Cathedral Library - Locations",
+    "access_rules": ["boss_fuoco, key_cable_railway"],
+    "sections": [
+      {
+        "name": "next to St. Frangelico Cathedral Library stargazer",
+        "access_rules": []
+      },
+      {
+        "name": "Purple Butterfly drop",
+        "access_rules": []
+      },
+      {
+        "name": "behind a pillar near Purple Butterfly",
+        "access_rules": []
+      },
+      {
+        "name": "chest near Purple Butterfly",
+        "access_rules": []
+      },
+      {
+        "name": "before shortcut door near Purple Butterfly",
+        "access_rules": []
+      },
+      {
+        "name": "room with decay falling from above",
+        "access_rules": []
+      },
+      {
+        "name": "across the bridge",
+        "access_rules": []
+      },
+      {
+        "name": "altar near decay pool",
+        "access_rules": []
+      },
+      {
+        "name": "inside decay pool",
+        "access_rules": []
+      },
+      {
+        "name": "between a staircase and bookcase",
+        "access_rules": []
+      },
+      {
+        "name": "balcony",
+        "access_rules": []
+      },
+      {
+        "name": "altar near two angel statues",
+        "access_rules": []
+      },
+      {
+        "name": "safe near two angel statues",
+        "access_rules": []
+      },
+      {
+        "name": "dead-end with decay falling from ceiling",
+        "access_rules": []
+      },
+      {
+        "name": "altar near shortcut Archbishop",
+        "access_rules": []
+      },
+      {
+        "name": "above St. Frangelico Cathedral Library stargazer",
+        "access_rules": []
+      },
+      {
+        "name": "Fallen Archbishop Andreus drop",
+        "access_rules": []
+      },
+      {
+        "name": "after the elevator from Archbishop",
+        "access_rules": ["boss_andreus"]
+      }
+    ]
+  }
+]

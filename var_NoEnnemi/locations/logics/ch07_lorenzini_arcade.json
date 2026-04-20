@@ -1,0 +1,157 @@
+[
+    {
+      "name": "Lorenzini Arcade - Locations",
+      "access_rules": ["boss_romeo"],
+      "sections": [
+        {
+            "name": "puppet corpse by red boxes",
+            "access_rules": []
+        },
+        {
+            "name": "small alley",
+            "access_rules": []
+        },
+        {
+            "name": "lamp post",
+            "access_rules": []
+        },
+        {
+            "name": "small room",
+            "access_rules": []
+        },
+        {
+            "name": "upstairs",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end down some stairs",
+            "access_rules": []
+        },
+        {
+            "name": "next to wagon",
+            "access_rules": []
+        },
+        {
+            "name": "market stand",
+            "access_rules": []
+        },
+        {
+            "name": "chest up ladder",
+            "access_rules": []
+        },
+        {
+            "name": "bottom left in courtyard",
+            "access_rules": []
+        },
+        {
+            "name": "top right in courtyard",
+            "access_rules": []
+        },
+        {
+            "name": "top left in courtyard",
+            "access_rules": []
+        },
+        {
+            "name": "small room on floor",
+            "access_rules": []
+        },
+        {
+            "name": "small room on counter",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end near big door",
+            "access_rules": []
+        },
+        {
+            "name": "on small ledge",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "Orange Butterfly Drop",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "other side of big hole",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "Carcass Elite drop",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "in blood water",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "in bedroom",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "on wooden boxes",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "in hallway",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "corner of circular room",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "bathroom",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "fountain",
+            "access_rules": ["key_arcade_1f"]
+        },
+        {
+            "name": "Red Butterfly drop",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "second Red Butterfly drop",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "safe near decay bubbles",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "dead-end near decay bubbles",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "next to table at the bar",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "between two tables at the bar",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "drop from jester elite puppet",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "carcass jail cell",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "in front of barrels jester elite smashes",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "next to pillar",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        },
+        {
+            "name": "next to big shortcut gate",
+            "access_rules": ["key_arcade_underground, key_arcade_1f"]
+        }
+    
+        ]
+}
+]

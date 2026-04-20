@@ -1,0 +1,168 @@
+[
+  {
+    "name": "Malum District - Locations",
+    "access_rules": ["key_cable_railway,boss_andreus"],
+    "sections": [
+      {
+        "name": "metal gate a carcass dog breaks",
+        "access_rules": []
+      },
+      {
+        "name": "up ladder on scaffolding",
+        "access_rules": []
+      },
+      {
+        "name": "behind destructable barrel on a stool",
+        "access_rules": []
+      },
+      {
+        "name": "behind where the floor can fall in the brewly",
+        "access_rules": []
+      },
+      {
+        "name": "chest after falling in the brewly",
+        "access_rules": []
+      },
+      {
+        "name": "corpse near a staircase at the brewly",
+        "access_rules": []
+      },
+      {
+        "name": "shortcut door in the brewly",
+        "access_rules": []
+      },
+      {
+        "name": "ladder that leads outside",
+        "access_rules": []
+      },
+      {
+        "name": "exit that leads outside",
+        "access_rules": []
+      },
+      {
+        "name": "Carcass Elite drop",
+        "access_rules": []
+      },
+      {
+        "name": "right side of the outside",
+        "access_rules": []
+      },
+      {
+        "name": "chest in the outside",
+        "access_rules": []
+      },
+      {
+        "name": "left side of the outside",
+        "access_rules": []
+      },
+      {
+        "name": "back right side of the outside",
+        "access_rules": []
+      },
+      {
+        "name": "Red Butterfly drop",
+        "access_rules": []
+      },
+      {
+        "name": "roofs where the floor can break",
+        "access_rules": []
+      },
+      {
+        "name": "right side of the roofs",
+        "access_rules": []
+      },
+      {
+        "name": "pillar on the roofs",
+        "access_rules": []
+      },
+      {
+        "name": "left side of the roofs",
+        "access_rules": []
+      },
+      {
+        "name": "chest on the roofs",
+        "access_rules": []
+      },
+      {
+        "name": "cell in the back left side of the outside",
+        "access_rules": []
+      },
+      {
+        "name": "jump near shortcut gate",
+        "access_rules": []
+      },
+      {
+        "name": "after jump near shortcut gate",
+        "access_rules": []
+      },
+      {
+        "name": "alley nearshortcut gate",
+        "access_rules": []
+      },
+      {
+        "name": "staircase by shortcute gate",
+        "access_rules": []
+      },
+      {
+        "name": "alley downstairs by barrel fire",
+        "access_rules": []
+      },
+      {
+        "name": "corner by cages with carcass dogs",
+        "access_rules": []
+      },
+      {
+        "name": "ledge before trap from Black Rabbit Brotherhood",
+        "access_rules": []
+      },
+      {
+        "name": "gate that a carcass dog breaks",
+        "access_rules": []
+      },
+      {
+        "name": "ladder near gate",
+        "access_rules": []
+      },
+      {
+        "name": "piano inside the bar",
+        "access_rules": []
+      },
+      {
+        "name": "counter at the bar",
+        "access_rules": []
+      },
+      {
+        "name": "kegs at the bar",
+        "access_rules": []
+      },
+      {
+        "name": "small stairs inside bar",
+        "access_rules": []
+      },
+      {
+        "name": "couch inside the bar",
+        "access_rules": []
+      },
+      {
+        "name": "chest near Merchant",
+        "access_rules": []
+      },
+      {
+        "name": "Black Rabbit Brotherhood drop",
+        "access_rules": []
+      },
+      {
+        "name": "hanging puppet",
+        "access_rules": ["boss_black_rabbit"]
+      },
+      {
+        "name": "chest in Black Rabbit Brotherhood hideout",
+        "access_rules": ["boss_black_rabbit"]
+      },
+      {
+        "name": "upstairs in Black Rabbit Brotherhood hideout",
+        "access_rules": ["boss_black_rabbit"]
+      }
+    ]
+  }
+]

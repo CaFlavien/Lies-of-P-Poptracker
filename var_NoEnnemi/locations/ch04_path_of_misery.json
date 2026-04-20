@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Path of Misery",
+    "children": [
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          { "ref": "Path of Misery - Locations/shack after carcass cutscene" }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 1252, "y": 289 }]
+      },
+      {
+        "name": "Venigni's Urgent Repair Tool",
+        "sections": [
+          {
+            "ref": "Path of Misery - Locations/shack towards collapsing bridge"
+          }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 1264, "y": 603 }]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          { "ref": "Path of Misery - Locations/before collapsing bridge" }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 1189, "y": 684 }]
+      },
+      {
+        "name": "Sawtoothed Wheel",
+        "sections": [
+          {
+            "ref": "Path of Misery - Locations/corner behind some destructable boxes"
+          }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 1067, "y": 1347 }]
+      },
+      {
+        "name": "Woman's Prayer",
+        "sections": [
+          { "ref": "Path of Misery - Locations/statue you can pray to" }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 628, "y": 1207 }]
+      },
+      {
+        "name": "Fire Abrasive",
+        "sections": [
+          { "ref": "Path of Misery - Locations/bench inside of the church" }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 667, "y": 1328 }]
+      },
+      {
+        "name": "Belford Break Cartridge",
+        "sections": [
+          { "ref": "Path of Misery - Locations/chest behind Giango" }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 772, "y": 959 }]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Path of Misery - Locations/right side of bridge to St. Frangelico Cathedral Chapel"
+          }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 434, "y": 1760 }]
+      },
+      {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Path of Misery - Locations/end of bridge to St. Frangelico Cathedral Chapel"
+          }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 500, "y": 2010 }]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Path of Misery - Locations/near stargazer after cable lift"
+          }
+        ],
+        "map_locations": [{ "map": "Path of Misery", "x": 1594, "y": 545 }]
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "MoonLight Town - Locations",
+    "access_rules": ["boss_fuoco"],
+    "sections": [
+      {
+        "name": "tunnel leaving Venigni Works",
+        "access_rules": []
+      },
+      {
+        "name": "behind boxes before the mines",
+        "access_rules": []
+      },
+      {
+        "name": "minecart",
+        "access_rules": []
+      },
+      {
+        "name": "scaffolding after the mines",
+        "access_rules": []
+      },
+      {
+        "name": "behind box on scaffolding",
+        "access_rules": []
+      },
+      {
+        "name": "chest on top of scaffolding",
+        "access_rules": []
+      },
+      {
+        "name": "pit near explosive barrels",
+        "access_rules": []
+      },
+      {
+        "name": "before wood wall that a Puppet breaks",
+        "access_rules": []
+      },
+      {
+        "name": "Inside wood wall the Puppet breaks down",
+        "access_rules": []
+      },
+      {
+        "name": "Shovel elite enemy drop",
+        "access_rules": []
+      },
+      {
+        "name": "dropdown near fallen tree",
+        "access_rules": []
+      },
+      {
+        "name": "well",
+        "access_rules": []
+      },
+      {
+        "name": "shack near a campfire",
+        "access_rules": []
+      },
+      {
+        "name": "collapsing bridge",
+        "access_rules": []
+      },
+      {
+        "name": "first Red Butterfly drop",
+        "access_rules": []
+      },
+      {
+        "name": "second Red Butterfly drop",
+        "access_rules": []
+      },
+      {
+        "name": "gravestone after the Red Butterflies",
+        "access_rules": []
+      },
+      {
+        "name": "chest, ambush with locked gate",
+        "access_rules": []
+      },
+      {
+        "name": "on the ground, ambush with locked gate",
+        "access_rules": []
+      },
+      {
+        "name": "lever to open the gate",
+        "access_rules": []
+      },
+      {
+        "name": "gravestone before Atoned",
+        "access_rules": []
+      }
+    ]
+  }
+]

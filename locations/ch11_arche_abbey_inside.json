@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Arche Abbey Inside",
+    "children": [
+        {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/in room near Sophia's actual body"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 511, "y": 887}
+        ]
+      },
+      {
+        "name": "Full Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/on unused elevator"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 509, "y": 538}
+        ]
+      },
+      {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/dead-end upstairs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 517, "y": 389}
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/balcony upstairs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 583, "y": 289}
+        ]
+      },
+      {
+        "name": "Dim Ergo Crystal",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/under archway"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 608, "y": 330}
+        ]
+      },
+      {
+        "name": "Special Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/next to bookcase"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 597, "y": 403}
+        ]
+      },
+      {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/drop down by stairs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 524, "y": 413}
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/chest in room down stairs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 423, "y": 432}
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/next to cauldron"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 601, "y": 263}
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/dead-end behind stairs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 676, "y": 161}
+        ]
+      },
+      {
+        "name": "Full Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/before wood beam"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 431, "y": 159}
+        ]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/on ledge"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 810, "y": 543}
+        ]
+      },
+      {
+        "name": "Electric Blitz Abrasive",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/dead-end across first wood beam"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 677, "y": 504}
+        ]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/dead-end before second wood beam"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 719, "y": 347}
+        ]
+      },
+      {
+        "name": "Cat Dust",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/dead-end across second wood beam"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 708, "y": 417}
+        ]
+      },
+      {
+        "name": "Full Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/next to elevator"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 818, "y": 873}
+        ]
+      },
+      {
+        "name": "Venigni's Urgent Repair Tool",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/before Geppetto"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 1006, "y": 724}
+        ]
+      },
+      {
+        "name": "Arche Abbey Passageway Key",
+        "sections": [
+          {
+            "ref": "Arche Abbey Inside - Locations/given from Geppetto"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Inside", "x": 1039, "y": 697}
+        ]
+      }
+    ]
+}
+]

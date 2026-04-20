@@ -1,0 +1,28 @@
+[
+  {
+    "name": "KCS - Locations",
+    "sections": [
+      { "name": "Bench outside train", "access_rules": [] },
+      { "name": "Bench inside lobby", "access_rules": [] },
+      { "name": "Bathroom", "access_rules": [] },
+      { "name": "Small room near bar", "access_rules": [] },
+      { "name": "Small room with train info board", "access_rules": [] },
+      { "name": "Shortcut to station lobby", "access_rules": [] },
+      { "name": "Krat Central Station Main Entrance Key", "access_rules": [] },
+      {
+        "name": "Workshop Union Lightweight Frame",
+        "access_rules": []
+      },
+      { "name": "Behind Police Puppet", "access_rules": [] },
+      { "name": "Parade Master drop 2 (Quartz)", "access_rules": [] },
+      {
+        "name": "Cryptic Vessel 1 reward",
+        "access_rules": ["cv_dottedpaper_02"]
+      },
+      {
+        "name": "Cryptic Vessel 2 reward",
+        "access_rules": ["cv_dottedpaper_02"]
+      }
+    ]
+  }
+]

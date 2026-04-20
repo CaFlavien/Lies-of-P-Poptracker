@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Krat Central Station",
+    "children": [
+      {
+        "name": "Sawtoothed Wheel",
+        "sections": [{ "ref": "KCS - Locations/Bench outside train" }],
+        "map_locations": [{ "map": "Krat Central Station", "x": 410, "y": 932 }]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [{ "ref": "KCS - Locations/Bench inside lobby" }],
+        "map_locations": [{ "map": "Krat Central Station", "x": 137, "y": 405 }]
+      },
+      {
+        "name": "Thermite",
+        "sections": [{ "ref": "KCS - Locations/Bathroom" }],
+        "map_locations": [
+          { "map": "Krat Central Station", "x": 1337, "y": 523 }
+        ]
+      },
+      {
+        "name": "Passenger's Note",
+        "sections": [{ "ref": "KCS - Locations/Small room near bar" }],
+        "map_locations": [
+          { "map": "Krat Central Station", "x": 720, "y": 1020 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          { "ref": "KCS - Locations/Small room with train info board" }
+        ],
+        "map_locations": [{ "map": "Krat Central Station", "x": 747, "y": 326 }]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [{ "ref": "KCS - Locations/Shortcut to station lobby" }],
+        "map_locations": [{ "map": "Krat Central Station", "x": 842, "y": 645 }]
+      },
+      {
+        "name": "Police Puppet",
+        "sections": [
+          { "ref": "KCS - Locations/Krat Central Station Main Entrance Key" },
+          { "ref": "KCS - Locations/Workshop Union Lightweight Frame" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station", "x": 1245, "y": 853 }
+        ]
+      },
+      {
+        "name": "Sawtoothed Wheel",
+        "sections": [{ "ref": "KCS - Locations/Behind Police Puppet" }],
+        "map_locations": [
+          { "map": "Krat Central Station", "x": 1355, "y": 900 }
+        ]
+      }
+    ]
+  }
+]

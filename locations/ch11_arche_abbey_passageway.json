@@ -1,0 +1,186 @@
+[
+  {
+    "name": "Arche Abbey Passageway",
+    "children": [
+        {
+        "name": "Sharp Pipe",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/beneath shortcut ladder"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 867, "y": 573}
+        ]
+      },
+      {
+        "name": "Assassin's Amulet",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/chest after jump"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 925, "y": 303}
+        ]
+      },
+      {
+        "name": "Leaping Amulet +1",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/chest around a ledge"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 660, "y": 78}
+        ]
+      },
+      {
+        "name": "Acid Canister",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/on ledge (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 1066, "y": 322}
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/above stargazer"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 850, "y": 511}
+        ]
+      },
+      {
+        "name": "Advance Crank",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/on metal ledge"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 164, "y": 567}
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/Disruption Mini Victor Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 478, "y": 300}
+        ]
+      },
+      {
+        "name": "Legion Caliber",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/chest at dead-end"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 552, "y": 878}
+        ]
+      },
+      {
+        "name": "Dim Ergo Crystal",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/ledge before small bridge"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 652, "y": 963}
+        ]
+      },
+      {
+        "name": "Acid Abrasive",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/next to metal wall"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 925, "y": 840}
+        ]
+      },
+      {
+        "name": "Balance Crank",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/on ledge (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 965, "y": 892}
+        ]
+      },
+      {
+        "name": "Vivid Ergo Crystal",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/on ledge (3)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 1075, "y": 547}
+        ]
+      },
+      {
+        "name": "So Said Pistris III",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/on altar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 1224, "y": 608}
+        ]
+      },
+      {
+        "name": "Simon Manus's Confession",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/on table before Simon Manus boss"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 2012, "y": 796}
+        ]
+      },
+      {
+        "name": "Simon Manus drop",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/Fallen One's Ergo"
+          },
+          {
+            "ref": "Arche Abbey Passageway - Locations/Arm of God"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 1242, "y": 796}
+        ]
+      },
+      {
+        "name": "Nameless Puppet's Ergo",
+        "sections": [
+          {
+            "ref": "Arche Abbey Passageway - Locations/Nameless Puppet drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Passageway", "x": 1030, "y": 1056}
+        ]
+      }
+    ]
+}
+]

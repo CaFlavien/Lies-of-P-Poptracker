@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Venigni's Workshop - Locations",
+    "access_rules": ["key_cityhall_courtyard, boss_scrapped_watchman"],
+    "sections": [
+      {
+        "name": "near Workshop Union Entrance stargazer",
+        "access_rules": []
+      },
+      {
+        "name": "upstairs from Workshop Union Entrance stargazer",
+        "access_rules": []
+      },
+      {
+        "name": "safe after a dropdown",
+        "access_rules": []
+      },
+      {
+        "name": "behind where the floor can fall",
+        "access_rules": []
+      },
+      {
+        "name": "chest inside the warehouse",
+        "access_rules": []
+      },
+      {
+        "name": "left side warehouse",
+        "access_rules": []
+      },
+      {
+        "name": "warehouse upper area",
+        "access_rules": []
+      },
+      {
+        "name": "corner before Shield Puppet",
+        "access_rules": []
+      },
+      {
+        "name": "room upstairs next to the hanging puppets",
+        "access_rules": []
+      },
+      {
+        "name": "beneath the hanging puppets",
+        "access_rules": []
+      },
+      {
+        "name": "upstairs next to the hanging puppets",
+        "access_rules": []
+      },
+      {
+        "name": "other side of pipe shortcut",
+        "access_rules": []
+      }
+    ]
+  }
+]

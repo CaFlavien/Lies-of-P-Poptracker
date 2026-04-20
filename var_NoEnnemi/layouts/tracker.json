@@ -1,0 +1,76 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "content": [
+        {
+          "type": "layout",
+          "key": "maps"
+        },
+        {
+          "type": "dock",
+          "dock": "left",
+          "h_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Upgrades",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "upgrades"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Functions",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "function"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Keys",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "keys_mandatory"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Optional Keys",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "keys_optional"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Cryptic Vessels",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "vessels"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Bosses",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "bosses"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

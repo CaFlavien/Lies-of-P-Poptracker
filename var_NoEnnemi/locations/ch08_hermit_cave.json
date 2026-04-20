@@ -1,0 +1,175 @@
+[
+  {
+    "name": "Hermit Cave",
+    "children": [
+        {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/on table"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 442, "y": 1920 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/dead-end"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 491, "y": 1557 }
+        ]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/on shack roof"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 394, "y": 1297 }
+        ]
+      },
+      {
+        "name": "Someone's Report Notes Notebook",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/in shack"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 384, "y": 1328 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/dead-end near shack"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 429, "y": 1542 }
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/path around trip wire"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 688, "y": 1348 }
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/chest in small shack"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 749, "y": 1129 }
+        ]
+      },
+      {
+        "name": "Chain",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/outside small shack"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 750, "y": 1041 }
+        ]
+      },
+      {
+        "name": "Electric Blitz Abrasive",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/underneath a small dropdown"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 922, "y": 1094 }
+        ]
+      },
+      {
+        "name": "Sawtoothed Wheel",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/last platform on mutiple drops"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 397, "y": 1556 }
+        ]
+      },
+      {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/bottom of ladder by stargazer"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 935, "y": 937 }
+        ]
+      },
+      {
+        "name": "Black Steel Cutter",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/chest guarded by strong carcass enemy"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 761, "y": 953 }
+        ]
+      },
+      {
+        "name": "Throwing Cell",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/across wooden beam"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 975, "y": 759 }
+        ]
+      },
+      {
+        "name": "Cluster Grenade",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/after jump by ladder"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 883, "y": 512 }
+        ]
+      },
+      {
+        "name": "Safe at the end of cave",
+        "sections": [
+          {
+            "ref": "Hermit Cave - Locations/Black Cat's Hunting Apparel"
+          },
+          {
+            "ref": "Hermit Cave - Locations/Quartz"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hermit Cave", "x": 1355, "y": 255 }
+        ]
+      }
+    ]
+}
+]

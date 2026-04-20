@@ -1,0 +1,148 @@
+[
+  {
+    "name": "Workshop Union Culvert - Locations",
+    "access_rules": ["key_cityhall_courtyard, boss_scrapped_watchman"],
+    "sections": [
+      {
+        "name": "Legion Caliber",
+        "access_rules": []
+      },
+      {
+        "name": "Hidden Moonstone - Duel Shield",
+        "access_rules": []
+      },
+      {
+        "name": "Red Butterfly drop",
+        "access_rules": []
+      },
+      {
+        "name": "after Red Butterfly",
+        "access_rules": []
+      },
+      {
+        "name": "pipe by the Workshop Union Culvert stargazer",
+        "access_rules": []
+      },
+      {
+        "name": "corruption swamp, right side",
+        "access_rules": []
+      },
+      {
+        "name": "corruption swamp, across from pipe",
+        "access_rules": []
+      },
+      {
+        "name": "corruption swamp, ambush",
+        "access_rules": []
+      },
+      {
+        "name": "corruption swamp, Red Butterfly drop",
+        "access_rules": []
+      },
+      {
+        "name": "corruption swamp dead-end, right",
+        "access_rules": []
+      },
+      {
+        "name": "corruption swamp dead-end, left",
+        "access_rules": []
+      },
+      {
+        "name": "rolling fireball dead-end",
+        "access_rules": []
+      },
+      {
+        "name": "rolling fireball entrance",
+        "access_rules": []
+      },
+      {
+        "name": "rolling fireball shortcut",
+        "access_rules": []
+      },
+      {
+        "name": "dead-end near Survivor exit",
+        "access_rules": []
+      },
+      {
+        "name": "ladder shortcut to Puppet of the Future",
+        "access_rules": []
+      },
+      {
+        "name": "rolling fireball chest",
+        "access_rules": []
+      },
+      {
+        "name": "near puppet that smashes a wall",
+        "access_rules": []
+      },
+      {
+        "name": "beside Black Cat and Red Fox",
+        "access_rules": []
+      },
+      {
+        "name": "oposite red pipe before Shovel enemy",
+        "access_rules": []
+      },
+      {
+        "name": "ladder shortcut by first Trinity Key door",
+        "access_rules": []
+      },
+      {
+        "name": "Blue Blood's Tailcoat",
+        "access_rules": ["key_trinity"]
+      },
+      {
+        "name": "Quartz - Trinity Key",
+        "access_rules": ["key_trinity"]
+      },
+      {
+        "name": "red pipe drop down",
+        "access_rules": []
+      },
+      {
+        "name": "Swordsmanship Master's Amulet",
+        "access_rules": []
+      },
+      {
+        "name": "Hidden Moonstone - Shovel elite",
+        "access_rules": []
+      },
+      {
+        "name": "beside lever to drain the decay",
+        "access_rules": []
+      },
+      {
+        "name": "Survivor's Hunting Apparel",
+        "access_rules": []
+      },
+      {
+        "name": "Survivor's Mask",
+        "access_rules": []
+      },
+      {
+        "name": "Quartz - Puppets of the Future",
+        "access_rules": []
+      },
+      {
+        "name": "Radiant Ergo Chunk",
+        "access_rules": []
+      },
+      {
+        "name": "Puppet of the Future arena pickup 1",
+        "access_rules": []
+      },
+      {
+        "name": "Puppet of the Future arena pickup 2",
+        "access_rules": []
+      },
+      {
+        "name": "Puppet of the Future arena pickup 3",
+        "access_rules": []
+      },
+      {
+        "name": "Puppet of the Future arena chest",
+        "access_rules": []
+      }
+    ]
+  }
+]

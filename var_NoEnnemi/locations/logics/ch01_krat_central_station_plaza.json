@@ -1,0 +1,31 @@
+[
+  {
+    "name": "KCS Plaza - Locations",
+    "access_rules": ["key_central_station"],
+    "sections": [
+      { "name": "Wagon with Puppet Dog on top", "access_rules": [] },
+      { "name": "Broken wagon", "access_rules": [] },
+      { "name": "Boxes near broken wagon", "access_rules": [] },
+      { "name": "Bench near staircase", "access_rules": [] },
+      { "name": "Locked shortcut gate upstairs", "access_rules": [] },
+      { "name": "Beside Puppet banging door", "access_rules": [] },
+      { "name": "Upstairs by rubble cliffside", "access_rules": [] },
+      { "name": "Destructible barrel in alley", "access_rules": [] },
+      { "name": "Upstairs before dropdown in alley", "access_rules": [] },
+      { "name": "Gate at dead-end in alley", "access_rules": [] },
+      { "name": "Downstairs with Puppet Dog", "access_rules": [] },
+      { "name": "Training dummy by merchant", "access_rules": [] },
+      { "name": "Path before Parade Master", "access_rules": [] },
+      { "name": "Parade Leader's Ergo", "access_rules": [] },
+      { "name": "Quartz", "access_rules": [] },
+      {
+        "name": "The Atoned's Hunting Apparel",
+        "access_rules": ["cv_dottedpaper_02"]
+      },
+      {
+        "name": "Legion Caliber",
+        "access_rules": ["cv_dottedpaper_02"]
+      }
+    ]
+  }
+]

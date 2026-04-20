@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Venigni Works Control Room - Locations",
+    "access_rules": ["key_cityhall_courtyard, boss_scrapped_watchman"],
+    "sections": [
+      {
+        "name": "lower right platform near Shovel elite",
+        "access_rules": []
+      },
+      {
+        "name": "upstairs towards Venigni",
+        "access_rules": []
+      },
+      {
+        "name": "on metal beams towards Fuoco",
+        "access_rules": []
+      },
+      {
+        "name": "upper left platform near Venigni",
+        "access_rules": []
+      },
+      {
+        "name": "upper right platform near Venigni",
+        "access_rules": []
+      },
+      {
+        "name": "jump on the metal beams",
+        "access_rules": []
+      },
+      {
+        "name": "lower right platform near Venigni",
+        "access_rules": []
+      },
+      {
+        "name": "Workshop Union Standard Radiation Converter",
+        "access_rules": []
+      },
+      {
+        "name": "Hidden Moonstone",
+        "access_rules": []
+      },
+      {
+        "name": "High-powered Flame Amplifier",
+        "access_rules": []
+      },
+      {
+        "name": "King's Flame Ergo",
+        "access_rules": []
+      },
+      {
+        "name": "Flame Grindstone",
+        "access_rules": []
+      }
+    ]
+  }
+]

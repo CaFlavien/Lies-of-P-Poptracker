@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Path of Misery - Locations",
+    "access_rules": ["boss_fuoco, key_cable_railway"],
+    "sections": [
+      {
+        "name": "shack after carcass cutscene",
+        "access_rules": []
+      },
+      {
+        "name": "shack towards collapsing bridge",
+        "access_rules": []
+      },
+      {
+        "name": "before collapsing bridge",
+        "access_rules": []
+      },
+      {
+        "name": "corner behind some destructable boxes",
+        "access_rules": []
+      },
+      {
+        "name": "statue you can pray to",
+        "access_rules": []
+      },
+      {
+        "name": "bench inside of the church",
+        "access_rules": []
+      },
+      {
+        "name": "chest behind Giango",
+        "access_rules": []
+      },
+      {
+        "name": "right side of bridge to St. Frangelico Cathedral Chapel",
+        "access_rules": []
+      },
+      {
+        "name": "end of bridge to St. Frangelico Cathedral Chapel",
+        "access_rules": []
+      },
+      {
+        "name": "near stargazer after cable lift",
+        "access_rules": []
+      }
+    ]
+  }
+]

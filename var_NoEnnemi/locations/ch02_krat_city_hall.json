@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Krat City Hall",
+    "children": [
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Krat City Hall - Locations/lamp near electric trap"
+          }
+        ],
+        "map_locations": [{ "map": "Krat City Hall", "x": 445, "y": 1655 }]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat City Hall - Locations/after opening shortcut"
+          }
+        ],
+        "map_locations": [{ "map": "Krat City Hall", "x": 378, "y": 1366 }]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Krat City Hall - Locations/before opening shortcut"
+          }
+        ],
+        "map_locations": [{ "map": "Krat City Hall", "x": 288, "y": 1160 }]
+      },
+      {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Krat City Hall - Locations/corpse by a wagon"
+          }
+        ],
+        "map_locations": [{ "map": "Krat City Hall", "x": 654, "y": 1474 }]
+      },
+      {
+        "name": "Krat News Issue 1124",
+        "sections": [
+          {
+            "ref": "Krat City Hall - Locations/left before Scrapped Watchman"
+          }
+        ],
+        "map_locations": [{ "map": "Krat City Hall", "x": 368, "y": 715 }]
+      },
+      {
+        "name": "Puppet Destroyer's Amulet",
+        "sections": [
+          {
+            "ref": "Krat City Hall - Locations/chest before Scrapped Watchman"
+          }
+        ],
+        "map_locations": [{ "map": "Krat City Hall", "x": 380, "y": 302 }]
+      },
+      {
+        "name": "Venigni's Guide",
+        "sections": [
+          {
+            "ref": "Krat City Hall - Locations/after Scrapped Watchman"
+          }
+        ],
+        "map_locations": [{ "map": "Krat City Hall", "x": 1340, "y": 331 }]
+      },
+      {
+        "name": "Scrapped Watchman",
+        "sections": [
+          {
+            "ref": "Krat City Hall - Locations/Overcharged Storage Battery"
+          },
+          {
+            "ref": "Krat City Hall - Locations/Broken Hero's Ergo"
+          },
+          {
+            "ref": "Krat City Hall - Locations/Core"
+          },
+          {
+            "ref": "Krat City Hall - Locations/Quartz"
+          },
+          {
+            "ref": "Krat City Hall - Locations/Small Wooden Officer Puppet"
+          }
+        ],
+        "map_locations": [{ "map": "Krat City Hall", "x": 1334, "y": 520 }]
+      }
+    ]
+  }
+]

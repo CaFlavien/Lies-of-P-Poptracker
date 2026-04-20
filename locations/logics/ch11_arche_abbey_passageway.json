@@ -1,0 +1,76 @@
+[
+    {
+      "name": "Arche Abbey Passageway - Locations",
+      "access_rules": ["boss_laxasia, key_arche_abbey"],
+      "sections": [
+        {
+            "name": "beneath shortcut ladder",
+            "access_rules": []
+        },
+        {
+            "name": "chest after jump",
+            "access_rules": []
+        },
+        {
+            "name": "chest around a ledge",
+            "access_rules": []
+        },
+        {
+            "name": "on ledge (1)",
+            "access_rules": []
+        },
+        {
+            "name": "above stargazer",
+            "access_rules": []
+        },
+        {
+            "name": "on metal ledge",
+            "access_rules": []
+        },
+        {
+            "name": "Disruption Mini Victor Elite drop",
+            "access_rules": []
+        },
+        {
+            "name": "chest at dead-end",
+            "access_rules": []
+        },
+        {
+            "name": "ledge before small bridge",
+            "access_rules": []
+        },
+        {
+            "name": "next to metal wall",
+            "access_rules": []
+        },
+        {
+            "name": "on ledge (2)",
+            "access_rules": []
+        },
+        {
+            "name": "on ledge (3)",
+            "access_rules": []
+        },
+        {
+            "name": "on altar",
+            "access_rules": []
+        },
+        {
+            "name": "on table before Simon Manus boss",
+            "access_rules": []
+        },
+        {
+            "name": "Fallen One's Ergo",
+            "access_rules": []
+        },
+        {
+            "name": "Arm of God",
+            "access_rules": []
+        },
+        {
+            "name": "Nameless Puppet drop",
+            "access_rules": []
+        }
+    ]
+}
+]

@@ -1,0 +1,36 @@
+[
+    {
+      "name": "Arche Abbey Entrance - Locations",
+      "access_rules": ["boss_black_rabbit_2, key_alchemist_badge"],
+      "sections": [
+        {
+            "name": "corpse on ledge",
+            "access_rules": []
+        },
+        {
+            "name": "ledge next to ladder",
+            "access_rules": []
+        },
+        {
+            "name": "wood beam",
+            "access_rules": []
+        },
+        {
+            "name": "corner near cannon",
+            "access_rules": []
+        },
+        {
+            "name": "next to cannon",
+            "access_rules": []
+        },
+        {
+            "name": "near barricade",
+            "access_rules": []
+        },
+        {
+            "name": "chest on bridge",
+            "access_rules": []
+        }
+    ]
+}
+]

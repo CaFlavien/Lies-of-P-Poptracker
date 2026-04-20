@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Krat Central Station Plaza",
+    "children": [
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Wagon with Puppet Dog on top" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 1115, "y": 1762 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [{ "ref": "KCS Plaza - Locations/Broken wagon" }],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 455, "y": 1515 }
+        ]
+      },
+      {
+        "name": "Krat Times Issue 183",
+        "sections": [
+          {
+            "ref": "KCS Plaza - Locations/Boxes near broken wagon"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 500, "y": 1328 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [{ "ref": "KCS Plaza - Locations/Bench near staircase" }],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 1165, "y": 1460 }
+        ]
+      },
+      {
+        "name": "Sawtoothed Wheel",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Locked shortcut gate upstairs" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 1500, "y": 1290 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Beside Puppet banging door" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 600, "y": 1057 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Upstairs by rubble cliffside" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 85, "y": 1142 }
+        ]
+      },
+      {
+        "name": "Thermite",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Destructible barrel in alley" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 485, "y": 420 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Upstairs before dropdown in alley" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 430, "y": 660 }
+        ]
+      },
+      {
+        "name": "Venigni's Urgent Repair Tool",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Gate at dead-end in alley" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 250, "y": 825 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Downstairs with Puppet Dog" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 950, "y": 555 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Training dummy by merchant" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 1025, "y": 425 }
+        ]
+      },
+      {
+        "name": "Introducing the Parade Puppet!",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Path before Parade Master" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 1050, "y": 120 }
+        ]
+      },
+      {
+        "name": "Parade Master",
+        "sections": [
+          { "ref": "KCS Plaza - Locations/Parade Leader's Ergo" },
+          { "ref": "KCS Plaza - Locations/Quartz" }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 1660, "y": 600 }
+        ]
+      },
+      {
+        "name": "reward from Jeweled Cryptic Vessel",
+        "sections": [
+          {
+            "ref": "KCS Plaza - Locations/The Atoned's Hunting Apparel"
+          },
+          {
+            "ref": "KCS Plaza - Locations/Legion Caliber"
+          }
+        ],
+        "map_locations": [
+          { "map": "Krat Central Station Plaza", "x": 180, "y": 220 }
+        ]
+      }
+    ]
+  }
+]

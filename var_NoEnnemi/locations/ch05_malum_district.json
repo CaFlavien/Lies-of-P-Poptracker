@@ -1,0 +1,448 @@
+[
+  {
+    "name": "Malum District",
+    "children": [
+        {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/metal gate a carcass dog breaks"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1737, "y": 1190 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/up ladder on scaffolding"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1837, "y": 1135 }
+        ]
+      },
+      {
+        "name": "Cluster Grenade",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/behind destructable barrel on a stool"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1662, "y": 895 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/behind where the floor can fall in the brewly"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1700, "y": 843 }
+        ]
+      },
+      {
+        "name": "Arch Break Cartridge",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/chest after falling in the brewly"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1956, "y": 1024 }
+        ]
+      },
+      {
+        "name": "Have a taste of La Bleiwies, the greatest wine in the world!",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/corpse near a staircase at the brewly"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1891, "y": 861 }
+        ]
+      },
+      {
+        "name": "Sharp Pipe",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/shortcut door in the brewly"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1637, "y": 791 }
+        ]
+      },
+      {
+        "name": "Motivity Crank",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/ladder that leads outside"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1145, "y": 1125 }
+        ]
+      },
+      {
+        "name": "Chain",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/exit that leads outside"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1259, "y": 1163 }
+        ]
+      },
+      {
+        "name": "Patience Amulet",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/Carcass Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1030, "y": 1016 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/right side of the outside"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1355, "y": 940 }
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/chest in the outside"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1017, "y": 805 }
+        ]
+      },
+      {
+        "name": "Special Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/left side of the outside"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 877, "y": 787 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/back right side of the outside"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1272, "y": 645 }
+        ]
+      },
+      {
+        "name": "Balance Crank",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/Red Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1412, "y": 380 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/roofs where the floor can break"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1369, "y": 421 }
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/right side of the roofs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1260, "y": 447 }
+        ]
+      },
+      {
+        "name": "Attribute purification Ampoule",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/pillar on the roofs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1576, "y": 407 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/left side of the roofs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1667, "y": 446 }
+        ]
+      },
+      {
+        "name": "Bone-Cutting Sawblade",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/chest on the roofs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1514, "y": 632 }
+        ]
+      },
+      {
+        "name": "Gemini's Iron Protection",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/cell in the back left side of the outside"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 943, "y": 550 }
+        ]
+      },
+      {
+        "name": "Shot Put",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/jump near shortcut gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 919, "y": 1001 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/after jump near shortcut gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 965, "y": 1101 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/alley nearshortcut gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 663, "y": 1025 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/staircase by shortcute gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 792, "y": 1100 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/alley downstairs by barrel fire"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 649, "y": 1263 }
+        ]
+      },
+      {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/corner by cages with carcass dogs"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 658, "y": 1412 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/ledge before trap from Black Rabbit Brotherhood"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 842, "y": 1396 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/gate that a carcass dog breaks"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1002, "y": 1297 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/ladder near gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 944, "y": 1410 }
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/piano inside the bar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1336, "y": 1528 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/counter at the bar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1430, "y": 1424 }
+        ]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/kegs at the bar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1563, "y": 1538 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/small stairs inside bar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1555, "y": 1374 }
+        ]
+      },
+      {
+        "name": "Monad Charity House Guide",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/couch inside the bar"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1680, "y": 1394 }
+        ]
+      },
+      {
+        "name": "Legion Caliber",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/chest near Merchant"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 1716, "y": 1491 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/Black Rabbit Brotherhood drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 561, "y": 1710 }
+        ]
+      },
+      {
+        "name": "Black Rabbit Brotherhood Ledger",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/hanging puppet"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 308, "y": 1849 }
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/chest in Black Rabbit Brotherhood hideout"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 298, "y": 1898 }
+        ]
+      },
+      {
+        "name": "[This month's trend: Stalker masks]",
+        "sections": [
+          {
+            "ref": "Malum District - Locations/upstairs in Black Rabbit Brotherhood hideout"
+          }
+        ],
+        "map_locations": [
+          { "map": "Malum District", "x": 266, "y": 1815 }
+        ]
+      }
+
+    ]
+  }
+]

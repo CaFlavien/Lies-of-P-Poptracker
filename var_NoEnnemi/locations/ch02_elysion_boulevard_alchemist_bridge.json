@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Elysion Boulevard Alchemist Bridge",
+    "children": [
+      {
+        "name": "from Gepetto",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard Alchemist Bridge - Locations/Mad Donkey's Hunting Apparal"
+          },
+          {
+            "ref": "Elysion Boulevard Alchemist Bridge - Locations/Mad Donkey's Mask"
+          },
+          {
+            "ref": "Elysion Boulevard Alchemist Bridge - Locations/Krat City Hall Key"
+          },
+          {
+            "ref": "Elysion Boulevard Alchemist Bridge - Locations/Enigma Assembly Tool"
+          }
+        ],
+        "map_locations": [
+          { "map": "Elysion Boulevard Alchemist Bridge", "x": 270, "y": 580 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard Alchemist Bridge - Locations/wagon at end of the bridge"
+          }
+        ],
+        "map_locations": [
+          { "map": "Elysion Boulevard Alchemist Bridge", "x": 135, "y": 290 }
+        ]
+      }
+    ]
+  }
+]

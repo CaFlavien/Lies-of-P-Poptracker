@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Venigni Works Control Room",
+    "children": [
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Venigni Works Control Room - Locations/lower right platform near Shovel elite"
+          }
+        ],
+        "map_locations": [
+          { "map": "Venigni Works Control Room", "x": 430, "y": 760 }
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Venigni Works Control Room - Locations/upstairs towards Venigni"
+          }
+        ],
+        "map_locations": [
+          { "map": "Venigni Works Control Room", "x": 560, "y": 760 }
+        ]
+      },
+      {
+        "name": "Gemini’s Iron Protection",
+        "sections": [
+          {
+            "ref": "Venigni Works Control Room - Locations/on metal beams towards Fuoco"
+          }
+        ],
+        "map_locations": [
+          { "map": "Venigni Works Control Room", "x": 660, "y": 637 }
+        ]
+      },
+      {
+        "name": "Technique Crank",
+        "sections": [
+          {
+            "ref": "Venigni Works Control Room - Locations/upper left platform near Venigni"
+          }
+        ],
+        "map_locations": [
+          { "map": "Venigni Works Control Room", "x": 550, "y": 615 }
+        ]
+      },
+      {
+        "name": "Descartes’s Note",
+        "sections": [
+          {
+            "ref": "Venigni Works Control Room - Locations/upper right platform near Venigni"
+          }
+        ],
+        "map_locations": [
+          { "map": "Venigni Works Control Room", "x": 845, "y": 520 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Venigni Works Control Room - Locations/jump on the metal beams"
+          }
+        ],
+        "map_locations": [
+          { "map": "Venigni Works Control Room", "x": 845, "y": 745 }
+        ]
+      },
+      {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Venigni Works Control Room - Locations/lower right platform near Venigni"
+          }
+        ],
+        "map_locations": [
+          { "map": "Venigni Works Control Room", "x": 905, "y": 640 }
+        ]
+      },
+      {
+        "name": "Shovel Elite Enemy",
+        "sections": [
+          {
+            "ref": "Venigni Works Control Room - Locations/Workshop Union Standard Radiation Converter"
+          },
+          {
+            "ref": "Venigni Works Control Room - Locations/Hidden Moonstone"
+          }
+        ],
+        "map_locations": [
+          { "map": "Venigni Works Control Room", "x": 270, "y": 585 }
+        ]
+      },
+      {
+        "name": "King’s Flame, Fuoco",
+        "sections": [
+          {
+            "ref": "Venigni Works Control Room - Locations/High-powered Flame Amplifier"
+          },
+          { "ref": "Venigni Works Control Room - Locations/King's Flame Ergo" },
+          { "ref": "Venigni Works Control Room - Locations/Flame Grindstone" }
+        ],
+        "map_locations": [
+          { "map": "Venigni Works Control Room", "x": 720, "y": 175 }
+        ]
+      }
+    ]
+  }
+]

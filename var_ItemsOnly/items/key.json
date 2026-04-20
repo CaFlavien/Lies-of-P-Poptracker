@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Krat Central Station Main Entrance Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/krat-central-station-main-entrance-key.png",
+    "img_mods": "",
+    "codes": "key_central_station"
+  },
+  {
+    "name": "Krat City Hall Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/krat-city-hall-key.png",
+    "img_mods": "",
+    "codes": "key_cityhall"
+  },
+  {
+    "name": "Krat City Hall Courtyard Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/krat-city-hall-courtyard-key.png",
+    "img_mods": "",
+    "codes": "key_cityhall_courtyard"
+  },
+  {
+    "name": "Cable Railway Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/cable-railway-key.png",
+    "img_mods": "",
+    "codes": "key_cable_railway"
+  },
+  {
+    "name": "Rosa Isabelle Street Entrance Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/rosa-isabelle-street-entrance-key.png",
+    "img_mods": "",
+    "codes": "key_rosa_isabelle"
+  },
+  {
+    "name": "Lorenzini Arcade 1st Floor Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/lorenzini_arcade_1st_floor_key.png",
+    "img_mods": "",
+    "codes": "key_arcade_1f"
+  },
+  {
+    "name": "Arcade Underground Passage Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/arcade_underground_passage_key.png",
+    "img_mods": "",
+    "codes": "key_arcade_underground"
+  },
+  {
+    "name": "High Level Alchemist Badge",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/high-level-alchemist-badge-key.png",
+    "img_mods": "",
+    "codes": "key_alchemist_badge"
+  },
+  {
+    "name": "Arche Abbey Passageway Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/arche_abbey_passageway_key.png",
+    "img_mods": "",
+    "codes": "key_arche_abbey"
+  },
+  {
+    "name": "Trinity Key",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/trinity-key.png",
+    "codes": "key_trinity"
+  },
+  {
+    "name": "The Chosen Ones Trinity Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/the-chosen-ones-trinity-key.png",
+    "img_mods": "",
+    "codes": "key_chosen_trinity"
+  },
+  {
+    "name": "Slum Shack Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/slum-shack-key.png",
+    "img_mods": "",
+    "codes": "key_slum_shack"
+  },
+  {
+    "name": "Saintess of Mercy Statue Gallery Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/saintess-of-mercy-statue-gallery-key.png",
+    "img_mods": "",
+    "codes": "key_saintess_gallery"
+  },
+  {
+    "name": "Robber's Shack Key",
+    "type": "consumable",
+    "max_quantity": 1,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/key/robbers-shack-key.png",
+    "img_mods": "",
+    "codes": "key_dottedpaper_room"
+  }
+]

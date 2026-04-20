@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Crafted Cryptic Vessel",
+    "type": "toggle",
+    "img": "images/items/vessel/cryptic-vessel.png",
+    "img_mods": "",
+    "codes": "cv_dottedpaper_01"
+  },
+  {
+    "name": "Jeweled Cryptic Vessel",
+    "type": "toggle",
+    "img": "images/items/vessel/cryptic-vessel.png",
+    "img_mods": "",
+    "codes": "cv_dottedpaper_02"
+  },
+  {
+    "name": "Old Cryptic Vessel",
+    "type": "toggle",
+    "img": "images/items/vessel/cryptic-vessel.png",
+    "img_mods": "",
+    "codes": "cv_dottedpaper_03"
+  },
+  {
+    "name": "Alidoro's Cryptic Vessel",
+    "type": "toggle",
+    "img": "images/items/vessel/cryptic-vessel.png",
+    "img_mods": "",
+    "codes": "cv_dottedpaper_04"
+  },
+  {
+    "name": "Mechanical Cryptic Vessel",
+    "type": "toggle",
+    "img": "images/items/vessel/cryptic-vessel.png",
+    "img_mods": "",
+    "codes": "cv_dottedpaper_05"
+  },
+  {
+    "name": "Rusty Cryptic Vessel",
+    "type": "toggle",
+    "img": "images/items/vessel/cryptic-vessel.png",
+    "img_mods": "",
+    "codes": "cv_dottedpaper_06"
+  }
+]

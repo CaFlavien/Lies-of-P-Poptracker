@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Hotel Krat - Entrance",
+    "children": [
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Hotel Krat Entrance - Locations/wagon near fountain after Parade Master"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hotel Krat - Entrance", "x": 410, "y": 730 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Hotel Krat Entrance - Locations/wagon near dead-end after Parade Master"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hotel Krat - Entrance", "x": 250, "y": 320 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Hotel Krat Entrance - Locations/garden before Hotel Krat door"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hotel Krat - Entrance", "x": 1240, "y": 250 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Hotel Krat Entrance - Locations/pile of corpses before Hotel Krat door"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hotel Krat - Entrance", "x": 370, "y": 170 }
+        ]
+      }
+    ]
+  }
+]

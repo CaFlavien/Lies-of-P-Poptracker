@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Elysion Boulevard Alchemist Bridge - Locations",
+    "access_rules": ["key_central_station, boss_parade_master"],
+    "sections": [
+      {
+        "name": "Mad Donkey's Hunting Apparal",
+        "access_rules": []
+      },
+      {
+        "name": "Mad Donkey's Mask",
+        "access_rules": []
+      },
+      {
+        "name": "Krat City Hall Key",
+        "access_rules": []
+      },
+      {
+        "name": "Enigma Assembly Tool",
+        "access_rules": []
+      },
+      {
+        "name": "wagon at end of the bridge",
+        "access_rules": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Elysion Boulevard - Locations",
+    "access_rules": ["key_central_station, boss_parade_master"],
+    "sections": [
+      { "name": "bench on lower platform", "access_rules": [] },
+      { "name": "wagon with ambush from above", "access_rules": [] },
+      { "name": "chest before ladder", "access_rules": [] },
+      { "name": "rooftops ladder shortcut", "access_rules": [] },
+      { "name": "rooftops near a red sign", "access_rules": [] },
+      { "name": "corner of room to Brtsto De Krat's roof", "access_rules": [] },
+      {
+        "name": "wooden beam outside Bristo De Krat's rooftop",
+        "access_rules": []
+      },
+      { "name": "dead-end of Bistro De Krat's roof", "access_rules": [] },
+      { "name": "Bristo De Krat ladder, down", "access_rules": [] },
+      { "name": "shortcut back to the start", "access_rules": [] },
+      { "name": "Bristo De Krat ladder, up to dead-end", "access_rules": [] },
+      {
+        "name": "Bristo De Krat's roof, barrels in a corner",
+        "access_rules": []
+      },
+      {
+        "name": "Bristo De Krat's roof, small ladder down",
+        "access_rules": []
+      },
+      { "name": "Bristo De Krat's roof, top near ladder", "access_rules": [] },
+      {
+        "name": "Bristo De Krat's roof, top near a drop down",
+        "access_rules": []
+      },
+      {
+        "name": "couch",
+        "access_rules": []
+      },
+      {
+        "name": "in a chest on the roof",
+        "access_rules": []
+      },
+      {
+        "name": "wooden beam before Red Butterfly",
+        "access_rules": []
+      },
+      {
+        "name": "top of the roof before Red Butterfly",
+        "access_rules": []
+      },
+      {
+        "name": "Red Butterfly drop",
+        "access_rules": []
+      },
+      {
+        "name": "lamp surrounded by dog Puppets",
+        "access_rules": []
+      },
+      {
+        "name": "wagon near a shortcut",
+        "access_rules": []
+      },
+      {
+        "name": "small alley in the streets",
+        "access_rules": []
+      },
+      {
+        "name": "electric trap in alley in the streets",
+        "access_rules": []
+      },
+      {
+        "name": "wagon in the streets",
+        "access_rules": []
+      },
+      {
+        "name": "alley with Toma and electric traps",
+        "access_rules": []
+      },
+      {
+        "name": "chest blocked by electric trap",
+        "access_rules": []
+      },
+      {
+        "name": "across bridge near Red Butterfly",
+        "access_rules": []
+      },
+      {
+        "name": "dropped from baton wielding Police Puppet",
+        "access_rules": []
+      },
+      {
+        "name": "red boxes after Police Puppet",
+        "access_rules": []
+      },
+      {
+        "name": "Infront of shortcut to Toma",
+        "access_rules": []
+      },
+      {
+        "name": "electric trap before Mad Donkey",
+        "access_rules": []
+      },
+      {
+        "name": "Mad Donkey's Hunting Apparal",
+        "access_rules": []
+      },
+      {
+        "name": "Mad Donkey's Mask",
+        "access_rules": []
+      },
+      {
+        "name": "Krat City Hall Key",
+        "access_rules": []
+      },
+      {
+        "name": "Enigma Assembly Tool",
+        "access_rules": []
+      },
+      {
+        "name": "wagon at end of the bridge",
+        "access_rules": []
+      },
+      {
+        "name": "quartz",
+        "access_rules": ["cv_dottedpaper_01"]
+      },
+      {
+        "name": "Owl Doctor's Hunting Apparel",
+        "access_rules": ["cv_dottedpaper_01"]
+      }
+    ]
+  }
+]

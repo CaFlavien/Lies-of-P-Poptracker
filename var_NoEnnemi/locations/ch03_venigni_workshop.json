@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Venigni's Workshop",
+    "children": [
+      {
+        "name": "Chain",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/near Workshop Union Entrance stargazer"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 1015, "y": 775 }]
+      },
+      {
+        "name": "Dim Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/upstairs from Workshop Union Entrance stargazer"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 1160, "y": 810 }]
+      },
+      {
+        "name": "Salamander Dagger",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/safe after a dropdown"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 890, "y": 615 }]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/behind where the floor can fall"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 675, "y": 245 }]
+      },
+      {
+        "name": "Belford Shock Cartridge",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/chest inside the warehouse"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 805, "y": 420 }]
+      },
+      {
+        "name": "Factory Manager's Report",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/left side warehouse"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 865, "y": 170 }]
+      },
+      {
+        "name": "Sawtoothed Wheel",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/warehouse upper area"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 880, "y": 475 }]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/corner before Shield Puppet"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 1110, "y": 50 }]
+      },
+      {
+        "name": "Have you seen this eccentric?!",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/room upstairs next to the hanging puppets"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 170, "y": 450 }]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/beneath the hanging puppets"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 235, "y": 300 }]
+      },
+      {
+        "name": "Doctor's Confessions",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/upstairs next to the hanging puppets"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 255, "y": 450 }]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Venigni's Workshop - Locations/other side of pipe shortcut"
+          }
+        ],
+        "map_locations": [{ "map": "Venigni's Workshop", "x": 738, "y": 687 }]
+      }
+    ]
+  }
+]
