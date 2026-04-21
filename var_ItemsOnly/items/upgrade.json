@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Hidden Moonstone",
+    "type": "consumable",
+    "max_quantity": 48,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/upgrade/hidden_moonstone.png",
+    "codes": "moonstone_hidden"
+  },
+  {
+    "name": "Crescent Moonstone",
+    "type": "consumable",
+    "max_quantity": 37,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/upgrade/crescent_moonstone.png",
+    "codes": "moonstone_cresent"
+  },
+  {
+    "name": "Half Moonstone",
+    "type": "consumable",
+    "max_quantity": 34,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/upgrade/half_moonstone.png",
+    "codes": "moonstone_half"
+  },
+  {
+    "name": "Full Moonstone",
+    "type": "consumable",
+    "max_quantity": 11,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/upgrade/full_moonstone.png",
+    "codes": "moonstone_full"
+  },
+  {
+    "name": "Dark Moon Moonstone Of The Covenant",
+    "type": "consumable",
+    "max_quantity": 30,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/upgrade/dark_moon_moonstone_of_the_covenant.png",
+    "codes": "moonstone_covenant"
+  },
+  {
+    "name": "Full Moonstone Of The Covenant",
+    "type": "consumable",
+    "max_quantity": 9,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/upgrade/full_moonstone_of_the_covenant.png",
+    "codes": "moonstone_full_covenant"
+  },
+  {
+    "name": "Quartz",
+    "type": "consumable",
+    "max_quantity": 42,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "img": "images/items/upgrade/quartz.png",
+    "codes": "quartz"
+  }
+]

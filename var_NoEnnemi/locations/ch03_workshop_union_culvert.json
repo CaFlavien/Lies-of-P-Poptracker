@@ -1,0 +1,339 @@
+[
+  {
+    "name": "Workshop Union Culvert",
+    "children": [
+      {
+        "name": "Duel Shield puppet",
+        "sections": [
+          { "ref": "Workshop Union Culvert - Locations/Legion Caliber" },
+          {
+            "ref": "Workshop Union Culvert - Locations/Hidden Moonstone - Duel Shield"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1030, "y": 850 }
+        ]
+      },
+      {
+        "name": "Motivity Crank",
+        "sections": [
+          { "ref": "Workshop Union Culvert - Locations/Red Butterfly drop" }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1100, "y": 1117 }
+        ]
+      },
+      {
+        "name": "Thermite",
+        "sections": [
+          { "ref": "Workshop Union Culvert - Locations/after Red Butterfly" }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 865, "y": 1118 }
+        ]
+      },
+      {
+        "name": "Electric Blitz Abrasive",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/pipe by the Workshop Union Culvert stargazer"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 635, "y": 1445 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/corruption swamp, right side"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 230, "y": 1865 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/corruption swamp, across from pipe"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 525, "y": 1986 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/corruption swamp, ambush"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1160, "y": 1800 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/corruption swamp, Red Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1510, "y": 1720 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/corruption swamp dead-end, right"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1480, "y": 1960 }
+        ]
+      },
+      {
+        "name": "Venigni's Urgent Repair Tool",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/corruption swamp dead-end, left"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1500, "y": 1550 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/rolling fireball dead-end"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 100, "y": 1540 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/rolling fireball entrance"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 55, "y": 1320 }
+        ]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/rolling fireball shortcut"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 145, "y": 765 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/dead-end near Survivor exit"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 290, "y": 1135 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/ladder shortcut to Puppet of the Future"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 405, "y": 925 }
+        ]
+      },
+      {
+        "name": "Fire Axe",
+        "sections": [
+          { "ref": "Workshop Union Culvert - Locations/rolling fireball chest" }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 65, "y": 210 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/near puppet that smashes a wall"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 360, "y": 500 }
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/beside Black Cat and Red Fox"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 595, "y": 290 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/oposite red pipe before Shovel enemy"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1100, "y": 615 }
+        ]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/ladder shortcut by first Trinity Key door"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1225, "y": 825 }
+        ]
+      },
+      {
+        "name": "Trinity Door",
+        "sections": [
+          { "ref": "Workshop Union Culvert - Locations/Blue Blood's Tailcoat" },
+          { "ref": "Workshop Union Culvert - Locations/Quartz - Trinity Key" }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1300, "y": 720 }
+        ]
+      },
+      {
+        "name": "Saw Blade",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/red pipe drop down"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 1085, "y": 320 }
+        ]
+      },
+      {
+        "name": "Shovel elite enemy",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/Swordsmanship Master's Amulet"
+          },
+          {
+            "ref": "Workshop Union Culvert - Locations/Hidden Moonstone - Shovel elite"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 908, "y": 149 }
+        ]
+      },
+      {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/beside lever to drain the decay"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 880, "y": 125 }
+        ]
+      },
+
+      {
+        "name": "Survivor",
+        "sections": [
+          { "ref": "Workshop Union Culvert - Locations/Survivor's Mask" },
+          {
+            "ref": "Workshop Union Culvert - Locations/Survivor's Hunting Apparel"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 226, "y": 690 }
+        ]
+      },
+      {
+        "name": "Puppet of the Future",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/Quartz - Puppets of the Future"
+          },
+          {
+            "ref": "Workshop Union Culvert - Locations/Radiant Ergo Chunk"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 583, "y": 630 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/Puppet of the Future arena pickup 1"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 765, "y": 905 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/Puppet of the Future arena pickup 2"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 460, "y": 745 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/Puppet of the Future arena pickup 3"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 770, "y": 640 }
+        ]
+      },
+      {
+        "name": "Booster Glaive",
+        "sections": [
+          {
+            "ref": "Workshop Union Culvert - Locations/Puppet of the Future arena chest"
+          }
+        ],
+        "map_locations": [
+          { "map": "Workshop Union Culvert", "x": 600, "y": 515 }
+        ]
+      }
+    ]
+  }
+]

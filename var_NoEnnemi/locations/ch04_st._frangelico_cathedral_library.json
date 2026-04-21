@@ -1,0 +1,203 @@
+[
+  {
+    "name": "St. Frangelico Cathedral Library",
+    "children": [
+      {
+        "name": "Thermite",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/next to St. Frangelico Cathedral Library stargazer"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1132, "y": 1515 }
+        ]
+      },
+      {
+        "name": "Advance Crank",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/Purple Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 168, "y": 1367 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/behind a pillar near Purple Butterfly"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 165, "y": 1263 }
+        ]
+      },
+      {
+        "name": "Legion Caliber",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/chest near Purple Butterfly"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 235, "y": 1488 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/before shortcut door near Purple Butterfly"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 557, "y": 1409 }
+        ]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/room with decay falling from above"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 436, "y": 874 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/across the bridge"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 613, "y": 1025 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/altar near decay pool"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 766, "y": 1083 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/inside decay pool"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1082, "y": 835 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/between a staircase and bookcase"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1819, "y": 339 }
+        ]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          { "ref": "St. Frangelico Cathedral Library - Locations/balcony" }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1724, "y": 387 }
+        ]
+      },
+      {
+        "name": "Archbishop's Diary",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/altar near two angel statues"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1490, "y": 371 }
+        ]
+      },
+      {
+        "name": "Workshop Union Strengthening Frame",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/safe near two angel statues"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1412, "y": 331 }
+        ]
+      },
+      {
+        "name": "Speciale Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/dead-end with decay falling from ceiling"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1545, "y": 562 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/altar near shortcut Archbishop"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1045, "y": 1200 }
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/above St. Frangelico Cathedral Library stargazer"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1444, "y": 913 }
+        ]
+      },
+      {
+        "name": "Twisted Angel's Ergo",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/Fallen Archbishop Andreus drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 1444, "y": 1102 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Library - Locations/after the elevator from Archbishop"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Library", "x": 2119, "y": 761 }
+        ]
+      }
+    ]
+  }
+]

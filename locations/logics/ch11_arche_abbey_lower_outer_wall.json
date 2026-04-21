@@ -1,0 +1,128 @@
+[
+    {
+      "name": "Arche Abbey Lower Outer Wall - Locations",
+      "access_rules": ["boss_black_rabbit_2, key_alchemist_badge"],
+      "sections": [
+        {
+            "name": "before drop down",
+            "access_rules": []
+        },
+        {
+            "name": "ledge",
+            "access_rules": []
+        },
+        {
+            "name": "next to ladder",
+            "access_rules": []
+        },
+        {
+            "name": "on stack of books",
+            "access_rules": []
+        },
+        {
+            "name": "in front of cauldron",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop",
+            "access_rules": []
+        },
+        {
+            "name": "next to altar",
+            "access_rules": []
+        },
+        {
+            "name": "next to bench",
+            "access_rules": []
+        },
+        {
+            "name": "drop down",
+            "access_rules": []
+        },
+        {
+            "name": "corpse in small room",
+            "access_rules": []
+        },
+        {
+            "name": "next to bookcase",
+            "access_rules": []
+        },
+        {
+            "name": "chest in small room",
+            "access_rules": []
+        },
+        {
+            "name": "drop down in trap tower",
+            "access_rules": []
+        },
+        {
+            "name": "on roof(1)",
+            "access_rules": []
+        },
+        {
+            "name": "on roof(2)",
+            "access_rules": []
+        },
+        {
+            "name": "chest next to altar",
+            "access_rules": []
+        },
+        {
+            "name": "ledge across small wooden beam",
+            "access_rules": []
+        },
+        {
+            "name": "small wood beam after jump",
+            "access_rules": []
+        },
+        {
+            "name": "ledge after ladder",
+            "access_rules": []
+        },
+        {
+            "name": "ledge above wooden platform",
+            "access_rules": []
+        },
+        {
+            "name": "small room with trap",
+            "access_rules": []
+        },
+        {
+            "name": "on ledge",
+            "access_rules": []
+        },
+        {
+            "name": "Alchemist's Cape",
+            "access_rules": ["key_chosen_trinity"]
+        },
+        {
+            "name": "Quartz",
+            "access_rules": ["key_chosen_trinity"]
+        },
+        {
+            "name": "center of room",
+            "access_rules": []
+        },
+        {
+            "name": "ledge after elevator drop",
+            "access_rules": []
+        },
+        {
+            "name": "chest after elevator drop",
+            "access_rules": []
+        },
+        {
+            "name": "Orange Butterfly drop",
+            "access_rules": []
+        },
+        {
+            "name": "small statues",
+            "access_rules": []
+        },
+        {
+            "name": "below elevator",
+            "access_rules": []
+        }
+    ]
+}
+]

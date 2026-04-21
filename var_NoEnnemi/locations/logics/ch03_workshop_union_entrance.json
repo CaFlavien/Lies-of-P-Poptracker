@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Workshop Union Entrance - Locations",
+    "access_rules": ["key_cityhall_courtyard, boss_scrapped_watchman"],
+    "sections": [
+      {
+        "name": "wagon after opening door",
+        "access_rules": []
+      },
+      {
+        "name": "left side before roofs",
+        "access_rules": []
+      },
+      {
+        "name": "red rooftop",
+        "access_rules": []
+      },
+      {
+        "name": "ladder from red rooftops, down",
+        "access_rules": []
+      },
+      {
+        "name": "dead-end down ladder from red rooftops",
+        "access_rules": []
+      },
+      {
+        "name": "destructible boxes at a side path",
+        "access_rules": []
+      },
+      {
+        "name": "destructible boxes before bridge",
+        "access_rules": []
+      },
+      {
+        "name": "destructible boxes by the phone riddle",
+        "access_rules": []
+      },
+      {
+        "name": "staircase after bridge",
+        "access_rules": []
+      }
+    ]
+  }
+]

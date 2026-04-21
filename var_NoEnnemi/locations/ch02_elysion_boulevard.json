@@ -1,0 +1,305 @@
+[
+  {
+    "name": "Elysion Boulevard",
+    "children": [
+      {
+        "name": "Throwing Cell",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/bench on lower platform"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 325, "y": 1477 }]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/wagon with ambush from above"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 800, "y": 1165 }]
+      },
+      {
+        "name": "LADA F150 Frame",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/chest before ladder"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1010, "y": 1795 }]
+      },
+      {
+        "name": "Sawtoothed Wheel",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/rooftops ladder shortcut"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 530, "y": 1480 }]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/rooftops near a red sign"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 905, "y": 1447 }]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/corner of room to Brtsto De Krat's roof"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1065, "y": 1115 }]
+      },
+      {
+        "name": "Electric Blitz Abrasive",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/wooden beam outside Bristo De Krat's rooftop"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1278, "y": 987 }]
+      },
+      {
+        "name": "Sharp Pipe",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/dead-end of Bistro De Krat's roof"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1263, "y": 678 }]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/Bristo De Krat ladder, down"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 826, "y": 895 }]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/shortcut back to the start"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 772, "y": 1096 }]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/Bristo De Krat ladder, up to dead-end"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1220, "y": 555 }]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/Bristo De Krat's roof, barrels in a corner"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1137, "y": 233 }]
+      },
+      {
+        "name": "Legion Magazine",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/Bristo De Krat's roof, small ladder down"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1770, "y": 267 }]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/Bristo De Krat's roof, top near ladder"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1155, "y": 33 }]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/Bristo De Krat's roof, top near a drop down"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 995, "y": 355 }]
+      },
+      {
+        "name": "Frozen Man's Letter",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/couch"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1372, "y": 440 }]
+      },
+      {
+        "name": "Life Amulet",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/in a chest on the roof"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1635, "y": 684 }]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/wooden beam before Red Butterfly"
+          }
+        ],
+        "map_locations": [
+          { "map": "Elysion Boulevard", "x": 1704, "y": 1013 }
+        ]
+      },
+      {
+        "name": "Venigni's Krat Landmark Guide II",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/top of the roof before Red Butterfly"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1980, "y": 985 }]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/Red Butterfly drop"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 2108, "y": 1066 }]
+      },
+      {
+        "name": "Gemini's Emergency Protection",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/lamp surrounded by dog Puppets"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 2180, "y": 910 }]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/wagon near a shortcut"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 2050, "y": 732 }]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/small alley in the streets"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1550, "y": 733 }]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/electric trap in alley in the streets"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1477, "y": 555 }]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/wagon in the streets"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 2110, "y": 1215 }]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/alley with Toma and electric traps"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1695, "y": 1180 }]
+      },
+      {
+        "name": "Workshop Union Standard Insulation Converter",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/chest blocked by electric trap"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1883, "y": 902 }]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/across bridge near Red Butterfly"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 2280, "y": 1096 }]
+      },
+      {
+        "name": "Krat Police Baton",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/dropped from baton wielding Police Puppet"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 2418, "y": 627 }]
+      },
+      {
+        "name": "Torn Doodle",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/red boxes after Police Puppet"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 2482, "y": 614 }]
+      },
+      {
+        "name": "Sawtoothed Wheel",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/Infront of shortcut to Toma"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 2145, "y": 667 }]
+      },
+      {
+        "name": "Venigni's Urgent Repair Tool",
+        "sections": [
+          {
+            "ref": "Elysion Boulevard - Locations/electric trap before Mad Donkey"
+          }
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 2075, "y": 370 }]
+      },
+      {
+        "name": "Decrypted Crafted Cryptic Vessel",
+        "sections": [
+          {"ref": "Elysion Boulevard - Locations/quartz"},
+          {"ref": "Elysion Boulevard - Locations/Owl Doctor's Hunting Apparel"}
+        ],
+        "map_locations": [{ "map": "Elysion Boulevard", "x": 1968, "y": 712 }]
+      }
+    ]
+  }
+]

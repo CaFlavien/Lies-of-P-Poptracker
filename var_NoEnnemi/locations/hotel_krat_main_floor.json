@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Hotel Krat Main Floor",
+    "children": [
+      {
+        "name": "Venigni's Krat Landmark Guide I",
+        "sections": [
+          {
+            "ref": "Hotel Krat Main Floor - Locations/table near Antonia"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hotel Krat - Main Floor", "x": 200, "y": 1000 }
+        ]
+      },
+      {
+        "name": "Rosa Isabelle Street Entrance Key",
+        "sections": [
+          {
+            "ref": "Hotel Krat Main Floor - Locations/given by Antonia"
+          }
+        ],
+        "map_locations": [
+          { "map": "Hotel Krat - Main Floor", "x": 130, "y": 863 }
+        ]
+      }
+    ]
+  }
+]

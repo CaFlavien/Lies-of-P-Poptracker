@@ -1,0 +1,80 @@
+[
+    {
+      "name": "Arche Abbey Inside - Locations",
+      "access_rules": ["boss_laxasia"],
+      "sections": [
+         {
+            "name": "in room near Sophia's actual body",
+            "access_rules": []
+        },
+        {
+            "name": "on unused elevator",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end upstairs",
+            "access_rules": []
+        },
+        {
+            "name": "balcony upstairs",
+            "access_rules": []
+        },
+        {
+            "name": "under archway",
+            "access_rules": []
+        },
+        {
+            "name": "next to bookcase",
+            "access_rules": []
+        },
+        {
+            "name": "drop down by stairs",
+            "access_rules": []
+        },
+        {
+            "name": "chest in room down stairs",
+            "access_rules": []
+        },
+        {
+            "name": "next to cauldron",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end behind stairs",
+            "access_rules": []
+        },
+        {
+            "name": "before wood beam",
+            "access_rules": []
+        },
+        {
+            "name": "on ledge",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end across first wood beam",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end before second wood beam",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end across second wood beam",
+            "access_rules": []
+        },
+        {
+            "name": "next to elevator",
+            "access_rules": []
+        },
+        {
+            "name": "before Geppetto",
+            "access_rules": []
+        },
+        {
+            "name": "given from Geppetto",
+            "access_rules": []
+        }
+    ]
+}
+]

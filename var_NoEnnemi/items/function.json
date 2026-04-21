@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Fancy Venigni Collection",
+    "type": "toggle",
+    "img": "images/items/function/fancy_venigni_collection.png",
+    "img_mods": "",
+    "codes": "fancy_vc"
+  },
+  {
+    "name": "Great Venigni Collection",
+    "type": "toggle",
+    "img": "images/items/function/great_venigni_collection.png",
+    "img_mods": "",
+    "codes": "great_vc"
+  },
+  {
+    "name": "Incredible Venigni Collection",
+    "type": "toggle",
+    "img": "images/items/function/incredible_venigni_collection.png",
+    "img_mods": "",
+    "codes": "incredible_vc"
+  },
+  {
+    "name": "Grinder Modification Tool",
+    "type": "toggle",
+    "img": "images/items/function/grinder_modification_tool.png",
+    "img_mods": "",
+    "codes": "grinder_mod_tool"
+  },
+  {
+    "name": "Krat Supply Box",
+    "type": "toggle",
+    "img": "images/items/function/krat_supply_box.png",
+    "img_mods": "",
+    "codes": "krat_supply_box"
+  },
+  {
+    "name": "Sturdy Krat Supply Box",
+    "type": "toggle",
+    "img": "images/items/function/krat_supply_box.png",
+    "img_mods": "",
+    "codes": "sturdy_supply_box"
+  },
+  {
+    "name": "Special Krat Supply Box",
+    "type": "toggle",
+    "img": "images/items/function/krat_supply_box.png",
+    "img_mods": "",
+    "codes": "special_supply_box"
+  },
+  {
+    "name": "Enigma Assembly Tool",
+    "type": "toggle",
+    "img": "images/items/function/enigma_assembly_tool.png",
+    "img_mods": "",
+    "codes": "enigma_assembly_tool"
+  }
+]

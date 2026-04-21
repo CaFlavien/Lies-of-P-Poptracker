@@ -1,0 +1,253 @@
+{
+  "maps": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Ch01",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "KCS",
+              "content": { "type": "map", "maps": ["Krat Central Station"] }
+            },
+            {
+              "title": "KCSP",
+              "content": {
+                "type": "map",
+                "maps": ["Krat Central Station Plaza"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch02",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "EB",
+              "content": { "type": "map", "maps": ["Elysion Boulevard"] }
+            },
+            {
+              "title": "EB: Alchemist Bridge",
+              "content": {
+                "type": "map",
+                "maps": ["Elysion Boulevard Alchemist Bridge"]
+              }
+            },
+            {
+              "title": "KCH",
+              "content": {
+                "type": "map",
+                "maps": ["Krat City Hall"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch03",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "WUE",
+              "content": { "type": "map", "maps": ["Workshop Union Entrance"] }
+            },
+            {
+              "title": "VW",
+              "content": { "type": "map", "maps": ["Venigni's Workshop"] }
+            },
+            {
+              "title": "VW - Culvert",
+              "content": { "type": "map", "maps": ["Workshop Union Culvert"] }
+            },
+            {
+              "title": "VW - Control Room",
+              "content": {
+                "type": "map",
+                "maps": ["Venigni Works Control Room"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch04",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "MT",
+              "content": { "type": "map", "maps": ["MoonLight Town"] }
+            },
+            {
+              "title": "POM",
+              "content": { "type": "map", "maps": ["Path of Misery"] }
+            },
+            {
+              "title": "SFCC",
+              "content": {
+                "type": "map",
+                "maps": ["St. Frangelico Cathedral Chapel"]
+              }
+            },
+            {
+              "title": "SFCC - Library",
+              "content": {
+                "type": "map",
+                "maps": ["St. Frangelico Cathedral Library"]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch05",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "POTP",
+              "content": { "type": "map", "maps": ["Path of the Pilgrim"] }
+            },
+            {
+              "title": "MD",
+              "content": { "type": "map", "maps": ["Malum District"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch06",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "RIS",
+              "content": { "type": "map", "maps": ["Rosa Isabelle Street"] }
+            },
+            {
+              "title": "EOH",
+              "content": { "type": "map", "maps": ["Estella Opera House"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch07",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "LA",
+              "content": { "type": "map", "maps": ["Lorenzini Arcade"] }
+            },
+            {
+              "title": "GE",
+              "content": { "type": "map", "maps": ["Grand Exhibition"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch08",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "BS",
+              "content": { "type": "map", "maps": ["Barren Swamp"] }
+            },
+            {
+              "title": "HS",
+              "content": { "type": "map", "maps": ["Hermit Cave"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch09",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "KCS2",
+              "content": { "type": "map", "maps": ["Krat Central Station Return"] }
+            },
+            {
+              "title": "CK",
+              "content": { "type": "map", "maps": ["Collapsing Krat"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch10",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "ROT",
+              "content": { "type": "map", "maps": ["Relic of Trismegistus"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Ch11",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "BS",
+              "content": { "type": "map", "maps": ["Black Seaside"] }
+            },
+            {
+              "title": "AAE",
+              "content": { "type": "map", "maps": ["Arche Abbey Entrance"] }
+            },
+            {
+              "title": "AAOW",
+              "content": { "type": "map", "maps": ["Arche Abbey Lower Outer Wall"] }
+            },
+            {
+              "title": "AAU",
+              "content": { "type": "map", "maps": ["Arche Abbey Upper Outer Wall"] }
+            },
+                        {
+              "title": "AAI",
+              "content": { "type": "map", "maps": ["Arche Abbey Inside"] }
+            },
+            {
+              "title": "AAP",
+              "content": { "type": "map", "maps": ["Arche Abbey Passageway"] }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Hotel Krat",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Entrance",
+              "content": { "type": "map", "maps": ["Hotel Krat - Entrance"] }
+            },
+            {
+              "title": "Main Floor",
+              "content": { "type": "map", "maps": ["Hotel Krat - Main Floor"] }
+            },
+            {
+              "title": "Upper Floor",
+              "content": { "type": "map", "maps": ["Hotel Krat - Upper Floor"] }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

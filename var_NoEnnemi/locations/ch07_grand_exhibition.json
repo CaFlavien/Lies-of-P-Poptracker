@@ -1,0 +1,405 @@
+[
+  {
+    "name": "Grand Exhibition",
+    "children": [
+        {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/on staircase"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1216, "y": 2566 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/near lamp"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1581, "y": 2940 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/tree"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1774, "y": 2842 }
+        ]
+      },
+      {
+        "name": "LADA Shock Cartridge",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/Elite Puppet drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1711, "y": 2210 }
+        ]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/bench"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1782, "y": 2124 }
+        ]
+      },
+      {
+        "name": "Legion Magazine",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/before tram"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 2021, "y": 2125 }
+        ]
+      },
+      {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/red box before big door"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1375, "y": 2078 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/dead-end behind curtains"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1225, "y": 1800 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/counter"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 938, "y": 1849 }
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/second dead-end behind curtains"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 738, "y": 1978 }
+        ]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/small stage"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 656, "y": 1924 }
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/blue Grand Exhibition sign"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 887, "y": 2016 }
+        ]
+      },
+      {
+        "name": "Technique Crank",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/Purple Butterfly drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 850, "y": 2170 }
+        ]
+      },
+      {
+        "name": "Strength Amulet",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/Puppet Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1051, "y": 2272 }
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/chest outside"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 835, "y": 2324 }
+        ]
+      },
+      {
+        "name": "Acid Canister",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/metal beam item"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 659, "y": 2263 }
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/metal beam"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 316, "y": 2395 }
+        ]
+      },
+      {
+        "name": "Acid Abrasive",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/next to shortcut"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 901, "y": 1787 }
+        ]
+      },
+      {
+        "name": "Resurrection! Champion Victor has returned!",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/by wooden crates"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1000, "y": 1680 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/near wooden crates"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1079, "y": 1569 }
+        ]
+      },
+      {
+        "name": "Legion Caliber",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/chest by wooden crates"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1041, "y": 1709 }
+        ]
+      },
+      {
+        "name": "Shot Put",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/jumpscare"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 848, "y": 1706 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/inside train"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 674, "y": 1117 }
+        ]
+      },
+      {
+        "name": "Sharp Pipe",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/tank"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 675, "y": 1332 }
+        ]
+      },
+      {
+        "name": "Order of Kroud Report",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/ledge above train"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 717, "y": 1020 }
+        ]
+      },
+      {
+        "name": "Legion Plug",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/chest above train"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 797, "y": 933 }
+        ]
+      },
+      {
+        "name": "Legion Caliber",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/mini Victor Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 923, "y": 1377 }
+        ]
+      },
+      {
+        "name": "Sturdy Krat Supply Box",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/chest near Victor"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1369, "y": 1513 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/left platform (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1291, "y": 1759 }
+        ]
+      },
+      {
+        "name": "Venigni's Urgent Repair Tool",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/right platform"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1477, "y": 1660 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/left platform (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1291, "y": 1656 }
+        ]
+      },
+      {
+        "name": "Chain",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/left platform (3)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1291, "y": 1558 }
+        ]
+      },
+      {
+        "name": "Crumpled Baptist's Doodle",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/before Victor"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1417, "y": 1240 }
+        ]
+      },
+      {
+        "name": "Saintess of Mercy Statue Gallery Key",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/received by resting at a stargazer after Victor is killed"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1403, "y": 806 }
+        ]
+      },
+      {
+        "name": "Reborn Champion's Ergo",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/Champion Victor drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 1403, "y": 709 }
+        ]
+      },
+      {
+        "name": "So Said Pistris I",
+        "sections": [
+          {
+            "ref": "Grand Exhibition - Locations/behind Saintless of Mercy Statue"
+          }
+        ],
+        "map_locations": [
+          { "map": "Grand Exhibition", "x": 976, "y": 747 }
+        ]
+      }
+
+
+    ]
+}
+]

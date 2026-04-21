@@ -1,176 +1,184 @@
 [
-  {
-    "name": "Krat Central Station Return - Locations",
-    "access_rules": ["boss_green_monster"],
-    "sections": [
-      {
-        "name": "dead-end in decay sewer",
-        "access_rules": []
-      },
-      {
-        "name": "behind green pillar",
-        "access_rules": []
-      },
-      {
-        "name": "corner by some crates",
-        "access_rules": []
-      },
-      {
-        "name": "in decay smoke (1)",
-        "access_rules": []
-      },
-      {
-        "name": "in decay smoke (2)",
-        "access_rules": []
-      },
-      {
-        "name": "chest in decay smoke",
-        "access_rules": []
-      },
-      {
-        "name": "bloodstain",
-        "access_rules": []
-      },
-      {
-        "name": "inside train",
-        "access_rules": []
-      },
-      {
-        "name": "in decay smoke after train (1)",
-        "access_rules": []
-      },
-      {
-        "name": "in decay smoke after train (2)",
-        "access_rules": []
-      },
-      {
-        "name": "near first shortcut",
-        "access_rules": []
-      },
-      {
-        "name": "small decay puddle infront of train",
-        "access_rules": []
-      },
-      {
-        "name": "in decay smoke infront of trains (1)",
-        "access_rules": []
-      },
-      {
-        "name": "in decay smoke infront of trains (2)",
-        "access_rules": []
-      },
-      {
-        "name": "in decay smoke infront of trains (3)",
-        "access_rules": []
-      },
-      {
-        "name": "Carcass Elite drop",
-        "access_rules": []
-      },
-      {
-        "name": "on corpse",
-        "access_rules": []
-      },
-      {
-        "name": "bench",
-        "access_rules": []
-      },
-      {
-        "name": "dead-end area with crawling puppets",
-        "access_rules": []
-      },
-      {
-        "name": "chest in dead-end area with crawling puppets",
-        "access_rules": []
-      },
-      {
-        "name": "under staircase",
-        "access_rules": []
-      },
-      {
-        "name": "under hole in roof",
-        "access_rules": []
-      },
-      {
-        "name": "near hole in roof",
-        "access_rules": []
-      },
-      {
-        "name": "Robber Weasel's Mask",
-        "access_rules": []
-      },
-      {
-        "name": "Robber Weasel's Hunting Apparel",
-        "access_rules": []
-      },
-      {
-        "name": "small room with train info board",
-        "access_rules": []
-      },
-      {
-        "name": "small room near bar",
-        "access_rules": []
-      },
-      {
-        "name": "Orange Butterfly drop",
-        "access_rules": []
-      },
-      {
-        "name": "near a doorway",
-        "access_rules": []
-      },
-      {
-        "name": "bathroom",
-        "access_rules": []
-      },
-      {
-        "name": "Workshop Master's Workwear",
-        "access_rules": ["key_trinity:4"]
-      },
-      {
-        "name": "Carrier's Amulet +1",
-        "access_rules": ["key_trinity:4"]
-      },
-      {
-        "name": "in the courtyard",
-        "access_rules": []
-      },
-      {
-        "name": "on a corpse",
-        "access_rules": []
-      },
-      {
-        "name": "next to wagon (1)",
-        "access_rules": []
-      },
-      {
-        "name": "next to wagon (2)",
-        "access_rules": []
-      },
-      {
-        "name": "on hand of fallen statue",
-        "access_rules": []
-      },
-      {
-        "name": "chest in courtyard",
-        "access_rules": []
-      },
-      {
-        "name": "by a window",
-        "access_rules": []
-      },
-      {
-        "name": "on Carcass Elite drop",
-        "access_rules": []
-      },
-      {
-        "name": "small tree at dead-end",
-        "access_rules": []
-      },
-      {
-        "name": "next to merchant",
-        "access_rules": []
-      }
+    {
+      "name": "Krat Central Station Return - Locations",
+      "access_rules": ["boss_green_monster"],
+      "sections": [
+        {
+            "name": "dead-end in decay sewer",
+            "access_rules": []
+        },
+        {
+            "name": "behind green pillar",
+            "access_rules": []
+        },
+        {
+            "name": "corner by some crates",
+            "access_rules": []
+        },
+        {
+            "name": "in decay smoke (1)",
+            "access_rules": []
+        },
+        {
+            "name": "in decay smoke (2)",
+            "access_rules": []
+        },
+        {
+            "name": "chest in decay smoke",
+            "access_rules": []
+        },
+        {
+            "name": "bloodstain",
+            "access_rules": []
+        },
+        {
+            "name": "inside train",
+            "access_rules": []
+        },
+        {
+            "name": "in decay smoke after train (1)",
+            "access_rules": []
+        },
+        {
+            "name": "in decay smoke after train (2)",
+            "access_rules": []
+        },
+        {
+            "name": "near first shortcut",
+            "access_rules": []
+        },
+        {
+            "name": "small decay puddle infront of train",
+            "access_rules": []
+        },
+        {
+            "name": "in decay smoke infront of trains (1)",
+            "access_rules": []
+        },
+        {
+            "name": "in decay smoke infront of trains (2)",
+            "access_rules": []
+        },
+        {
+            "name": "in decay smoke infront of trains (3)",
+            "access_rules": []
+        },
+        {
+            "name": "Carcass Elite drop",
+            "access_rules": []
+        },
+        {
+            "name": "on corpse",
+            "access_rules": []
+        },
+        {
+            "name": "bench",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end area with crawling puppets",
+            "access_rules": []
+        },
+        {
+            "name": "chest in dead-end area with crawling puppets",
+            "access_rules": []
+        },
+        {
+            "name": "under staircase",
+            "access_rules": []
+        },
+        {
+            "name": "under hole in roof",
+            "access_rules": []
+        },
+        {
+            "name": "near hole in roof",
+            "access_rules": []
+        },
+        {
+            "name": "Robber Weasel's Mask",
+            "access_rules": []
+        },
+        {
+            "name": "Robber Weasel's Hunting Apparel",
+            "access_rules": []
+        },
+        {
+            "name": "small room with train info board",
+            "access_rules": []
+        },
+        {
+            "name": "small room near bar",
+            "access_rules": []
+        },
+        {
+            "name": "Orange Butterfly drop",
+            "access_rules": []
+        },
+        {
+            "name": "near a doorway",
+            "access_rules": []
+        },
+        {
+            "name": "bathroom",
+            "access_rules": []
+        },
+        {
+            "name": "Workshop Master's Workwear",
+            "access_rules": ["key_trinity"]
+        },
+        {
+            "name": "Carrier's Amulet +1",
+            "access_rules": ["key_trinity"]
+        },
+        {
+            "name": "in the courtyard",
+            "access_rules": []
+        },
+        {
+            "name": "on a corpse",
+            "access_rules": []
+        },
+        {
+            "name": "next to wagon (1)",
+            "access_rules": []
+        },
+        {
+            "name": "next to wagon (2)",
+            "access_rules": []
+        },
+        {
+            "name": "on hand of fallen statue",
+            "access_rules": []
+        },
+        {
+            "name": "chest in courtyard",
+            "access_rules": []
+        },
+        {
+            "name": "by a window",
+            "access_rules": []
+        },
+        {
+            "name": "on Carcass Elite drop",
+            "access_rules": []
+        },
+        {
+            "name": "small tree at dead-end",
+            "access_rules": []
+        },
+        {
+            "name": "next to merchant",
+            "access_rules": []
+        },
+        {
+            "name": "behind wall when revisiting start",
+            "access_rules": []
+        },
+        {
+            "name": "safe behind wall at train revisit",
+            "access_rules": []
+        }
     ]
   }
 ]

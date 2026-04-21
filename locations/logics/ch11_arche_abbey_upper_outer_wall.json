@@ -1,0 +1,121 @@
+[
+    {
+      "name": "Arche Abbey Upper Outer Wall - Locations",
+      "access_rules": ["boss_black_rabbit_2, key_alchemist_badge"],
+      "sections": [
+        {
+            "name": "small room to left of first big room",
+            "access_rules": []
+        },
+        {
+            "name": "under archway straight from first big room",
+            "access_rules": []
+        },
+        {
+            "name": "small room to left of second big room",
+            "access_rules": []
+        },
+        {
+            "name": "under archway right from second big room",
+            "access_rules": []
+        },
+        {
+            "name": "in front of gate in third big room",
+            "access_rules": []
+        },
+        {
+            "name": "small room to left of third big room",
+            "access_rules": []
+        },
+        {
+            "name": "next to gate that opens in final room",
+            "access_rules": []
+        },
+        {
+            "name": "next to ladder to second level",
+            "access_rules": []
+        },
+        {
+            "name": "after lever to open gate",
+            "access_rules": []
+        },
+        {
+            "name": "chest in dead-end on second level",
+            "access_rules": []
+        },
+        {
+            "name": "after gate",
+            "access_rules": []
+        },
+        {
+            "name": "Puppet Elite drop",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop (1)",
+            "access_rules": []
+        },
+        {
+            "name": "behind boxes next to ladder",
+            "access_rules": []
+        },
+        {
+            "name": "platform on second level",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end off to the side",
+            "access_rules": []
+        },
+        {
+            "name": "wood beam near shortcut ladder",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop (2)",
+            "access_rules": []
+        },
+        {
+            "name": "corner of section of small wood beams",
+            "access_rules": []
+        },
+        {
+            "name": "dead-end behind wall",
+            "access_rules": []
+        },
+        {
+            "name": "chest in lower section",
+            "access_rules": []
+        },
+        {
+            "name": "drop down from upper section",
+            "access_rules": []
+        },
+        {
+            "name": "chest in trap room",
+            "access_rules": []
+        },
+        {
+            "name": "ledge by trap room",
+            "access_rules": []
+        },
+        {
+            "name": "Carcass Elite drop",
+            "access_rules": []
+        },
+        {
+            "name": "before wall the Carcass Elite breaks",
+            "access_rules": []
+        },
+        {
+            "name": "corpse in small room",
+            "access_rules": []
+        },
+        {
+            "name": "Laxasia drop",
+            "access_rules": []
+        }
+
+    ]
+}
+]

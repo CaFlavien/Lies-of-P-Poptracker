@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Path of the Pilgrim",
+    "children": [
+        {
+            "name": "Special Purification Ampoule",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/carcass dog and a bear trap" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 529, "y": 1896 }
+            ]
+          },
+          {
+            "name": "Gemini's Emergency Protection",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/upper ledge near Path of the Pilgrim stargazer" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1272, "y": 1954 }
+            ]
+          },
+          {
+            "name": "Hidden Moonstone",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/barrel fire" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1475, "y": 2027 }
+            ]
+          },
+          {
+            "name": "Acidic Crystal Spear",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/chest with carcass enemy ambush" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1581, "y": 2197 }
+            ]
+          },
+          {
+            "name": "Dim Ergo Fragment",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/barrel fire with a Carcass dog ambush" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1894, "y": 1963 }
+            ]
+          },
+          {
+            "name": "Fire Canister",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/beneath the carcass bear before bear traps" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 2015, "y": 1775 }
+            ]
+          },
+          {
+            "name": "Chain",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/beneath the carcass bear after bear traps" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1720, "y": 1789 }
+            ]
+          },
+          {
+            "name": "Vivid Ergo Fragment",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/beneath the carcass bear on corpse" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1759, "y": 1592 }
+            ]
+          },
+          {
+            "name": "Dark moon Moonstone of the Covenant",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/Purple Butterfly drop" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 2170, "y": 1080 }
+            ]
+          },
+          {
+            "name": "Hidden Moonstone",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/pound left side" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 2023, "y": 1048 }
+            ]
+          },
+          {
+            "name": "Legion magazine",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/pound right side" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 2284, "y": 950 }
+            ]
+          },
+          {
+            "name": "Attribute Resistance Ampoule",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/right shack near entrance" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1730, "y": 985 }
+            ]
+          },
+          {
+            "name": "Dim Ergo Fragment",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/left side near entrance" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1699, "y": 1239 }
+            ]
+          },
+          {
+            "name": "Wanted: Black Rabbit Brotherhood",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/wood beam on roofs" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1455, "y": 1352 }
+            ]
+          },
+          {
+            "name": "Fire Abrasive",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/corpse near a counter" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1373, "y": 1623 }
+            ]
+          },
+          {
+            "name": "Dark moon Moonstone of the Covenant",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/elevator shortcut drop off" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1233, "y": 1624 }
+            ]
+          },
+          {
+            "name": "Scribbles of Slum Resident",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/top of elevator shortcut" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1125, "y": 1709 }
+            ]
+          },
+          {
+            "name": "Slum Shack Key",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/Carcass Elite drop" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1296, "y": 1306 }
+            ]
+          },
+          {
+            "name": "Sharp Pipe",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/corpse near Carcass Elite" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1371, "y": 1359 }
+            ]
+          },
+          {
+            "name": "Belford Superior Corrosion Resistance Converter",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/chest inside slum shack" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1541, "y": 1374 }
+            ]
+          },
+          {
+            "name": "Radiant Ergo Fragment",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/outside robber shack" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1630, "y": 1129 }
+            ]
+          },
+          {
+            "name": "Vivid Ergo Fragment",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/dropdown beneath the bridge" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 684, "y": 1152 }
+            ]
+          },
+          {
+            "name": "Saw Blade",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/beneath the bridge" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 596, "y": 1323 }
+            ]
+          },
+          {
+            "name": "Sweepers Branch Office Newspaper Archives",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/corpse near barrel fire" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 640, "y": 619 }
+            ]
+          },
+          {
+            "name": "Legion Magazine",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/by destructable boxes" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 636, "y": 459 }
+            ]
+          },
+          {
+            "name": "Special Resistance Ampoule",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/up ladder in parkour section" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 585, "y": 380 }
+            ]
+          },
+          {
+            "name": "Dim Ergo Fragment",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/ledge in parkour section" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 601, "y": 296 }
+            ]
+          },
+          {
+            "name": "Robbers' Shack Key",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/given by Slum Resident" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1611, "y": 1074 }
+            ]
+          },
+          {
+            "name": "Star Fragment",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/after Slum Resident's trap" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1662, "y": 949 }
+            ]
+          },
+          {
+            "name": "chest inside Robbers'Shack",
+            "sections": [
+              { "ref": "Path of the Pilgrim - Locations/Life Amulet +1" },
+              { "ref": "Path of the Pilgrim - Locations/Legion Caliber" }
+            ],
+            "map_locations": [
+              { "map": "Path of the Pilgrim", "x": 1604, "y": 1204 }
+            ]
+          }
+    ]
+}
+]  

@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Arche Abbey Entrance",
+    "children": [
+        {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Arche Abbey Entrance - Locations/corpse on ledge"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Entrance", "x": 435, "y": 1198}
+        ]
+      },
+        {
+            "name": "Venigni's Urgent Repair Tool",
+            "sections": [
+            {
+                "ref": "Arche Abbey Entrance - Locations/ledge next to ladder"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Entrance", "x": 427, "y": 1157}
+            ]
+        },
+        {
+            "name": "Star Fragment",
+            "sections": [
+            {
+                "ref": "Arche Abbey Entrance - Locations/wood beam"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Entrance", "x": 359, "y": 1243}
+            ]
+        },
+        {
+            "name": "Special Resistance Ampoule",
+             "sections": [
+            {
+                "ref": "Arche Abbey Entrance - Locations/corner near cannon"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Entrance", "x": 339, "y": 1042}
+            ]
+        },
+        {
+            "name": "Saw Blade",
+             "sections": [
+            {
+                "ref": "Arche Abbey Entrance - Locations/next to cannon"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Entrance", "x": 423, "y": 1101}
+            ]
+        },
+        {
+            "name": "Cluster Grenade",
+             "sections": [
+            {
+                "ref": "Arche Abbey Entrance - Locations/near barricade"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Entrance", "x": 820, "y": 964}
+            ]
+        },
+        {
+            "name": "Veteran's Amulet",
+             "sections": [
+            {
+                "ref": "Arche Abbey Entrance - Locations/chest on bridge"
+            }
+            ],
+            "map_locations": [
+            { "map": "Arche Abbey Entrance", "x": 714, "y": 619}
+            ]
+        }
+
+    ]
+}
+]

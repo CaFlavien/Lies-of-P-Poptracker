@@ -1,0 +1,80 @@
+[
+  {
+    "name": "St. Frangelico Cathedral Chapel - Locations",
+    "access_rules": ["boss_fuoco, key_cable_railway"],
+    "sections": [
+      {
+        "name": "seat infront of organ",
+        "access_rules": []
+      },
+      {
+        "name": "opposite the ladder into the Cathedral",
+        "access_rules": []
+      },
+      {
+        "name": "decay pool at the bottom of the Cathedral",
+        "access_rules": []
+      },
+      {
+        "name": "drop down after some destructable objects",
+        "access_rules": []
+      },
+      {
+        "name": "second drop down after some destructable objects",
+        "access_rules": []
+      },
+      {
+        "name": "small wooden beam",
+        "access_rules": []
+      },
+      {
+        "name": "Dead-end after a Carcass enemy breaks down wall",
+        "access_rules": []
+      },
+      {
+        "name": "up on a wooden catwalk",
+        "access_rules": []
+      },
+      {
+        "name": "near lever to flip the direction of the elevator",
+        "access_rules": []
+      },
+      {
+        "name": "chest after water wheel drop off",
+        "access_rules": []
+      },
+      {
+        "name": "chest after elevator up the cathedral drop off",
+        "access_rules": []
+      },
+      {
+        "name": "chest in a room that is exposed by draining decay pool",
+        "access_rules": []
+      },
+      {
+        "name": "corpse near Shielded Carcass elite",
+        "access_rules": []
+      },
+      {
+        "name": "Shielded Carcass elite enemy drop",
+        "access_rules": []
+      },
+      {
+        "name": "up ladder near Shielded Carcass elite",
+        "access_rules": []
+      },
+      {
+        "name": "chest inside a cell",
+        "access_rules": []
+      },
+      {
+        "name": "Black Cat's Amulet",
+        "access_rules": ["key_trinity"]
+      },
+      {
+        "name": "Moster Sweeper's Hunting Apparel",
+        "access_rules": ["key_trinity"]
+      }
+    ]
+  }
+]

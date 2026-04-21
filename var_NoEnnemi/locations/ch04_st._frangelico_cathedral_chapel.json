@@ -1,0 +1,197 @@
+[
+  {
+    "name": "St. Frangelico Cathedral Chapel",
+    "children": [
+      {
+        "name": "Stained Choir Sheet Music",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/seat infront of organ"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 627, "y": 690 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/opposite the ladder into the Cathedral"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 990, "y": 410 }
+        ]
+      },
+      {
+        "name": "Cat Dust",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/decay pool at the bottom of the Cathedral"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1288, "y": 475 }
+        ]
+      },
+      {
+        "name": "Radiant Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/drop down after some destructable objects"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1789, "y": 757 }
+        ]
+      },
+      {
+        "name": "Hidden Moonstone",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/second drop down after some destructable objects"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1790, "y": 728 }
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/small wooden beam"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 2134, "y": 439 }
+        ]
+      },
+      {
+        "name": "Dim Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/Dead-end after a Carcass enemy breaks down wall"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1993, "y": 1010 }
+        ]
+      },
+      {
+        "name": "Crescent Moonstone",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/up on a wooden catwalk"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1777, "y": 1106 }
+        ]
+      },
+      {
+        "name": "Legion Magazine",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/near lever to flip the direction of the elevator"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1605, "y": 1404 }
+        ]
+      },
+      {
+        "name": "Blind Man's Double-Sided Spear",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/chest after water wheel drop off"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1493, "y": 1136 }
+        ]
+      },
+      {
+        "name": "Crafted Cryptic Vessel",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/chest in a room that is exposed by draining decay pool"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1368, "y": 315 }
+        ]
+      },
+      {
+        "name": "Legion Plug",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/chest after elevator up the cathedral drop off"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 2043, "y": 732 }
+        ]
+      },
+      {
+        "name": "Cat Dust",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/corpse near Shielded Carcass elite"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1676, "y": 1608 }
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/Shielded Carcass elite enemy drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1693, "y": 1565 }
+        ]
+      },
+      {
+        "name": "Vivid Ergo Fragment",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/up ladder near Shielded Carcass elite"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1616, "y": 1455 }
+        ]
+      },
+      {
+        "name": "Krat Supply Box",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/chest inside a cell"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 1518, "y": 1575 }
+        ]
+      },
+      {
+        "name": "Trinity Door Loot",
+        "sections": [
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/Black Cat's Amulet"
+          },
+          {
+            "ref": "St. Frangelico Cathedral Chapel - Locations/Moster Sweeper's Hunting Apparel"
+          }
+        ],
+        "map_locations": [
+          { "map": "St. Frangelico Cathedral Chapel", "x": 2553, "y": 1279 }
+        ]
+      }
+    ]
+  }
+]

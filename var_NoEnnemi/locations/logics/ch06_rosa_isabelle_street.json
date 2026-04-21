@@ -1,0 +1,165 @@
+[
+    {
+      "name": "Rosa Isabelle Street - Locations",
+      "access_rules": ["key_rosa_isabelle,boss_black_rabbit"],
+      "sections": [
+        {
+            "name": "behind destructable objects near staircase",
+            "access_rules": []
+        },
+        {
+            "name": "across from Gaspard Theatre",
+            "access_rules": []
+        },
+        {
+            "name": "downstairs near Old Lady at the Window",
+            "access_rules": []
+        },
+        {
+            "name": "beside Old Lady at the Window",
+            "access_rules": []
+        },
+        {
+            "name": "wagon near Mrs.Potts building",
+            "access_rules": []
+        },
+        {
+            "name": "burning gate and shortcut gate",
+            "access_rules": []
+        },
+        {
+            "name": "before building with exploding puppets",
+            "access_rules": []
+        },
+        {
+            "name": "shortcut ladder with exploading puppets",
+            "access_rules": []
+        },
+        {
+            "name": "bed near baby puppets",
+            "access_rules": []
+        },
+        {
+            "name": "table in room with baby puppets",
+            "access_rules": []
+        },
+        {
+            "name": "safe next to shortcut door",
+            "access_rules": []
+        },
+        {
+            "name": "counter in room with maid puppets",
+            "access_rules": []
+        },
+        {
+            "name": "wagon near the Bar and Grill",
+            "access_rules": []
+        },
+        {
+            "name": "behind overheat throwing puppet",
+            "access_rules": []
+        },
+        {
+            "name": "near White Lady",
+            "access_rules": []
+        },
+        {
+            "name": "The White Lady's Locket",
+            "access_rules": []
+        },
+        {
+            "name": "The White Lady's Mask",
+            "access_rules": []
+        },
+        {
+            "name": "corpse next to a wagon after White Lady",
+            "access_rules": []
+        },
+        {
+            "name": "hidden path behind boxes",
+            "access_rules": []
+        },
+        {
+            "name": "corner near Red Butterfly in small courtyard",
+            "access_rules": []
+        },
+        {
+            "name": "Red Butterfly drop",
+            "access_rules": []
+        },
+        {
+            "name": "behind Red Butterfly",
+            "access_rules": []
+        },
+        {
+            "name": "chest behind shortcut gate",
+            "access_rules": []
+        },
+        {
+            "name": "sewers before drop",
+            "access_rules": []
+        },
+        {
+            "name": "chest in sewers",
+            "access_rules": []
+        },
+        {
+            "name": "shortcut by White Lady",
+            "access_rules": []
+        },
+        {
+            "name": "shortcut to Rosa Isabelle Street Culvert stargazer",
+            "access_rules": []
+        },
+        {
+            "name": "near exploding puppets",
+            "access_rules": []
+        },
+        {
+            "name": "by rifleman puppet",
+            "access_rules": []
+        },
+        {
+            "name": "red boxes",
+            "access_rules": []
+        },
+        {
+            "name": "across bridge",
+            "access_rules": []
+        },
+        {
+            "name": "safe with baby puppets",
+            "access_rules": []
+        },
+        {
+            "name": "bush",
+            "access_rules": []
+        },
+        {
+            "name": "shortcut to Rosa Isabelle Street Entrance stargazer",
+            "access_rules": []
+        },
+        {
+            "name": "wagon near Mad Clown Puppet",
+            "access_rules": []
+        },
+        {
+            "name": "ledge near Mad Clown Puppet",
+            "access_rules": []
+        },
+        {
+            "name": "left side near Mad Clown Puppet",
+            "access_rules": []
+        },
+        {
+            "name": "volunteers wanted sign",
+            "access_rules": []
+        },
+        {
+            "name": "Mad Clown Puppet drop",
+            "access_rules": []
+        }
+
+    ]
+}
+]

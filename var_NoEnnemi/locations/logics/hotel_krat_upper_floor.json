@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Hotel Krat Upper Floor - Locations",
+    "access_rules": ["key_central_station, boss_parade_master"],
+    "sections": [
+      {
+        "name": "from Gepetto after Scrapped Watchman",
+        "access_rules": ["boss_scrapped_watchman"]
+      }
+    ]
+  }
+]

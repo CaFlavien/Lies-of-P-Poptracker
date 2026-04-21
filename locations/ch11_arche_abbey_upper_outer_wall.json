@@ -1,0 +1,315 @@
+[
+  {
+    "name": "Arche Abbey Upper Outer Wall",
+    "children": [
+        {
+        "name": "Dark Moon Moonstone of the Covenant",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/small room to left of first big room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 562, "y": 904}
+        ]
+      },
+      {
+        "name": "Dim Ergo Crystal",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/under archway straight from first big room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 644, "y": 741}
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/small room to left of second big room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1071, "y": 591}
+        ]
+      },
+      {
+        "name": "Fire Abrasive",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/under archway right from second big room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1068, "y": 821}
+        ]
+      },
+      {
+        "name": "Fire Abrasive",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/in front of gate in third big room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1148, "y": 925}
+        ]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/small room to left of third big room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1027, "y": 1075}
+        ]
+      },
+      {
+        "name": "Fable Catalyst",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/next to gate that opens in final room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1286, "y": 888}
+        ]
+      },
+      {
+        "name": "Electric Blitz Canister",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/next to ladder to second level"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1122, "y": 561}
+        ]
+      },
+      {
+        "name": "Star Fragment",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/after lever to open gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 639, "y": 340}
+        ]
+      },
+      {
+        "name": "Mechanical Cryptic Vessel",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/chest in dead-end on second level"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 915, "y": 225}
+        ]
+      },
+      {
+        "name": "Special Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/after gate"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1405, "y": 789}
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/Puppet Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1381, "y": 909}
+        ]
+      },
+      {
+        "name": "Balance Crank",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/Red Butterfly drop (1)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1364, "y": 1178}
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/behind boxes next to ladder"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1302, "y": 1217}
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/platform on second level"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1222, "y": 1083}
+        ]
+      },
+      {
+        "name": "Attribute Resistance Ampoule",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/dead-end off to the side"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 1011, "y": 1166}
+        ]
+      },
+      {
+        "name": "Resplendent Ergo Chunk",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/wood beam near shortcut ladder"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 126, "y": 1245}
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/Red Butterfly drop (2)"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 397, "y": 1164}
+        ]
+      },
+      {
+        "name": "Attribute Purification Ampoule",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/corner of section of small wood beams"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 316, "y": 1124}
+        ]
+      },
+      {
+        "name": "Cluster Grenade",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/dead-end behind wall"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 356, "y": 916}
+        ]
+      },
+      {
+        "name": "Red Fox's Amulet",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/chest in lower section"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 441, "y": 889}
+        ]
+      },
+      {
+        "name": "Half Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/drop down from upper section"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 241, "y": 1107}
+        ]
+      },
+      {
+        "name": "Quartz",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/chest in trap room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 396, "y": 557}
+        ]
+      },
+      {
+        "name": "Full Moonstone",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/ledge by trap room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 263, "y": 733}
+        ]
+      },
+      {
+        "name": "Legion Caliber",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/Carcass Elite drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 99, "y": 552}
+        ]
+      },
+      {
+        "name": "Saw Blade",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/before wall the Carcass Elite breaks"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 135, "y": 538}
+        ]
+      },
+      {
+        "name": "Carcass Body Fluid Bottle",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/corpse in small room"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 179, "y": 148}
+        ]
+      },
+      {
+        "name": "Sad Zealot's Ergo",
+        "sections": [
+          {
+            "ref": "Arche Abbey Upper Outer Wall - Locations/Laxasia drop"
+          }
+        ],
+        "map_locations": [
+          { "map": "Arche Abbey Upper Outer Wall", "x": 558, "y": 212}
+        ]
+      }
+    ]
+}
+]
